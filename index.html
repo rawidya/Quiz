@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Interaktif</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header / tombol tema -->
+  <header class="header">
+    <div class="brand">Param<span class="accent"></span></div>
+    <button id="theme-toggle" title="Ganti mode gelap/putih">☀/☾</button>
+  </header>
+
+  <!-- ================= 1. WELCOME ================= -->
+  <section id="page-welcome" class="page active">
+    <div class="container welcome">
+      <img src="foto.jpg" alt="Foto profil" class="welcome-photo">
+      <h1>Halo halo wonderyhoy<span class="accent"></span></h1>
+      <p>kuis aseli by lks tapi kalau ada yang salah ngomong ya.</p>
+      <button class="btn btn-primary" id="btn-mulai">Mulai</button>
+    </div>
+  </section>
+
+  <!-- ================= 2. PILIHAN MAPEL ================= -->
+  <section id="page-mapel" class="page">
+    <div class="container panel">
+      <div class="section-title">Pilih <span class="accent">Mata Pelajaran</span></div>
+      <div class="section-sub">Pilih salah satu mata pelajaran, kemudian tentukan jumlah soal.</div>
+
+      <div class="mapel-grid" id="mapel-grid">
+        <button class="mapel-card" data-subject="pp">
+          <span class="emoji">🏛</span>
+          <span class="label">PP</span>
+          <span class="sub">Pendidikan Pancasila</span>
+        </button>
+        <button class="mapel-card" data-subject="bing">
+          <span class="emoji">🇬🇧</span>
+          <span class="label">BING</span>
+          <span class="sub">Bahasa Inggris</span>
+        </button>
+        <button class="mapel-card" data-subject="bin">
+          <span class="emoji">🇮🇩</span>
+          <span class="label">BIN</span>
+          <span class="sub">Bahasa Indonesia</span>
+        </button>
+        <button class="mapel-card" data-subject="agama">
+          <span class="emoji">☪</span>
+          <span class="label">AGAMA</span>
+          <span class="sub">PAI / Agama</span>
+        </button>
+        <button class="mapel-card" data-subject="mtk">
+          <span class="emoji">🔢</span>
+          <span class="label">MTK</span>
+          <span class="sub">Matematika</span>
+        </button>
+      </div>
+
+      <div class="jumlah-hint hidden" id="jumlah-hint">
+        Mapel terpilih: <span id="pilihan-subject" class="accent"></span>
+      </div>
+
+      <div class="chip-group hidden" id="chip-group">
+        <button class="chip" data-count="10">10 Soal</button>
+        <button class="chip" data-count="20">20 Soal</button>
+        <button class="chip" data-count="30">30 Soal</button>
+        <button class="chip" data-count="40">40 Soal</button>
+      </div>
+
+      <button class="btn btn-primary hidden" id="btn-mulai-quiz" style="margin-top:18px;">Mulai Kuis</button>
+    </div>
+  </section>
+
+  <!-- ================= 3. QUIZ ================= -->
+  <section id="page-quiz" class="page">
+    <div class="container">
+      <div class="quiz-header">
+        <div class="q-num">Soal <span id="q-current">1</span></div>
+        <div class="q-total">dari <span id="q-total">1</span></div>
+      </div>
+
+      <div class="progress-wrap">
+        <div class="progress-label">
+          <span>Progres</span>
+          <span id="progress-pct">0%</span>
+        </div>
+        <div class="progress-track">
+          <div class="progress-fill" id="progress-fill"></div>
+        </div>
+      </div>
+
+      <div class="question-chips">
+        <button type="button" class="toggle-chips" id="btn-toggle-chips" aria-expanded="false">
+          Lompat soal <span id="chips-count" style="opacity:0.7"></span>
+        </button>
+        <div class="chips-wrap hidden" id="chips-wrap">
+          <span class="chip-label">Pilih soal</span>
+          <div class="chips" id="chips"></div>
+        </div>
+      </div>
+
+      <div class="question-text" id="question-text">Pertanyaan akan muncul di sini.</div>
+
+      <div class="options" id="options">
+        <!-- opsi diinject via JS -->
+      </div>
+
+      <div class="feedback" id="feedback">
+        <span id="feedback-text"></span>
+        <span class="explanation" id="feedback-expl"></span>
+      </div>
+
+    </div>
+
+    <nav class="nav-bottom">
+      <button class="btn btn-ghost" id="btn-prev">Sebelumnya</button>
+      <button class="btn btn-primary" id="btn-next">Selanjutnya</button>
+    </nav>
+  </section>
+
+  <!-- ================= 4. HASIL ================= -->
+  <section id="page-hasil" class="page">
+    <div class="container hasil">
+      <div class="badge-score">
+        <span id="hasil-score">0</span> / <span id="hasil-total">0</span>
+      </div>
+      <div class="hasil-pct" id="hasil-pct">0%</div>
+
+      <div class="wrong-list" id="wrong-list">
+        <!-- daftar soal salah diinject via JS -->
+      </div>
+
+      <div class="btn-group">
+        <button class="btn btn-primary" id="btn-ulangi">Ulangi Quiz</button>
+        <button class="btn btn-ghost" id="btn-kembali">Kembali ke Beranda</button>
+      </div>
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+  <footer>By Param Love Andin</footer>
+</body>
+</html>

@@ -1,0 +1,769 @@
+/* ==========================================================
+   Quiz Interaktif — Minimalis Profesional (Dark Mode)
+   Tanpa animasi sama sekali (no transition / animation / keyframes)
+   Aksen emas/kuning. Card-based. Responsif.
+   ========================================================== */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: auto;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #070707;
+  color: #e8e8e8;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.5;
+  min-height: 100vh;
+}
+
+/* ---------- Tema ---------- */
+body.light {
+  background: #f7f7f5;
+  color: #1a1a1a;
+}
+body.light .card,
+body.light .panel {
+  background: #ffffff;
+  border-color: #e0e0e0;
+  color: #1a1a1a;
+}
+body.light .muted {
+  color: #666666;
+}
+body.light .btn-ghost {
+  border-color: #c9c9c9;
+  color: #1a1a1a;
+}
+body.light .btn-ghost:hover {
+  background: #f0f0f0;
+}
+body.light .chip {
+  border-color: #c9c9c9;
+  color: #1a1a1a;
+}
+body.light .chip.active {
+  background: #1a1a1a;
+  color: #ffffff;
+}
+body.light .option {
+  background: #f7f7f5;
+  border-color: #d9d9d9;
+  color: #1a1a1a;
+}
+body.light .option.correct {
+  background: #e7f4e7;
+  border-color: #2e7d32;
+  color: #1b5e20;
+}
+body.light .option.wrong {
+  background: #fdecea;
+  border-color: #b71c1c;
+  color: #b71c1c;
+}
+body.light #theme-toggle {
+  color: #1a1a1a;
+}
+body.light #theme-toggle::after {
+  border-color: #1a1a1a;
+}
+body.light .nav-bottom {
+  border-top-color: #e0e0e0;
+}
+body.light .progress-track {
+  background: #e0e0e0;
+}
+
+/* ---------- Layout ---------- */
+.page {
+  display: none;
+  min-height: 100vh;
+  padding: 24px 16px 104px 16px; /* 72 = nav-bottom, +32 = footer di bawahnya */
+}
+.page.active {
+  display: block;
+}
+
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+/* ---------- Header / tema toggle ---------- */
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  z-index: 50;
+  border-bottom: 1px solid #1a1a1a;
+  background: rgba(7, 7, 7, 0.6);
+}
+body.light .header {
+  border-bottom-color: #e0e0e0;
+  background: rgba(247, 247, 245, 0.8);
+}
+.header .brand {
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  font-size: 17px;
+}
+.header .brand .accent {
+  color: #d4af37;
+}
+
+#theme-toggle {
+  width: 32px;
+  height: 32px;
+  border: 1px solid #d4af37;
+  border-radius: 50%;
+  background: transparent;
+  color: #d4af37;
+  cursor: pointer;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  line-height: 1;
+}
+body.light #theme-toggle {
+  border-color: #1a1a1a;
+  color: #1a1a1a;
+}
+
+/* ---------- Welcome ---------- */
+.welcome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-top: 110px;
+}
+.welcome-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #d4af37;
+  background: #1a1a1a;
+  margin-bottom: 28px;
+  display: block;
+}
+body.light .welcome-photo {
+  border-color: #d4af37;
+  background: #ffffff;
+}
+.welcome h1 {
+  font-size: 42px;
+  font-weight: 800;
+  margin: 0 0 10px 0;
+  letter-spacing: -1px;
+}
+.welcome h1 .accent {
+  color: #d4af37;
+}
+.welcome p {
+  color: #9aa3ad;
+  font-size: 16px;
+  margin: 0 0 30px 0;
+  max-width: 420px;
+}
+body.light .welcome p {
+  color: #555555;
+}
+
+/* ---------- Card / panel ---------- */
+.card {
+  background: #0f0f0f;
+  border: 1px solid #1f1f1f;
+  border-radius: 20px;
+  padding: 26px;
+  margin: 0 0 16px 0;
+  color: #e8e8e8;
+}
+body.light .card {
+  background: #ffffff;
+  border-color: #e0e0e0;
+  color: #1a1a1a;
+}
+.panel {
+  background: #0f0f0f;
+  border: 1px solid #1f1f1f;
+  border-radius: 20px;
+  padding: 26px;
+  color: #e8e8e8;
+}
+body.light .panel {
+  background: #ffffff;
+  border-color: #e0e0e0;
+  color: #1a1a1a;
+}
+
+.section-title {
+  font-size: 26px;
+  font-weight: 800;
+  margin: 0 0 6px 0;
+  letter-spacing: -0.5px;
+}
+.section-title .accent {
+  color: #d4af37;
+}
+.section-sub {
+  color: #9aa3ad;
+  font-size: 15px;
+  margin: 0 0 24px 0;
+}
+body.light .section-sub {
+  color: #666666;
+}
+
+.muted {
+  color: #9aa3ad;
+  font-size: 14px;
+}
+body.light .muted {
+  color: #666666;
+}
+
+/* ---------- Mapel cards ---------- */
+.mapel-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 14px;
+  margin: 10px 0 28px 0;
+}
+.mapel-card {
+  background: #0f0f0f;
+  border: 1px solid #1f1f1f;
+  border-radius: 18px;
+  padding: 20px 16px;
+  text-align: center;
+  cursor: pointer;
+  color: #e8e8e8;
+  text-decoration: none;
+  display: block;
+}
+body.light .mapel-card {
+  background: #ffffff;
+  border-color: #e0e0e0;
+  color: #1a1a1a;
+}
+.mapel-card.selected {
+  border-color: #d4af37;
+  background: #141414;
+}
+body.light .mapel-card.selected {
+  border-color: #d4af37;
+  background: #faf9f4;
+}
+.mapel-card .label {
+  font-size: 17px;
+  font-weight: 700;
+  margin-top: 10px;
+  display: block;
+}
+.mapel-card .sub {
+  font-size: 12px;
+  color: #9aa3ad;
+  margin-top: 4px;
+  display: block;
+}
+body.light .mapel-card .sub {
+  color: #888888;
+}
+
+/* Jumlah soal chips */
+.jumlah-hint {
+  margin-top: 6px;
+  color: #9aa3ad;
+  font-size: 14px;
+}
+body.light .jumlah-hint {
+  color: #888888;
+}
+.chip-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 16px 0 0 0;
+}
+.chip {
+  border: 1px solid #2a2a2a;
+  border-radius: 1000px;
+  padding: 10px 18px;
+  font-size: 15px;
+  font-weight: 700;
+  background: transparent;
+  color: #d4af37;
+  cursor: pointer;
+}
+body.light .chip {
+  border-color: #c9c9c9;
+  color: #b08a1e;
+}
+.chip.active {
+  background: #d4af37;
+  color: #070707;
+  border-color: #d4af37;
+}
+body.light .chip.active {
+  background: #b08a1e;
+  color: #ffffff;
+}
+
+/* Chip soal yang sudah dijawab: hijau benar, merah salah */
+.chip.correct {
+  background: #2e7d32;
+  color: #ffffff;
+  border-color: #2e7d32;
+}
+.chip.wrong {
+  background: #b71c1c;
+  color: #ffffff;
+  border-color: #b71c1c;
+}
+body.light .chip.correct {
+  background: #1b5e20;
+  color: #ffffff;
+  border-color: #1b5e20;
+}
+body.light .chip.wrong {
+  background: #b71c1c;
+  color: #ffffff;
+  border-color: #b71c1c;
+}
+
+/* Toggle menu lompat soal */
+.toggle-chips {
+  width: 100%;
+  text-align: left;
+  background: transparent;
+  border: 1px solid #2a2a2a;
+  border-radius: 12px;
+  padding: 12px 16px;
+  color: #e8e8e8;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 0 10px 0;
+}
+body.light .toggle-chips {
+  border-color: #c9c9c9;
+  color: #1a1a1a;
+  background: #f7f7f5;
+}
+.toggle-chips[aria-expanded="true"] {
+  border-color: #d4af37;
+  color: #d4af37;
+}
+body.light .toggle-chips[aria-expanded="true"] {
+  border-color: #b08a1e;
+  color: #b08a1e;
+}
+.chips-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 6px;
+}
+.chips-wrap.hidden {
+  display: none;
+}
+.chips-wrap .chip-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: #9aa3ad;
+  margin: 0;
+}
+body.light .chips-wrap .chip-label {
+  color: #888888;
+}
+
+/* ---------- Quiz ---------- */
+.quiz-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6px;
+}
+.q-num {
+  font-size: 13px;
+  font-weight: 700;
+  color: #d4af37;
+}
+.q-total {
+  font-size: 13px;
+  color: #9aa3ad;
+}
+body.light .q-total {
+  color: #888888;
+}
+
+.question-text {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 6px 0 22px 0;
+  line-height: 1.45;
+}
+
+.options {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+@media (max-width: 480px) {
+  .options {
+    grid-template-columns: 1fr;
+  }
+}
+.option {
+  background: #0f0f0f;
+  border: 1px solid #262626;
+  border-radius: 14px;
+  padding: 14px 16px;
+  text-align: left;
+  cursor: pointer;
+  color: #e8e8e8;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+body.light .option {
+  background: #f7f7f5;
+  border-color: #d9d9d9;
+  color: #1a1a1a;
+}
+.option .letter {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: 1px solid #2a2a2a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 14px;
+  flex-shrink: 0;
+}
+body.light .option .letter {
+  border-color: #b9b9b9;
+}
+.option.selected .letter {
+  background: #d4af37;
+  border-color: #d4af37;
+  color: #070707;
+}
+body.light .option.selected .letter {
+  background: #b08a1e;
+  border-color: #b08a1e;
+  color: #ffffff;
+}
+
+.feedback {
+  margin-top: 16px;
+  padding: 14px 16px;
+  border-radius: 14px;
+  font-size: 15px;
+  font-weight: 700;
+  display: none;
+}
+.feedback.show {
+  display: block;
+}
+.feedback.correct {
+  background: #14331c;
+  border: 1px solid #2e7d32;
+  color: #6fcf89;
+}
+body.light .feedback.correct {
+  background: #e7f4e7;
+  border-color: #2e7d32;
+  color: #1b5e20;
+}
+.feedback.wrong {
+  background: #3b1818;
+  border: 1px solid #b71c1c;
+  color: #f5a7a7;
+}
+body.light .feedback.wrong {
+  background: #fdecea;
+  border-color: #b71c1c;
+  color: #b71c1c;
+}
+.explanation {
+  margin-top: 8px;
+  font-weight: 400;
+  font-size: 14px;
+  color: #c2c6cc;
+  display: block;
+}
+body.light .explanation {
+  color: #666666;
+}
+
+/* ---------- Progress ---------- */
+.progress-wrap {
+  margin: 24px 0 10px 0;
+}
+.progress-label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  font-weight: 700;
+  color: #9aa3ad;
+  margin-bottom: 6px;
+}
+body.light .progress-label {
+  color: #888888;
+}
+.progress-track {
+  height: 6px;
+  background: #1a1a1a;
+  border-radius: 1000px;
+  overflow: hidden;
+}
+body.light .progress-track {
+  background: #e0e0e0;
+}
+.progress-fill {
+  height: 100%;
+  background: #d4af37;
+  width: 0%;
+}
+
+/* ---------- Chips nomor soal ---------- */
+.question-chips {
+  margin: 20px 0 0 0;
+  padding-top: 16px;
+  border-top: 1px solid #1a1a1a;
+}
+body.light .question-chips {
+  border-top-color: #e0e0e0;
+}
+.question-chips .chip-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: #9aa3ad;
+  margin-bottom: 8px;
+  display: block;
+}
+body.light .question-chips .chip-label {
+  color: #888888;
+}
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+/* ---------- Tombol navigasi ---------- */
+.nav-bottom {
+  position: fixed;
+  bottom: 32px;            /* di atas footer (tinggi 32px) */
+  left: 0;
+  right: 0;
+  height: 72px;
+  border-top: 1px solid #1a1a1a;
+  background: #070707;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 60;
+}
+body.light .nav-bottom {
+  border-top-color: #e0e0e0;
+  background: #f7f7f5;
+}
+.btn {
+  border: none;
+  border-radius: 12px;
+  padding: 10px 20px;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.btn-primary {
+  background: #d4af37;
+  color: #070707;
+}
+.btn-primary:hover {
+  background: #f5c542;
+}
+.btn-ghost {
+  background: transparent;
+  border: 1px solid #2a2a2a;
+  color: #e8e8e8;
+}
+.btn-ghost:hover {
+  border-color: #d4af37;
+  color: #d4af37;
+}
+body.light .btn-ghost {
+  border-color: #c9c9c9;
+  color: #1a1a1a;
+}
+body.light .btn-ghost:hover {
+  border-color: #b08a1e;
+  color: #b08a1e;
+}
+
+/* ---------- Hasil ---------- */
+.hasil {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding-top: 90px;
+}
+.badge-score {
+  font-size: 64px;
+  font-weight: 900;
+  line-height: 1;
+  margin: 14px 0 6px 0;
+}
+.badge-score .accent {
+  color: #d4af37;
+}
+.hasil-pct {
+  font-size: 20px;
+  color: #9aa3ad;
+  margin-bottom: 24px;
+}
+body.light .hasil-pct {
+  color: #666666;
+}
+.hasil .btn-group {
+  display: flex;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+/* Wrong answer list */
+.wrong-list {
+  margin-top: 30px;
+  border-top: 1px solid #1a1a1a;
+  padding-top: 20px;
+}
+body.light .wrong-list {
+  border-top-color: #e0e0e0;
+}
+.wrong-item {
+  background: #0f0f0f;
+  border: 1px solid #1f1f1f;
+  border-radius: 16px;
+  padding: 16px;
+  margin: 0 0 12px 0;
+  text-align: left;
+}
+body.light .wrong-item {
+  background: #ffffff;
+  border-color: #e0e0e0;
+}
+.wrong-item .q {
+  font-weight: 800;
+  font-size: 15px;
+  margin-bottom: 6px;
+  color: #f5c542;
+}
+body.light .wrong-item .q {
+  color: #b08a1e;
+}
+.wrong-item .your-ans {
+  font-size: 13px;
+  color: #ef6c6c;
+  margin-bottom: 4px;
+}
+body.light .wrong-item .your-ans {
+  color: #c0392b;
+}
+.wrong-item .correct-ans {
+  font-size: 13px;
+  color: #6fcf89;
+  margin-bottom: 4px;
+}
+body.light .wrong-item .correct-ans {
+  color: #1b5e20;
+}
+.wrong-item .expl {
+  font-size: 13px;
+  color: #c2c6cc;
+  margin-top: 6px;
+}
+body.light .wrong-item .expl {
+  color: #666666;
+}
+
+/* ---------- Responsif ---------- */
+@media (max-width: 480px) {
+  .welcome h1 { font-size: 32px; }
+  .page { padding: 20px 14px 90px 14px; } /* 64 = nav-bottom, +26 = footer */
+  .header { padding: 0 14px; height: 50px; }
+  .nav-bottom {
+    bottom: 26px;            /* di atas footer mobile (tinggi 26px) */
+    height: 64px;
+    padding: 0 14px;
+  }
+  .card, .panel { padding: 20px 18px; border-radius: 16px; }
+  .options { gap: 10px; }
+  .option { padding: 13px 14px; font-size: 14px; }
+  .mapel-grid { grid-template-columns: 1fr; }
+}
+
+/* Utility */
+.accent { color: #d4af37; }
+.hidden { display: none !important; }
+
+/* ---------- Footer di tepi paling bawah layar, tidak tumpang tindih nav ---------- */
+footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 55;
+  padding: 0;
+  font-size: 13px;
+  color: #9aa3ad;
+  background: #070707;
+  border-top: 1px solid #1a1a1a;
+}
+body.light footer {
+  background: #f7f7f5;
+  color: #666666;
+  border-top-color: #e0e0e0;
+}
+@media (max-width: 480px) {
+  footer {
+    bottom: 0;
+    height: 26px;
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,2001 @@
+{
+  "pp": [
+    {
+      "id": "pp-1",
+      "question": "Musyawarah menjadi salah satu cara penyelesaian masalah yang lebih banyak dipilih masyarakat karena bersifat kekeluargaan. Salah satu perilaku yang tidak dibenarkan dalam musyawarah adalah",
+      "options": {
+        "A": "melakukan aksi *walk out* ketika terjadi kericuhan",
+        "B": "menyetujui pendapat teman yang sesuai dengan idenya",
+        "C": "siap melaksanakan apa pun hasil musyawarah",
+        "D": "tidak mengungkapkan pendapat"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. melakukan aksi *walk out* ketika terjadi kericuhan"
+    },
+    {
+      "id": "pp-2",
+      "question": "Sesuai sila pertama Pancasila, bangsa Indonesia adalah bangsa yang bertuhan. Kita wajib percaya keberadaan Tuhan dan diwujudkan dengan melaksanakan ajarannya dengan benar. Cara perwujudan sila ini yang paling tepat adalah",
+      "options": {
+        "A": "beribadah sesuai agamanya secara bebas",
+        "B": "melaksanakan ajaran agamanya dengan tetap memperhatikan kepentingan pemeluk agama lain",
+        "C": "beribadah tanpa memedulikan pemeluk agama lain",
+        "D": "mempelajari agama lain untuk mengetahui kelebihan dan kekurangan masing-masing"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. melaksanakan ajaran agamanya dengan tetap memperhatikan kepentingan pemeluk agama lain"
+    },
+    {
+      "id": "pp-3",
+      "question": "Intoleransi merupakan salah satu tantangan yang kita hadapi di era globalisasi. Berikut salah satu cara untuk menghindari sikap intoleransi adalah",
+      "options": {
+        "A": "meningkatkan pemahaman bahwa semua orang sama dan sederajat",
+        "B": "menuntut pemerintah meratakan kesejahteraan masyarakat agar tidak ada kesenjangan yang mencolok",
+        "C": "menyatukan perbedaan dalam masyarakat",
+        "D": "sikap mengalah oleh pihak minoritas demi kebersamaan"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. meningkatkan pemahaman bahwa semua orang sama dan sederajat"
+    },
+    {
+      "id": "pp-4",
+      "question": "Musyawarah bisa dikatakan sebagai kegiatan yang sudah mendarah daging di Indonesia. Kegiatan ini terbukti dapat menyelesaikan masalah secara damai. Nilai penting dari kegiatan musyawarah yang paling tepat adalah",
+      "options": {
+        "A": "adanya perbedaan bukan halangan untuk bersatu",
+        "B": "setiap orang harus mempunyai *public speaking* yang bagus",
+        "C": "harus siap menyetujui pendapat orang lain yang bertentangan dengan pendapat kita",
+        "D": "setiap anggota harus berlapang dada ketika pendapatnya diremehkan oleh orang lain"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. adanya perbedaan bukan halangan untuk bersatu"
+    },
+    {
+      "id": "pp-5",
+      "question": "Demokrasi di Indonesia adalah demokrasi yang berlandaskan permusyawaratan yang mampu mewujudkan kesejahteraan sosial. Berikut yang dapat mencirikan demokrasi di Indonesia adalah",
+      "options": {
+        "A": "sering dilakukan kegiatan pemilu",
+        "B": "pemilu diikuti oleh banyak partai politik",
+        "C": "pemilu dilakukan secara demokratis tanpa ada intimidasi",
+        "D": "pemilu menjadi ajang untuk menunjukkan kekuasaan pemimpin"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. pemilu dilakukan secara demokratis tanpa ada intimidasi"
+    },
+    {
+      "id": "pp-6",
+      "question": "Menentang keras segala bentuk *bullying* adalah contoh perilaku sesuai sila kedua Pancasila. Tindakan nyata yang sesuai dengan pernyataan tersebut adalah",
+      "options": {
+        "A": "membalas perbuatan pelaku *bullying*",
+        "B": "melakukan demo dan kampanye anti-*bullying* ke gedung pemerintah daerah",
+        "C": "membentuk kelompok pertemanan anti-*bullying*",
+        "D": "melaporkan segala bentuk *bullying* kepada pihak berwenang di lingkungan kejadian"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. melaporkan segala bentuk *bullying* kepada pihak berwenang di lingkungan kejadian"
+    },
+    {
+      "id": "pp-7",
+      "question": "Dengan menjadi pribadi yang taat terhadap Tuhan, diharapkan bangsa Indonesia juga menjadi pribadi yang taat hukum. Hal ini dikarenakan",
+      "options": {
+        "A": "nilai Pancasila merupakan nilai-nilai yang positif",
+        "B": "nilai Pancasila tidak bertentangan dengan ajaran Tuhan",
+        "C": "nilai Pancasila penting sebagai dasar dalam penyelenggaraan pemerintahan",
+        "D": "nilai Pancasila menjadi ciri khas/identitas bangsa Indonesia"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. nilai Pancasila tidak bertentangan dengan ajaran Tuhan"
+    },
+    {
+      "id": "pp-8",
+      "question": "Sebagai warga negara Indonesia, pelajar pun berkewajiban menerapkan nilai-nilai Pancasila dalam kehidupan sehari-hari. Perilaku yang sesuai dengan pernyataan tersebut adalah",
+      "options": {
+        "A": "aktif mengikuti kegiatan politik",
+        "B": "mengembangkan pengetahuan dan wawasan",
+        "C": "aktif membela negara dengan ikut menjaga wilayah perbatasan",
+        "D": "membantu kinerja aparat penegak hukum"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. mengembangkan pengetahuan dan wawasan"
+    },
+    {
+      "id": "pp-9",
+      "question": "Bangsa Indonesia menempatkan persatuan dan kesatuan di atas kepentingan pribadi. Perbuatan yang sesuai dengan pernyataan di atas adalah",
+      "options": {
+        "A": "gemar menggunakan produk dalam negeri",
+        "B": "dengan kerelaan hati melaksanakan hasil musyawarah meskipun bertentangan dengan kehendak pribadinya",
+        "C": "rela berkorban demi kepentingan orang lain",
+        "D": "ikut terlibat dalam usaha pertahanan dan keamanan negara"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. dengan kerelaan hati melaksanakan hasil musyawarah meskipun bertentangan dengan kehendak pribadinya"
+    },
+    {
+      "id": "pp-10",
+      "question": "Dalam menghadapi kehidupan global, Indonesia mempunyai Pancasila sebagai salah satu kekuatan. Keistimewaan Pancasila bagi bangsa Indonesia adalah",
+      "options": {
+        "A": "nilai-nilai Pancasila sesuai dengan masyarakat di negara maju",
+        "B": "Pancasila murni diambil dari jiwa dan kepribadian bangsa Indonesia",
+        "C": "Pancasila membuat bangsa Indonesia disegani oleh bangsa lain",
+        "D": "Pancasila menjadi alat untuk menundukkan bangsa dan negara lain"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Pancasila murni diambil dari jiwa dan kepribadian bangsa Indonesia"
+    },
+    {
+      "id": "pp-11",
+      "question": "Sebagai bagian dari bangsa Indonesia, setiap pelajar pasti ingin berkontribusi dalam pembangunan bangsa dan negara Indonesia. Perilaku berikut yang tepat dilakukan oleh pelajar untuk mewujudkannya adalah",
+      "options": {
+        "A": "ikut melibatkan diri dalam aksi demonstrasi di jalanan memprotes kebijakan pemerintah",
+        "B": "mengembangkan diri dengan cara mengasah minat dan bakat",
+        "C": "belajar tekun agar menjadi atlet nasional",
+        "D": "melanjutkan pendidikan ke luar negeri agar bisa lulus dengan predikat terbaik"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. mengembangkan diri dengan cara mengasah minat dan bakat"
+    },
+    {
+      "id": "pp-12",
+      "question": "Perilaku berikut yang kurang tepat berkaitan dengan sila kedua Pancasila adalah",
+      "options": {
+        "A": "menentang para pelaku *bullying* di lingkungan sekolah",
+        "B": "membudayakan kegiatan musyawarah di lingkungan sekolah",
+        "C": "mewujudkan kerukunan",
+        "D": "mengorbankan keselamatan diri sendiri demi menolong orang lain"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. membudayakan kegiatan musyawarah di lingkungan sekolah"
+    },
+    {
+      "id": "pp-13",
+      "question": "Setiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara. Hak tersebut dapat diwujudkan antara lain dengan",
+      "options": {
+        "A": "meminta perlindungan ekstra kepada aparat hukum",
+        "B": "mendapatkan perlindungan dan rasa aman",
+        "C": "mencintai tanah air dan bangsa",
+        "D": "menunjukkan loyalitas tanpa batas"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. mendapatkan perlindungan dan rasa aman"
+    },
+    {
+      "id": "pp-14",
+      "question": "Memasang foto teman di media sosial tanpa izin termasuk perbuatan yang salah. Dampak buruk yang mungkin terjadi dari masalah ini adalah",
+      "options": {
+        "A": "temannya akan dikenal banyak orang",
+        "B": "foto tersebut dapat disalahgunakan pihak yang tidak bertanggung jawab",
+        "C": "pemilik foto akan trauma karena fotonya dilihat banyak orang",
+        "D": "pemilik foto terjerat hukum karena memasang foto pribadinya"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. foto tersebut dapat disalahgunakan pihak yang tidak bertanggung jawab"
+    },
+    {
+      "id": "pp-15",
+      "question": "Hak dan kewajiban bangsa Indonesia berkaitan dengan Pancasila. Salah satu contohnya adalah hak yang sama dalam hukum. Hak ini sesuai dengan sila kedua Pancasila. Adapun kewajiban terkait sila tersebut adalah",
+      "options": {
+        "A": "memperlakukan orang lain sesuai harkat dan martabatnya sebagai makhluk Tuhan Yang Maha Esa",
+        "B": "berkorban demi kepentingan bangsa dan negara",
+        "C": "mengembangkan rasa cinta tanah air",
+        "D": "tidak memaksakan kehendak kepada orang lain"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. memperlakukan orang lain sesuai harkat dan martabatnya sebagai makhluk Tuhan Yang Maha Esa"
+    },
+    {
+      "id": "pp-16",
+      "question": "Perilaku berikut yang termasuk pelaksanaan kewajiban sesuai sila kedua Pancasila adalah",
+      "options": {
+        "A": "mengembangkan sikap tenggang rasa",
+        "B": "gemar melakukan kegiatan gotong royong",
+        "C": "mengajarkan anak untuk hidup sederhana",
+        "D": "mengorbankan waktu libur karena ada tugas dadakan dari atasannya"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. mengembangkan sikap tenggang rasa"
+    },
+    {
+      "id": "pp-17",
+      "question": "Sebagai negara yang beragam, di Indonesia berpotensi terjadi diskriminasi. Berikut yang termasuk perilaku diskriminasi adalah",
+      "options": {
+        "A": "seorang siswa mendapat hukuman karena melanggar tata tertib sekolah",
+        "B": "seorang warga gagal mendapat bantuan pemerintah karena mempunyai masalah pribadi dengan pihak yang mengurusnya",
+        "C": "seorang karyawati yang hamil mendapat pekerjaan yang lebih ringan dari karyawan lainnya",
+        "D": "seorang anak mendapatkan tugas dari orang tua yang lebih berat dari adiknya"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. seorang warga gagal mendapat bantuan pemerintah karena mempunyai masalah pribadi dengan pihak yang mengurusnya"
+    },
+    {
+      "id": "pp-18",
+      "question": "Hak dan kewajiban selalu berjalan secara beriringan. Masyarakat harus dapat mewujudkan keseimbangan hak dan kewajiban. Hal ini diperlukan untuk menciptakan",
+      "options": {
+        "A": "nama baik negara di mata negara lain",
+        "B": "kehidupan masyarakat yang harmonis",
+        "C": "hubungan kerja sama internasional yang baik",
+        "D": "hubungan yang baik antara rakyat dan pemerintah"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. kehidupan masyarakat yang harmonis"
+    },
+    {
+      "id": "pp-19",
+      "question": "*Cyberbullying* yang akhir-akhir ini sering terjadi termasuk salah satu pelanggaran hak warga negara. Berikut yang termasuk *cyberbullying* adalah",
+      "options": {
+        "A": "bergosip dengan tetangga menjelekkan salah satu teman",
+        "B": "mengucilkan teman dalam pergaulan",
+        "C": "memosting video kurang sopan milik teman ke media sosial",
+        "D": "memanggil nama teman dengan julukan yang buruk"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. memosting video kurang sopan milik teman ke media sosial"
+    },
+    {
+      "id": "pp-20",
+      "question": "Pasal 31 ayat (1) UUD 1945 mengatur tentang hak warga negara untuk mendapatkan pendidikan. Realisasi yang kurang tepat dari hak di atas adalah",
+      "options": {
+        "A": "pelajar menggunakan fasilitas di sekolah",
+        "B": "hak masyarakat untuk mendapatkan biaya pendidikan gratis hingga perguruan tinggi",
+        "C": "hak pelajar untuk meminta penjelasan atas kesulitan dalam mata pelajaran tertentu",
+        "D": "hak masyarakat untuk meminta rincian biaya pendidikan ke sekolah"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. hak masyarakat untuk mendapatkan biaya pendidikan gratis hingga perguruan tinggi"
+    },
+    {
+      "id": "pp-21",
+      "question": "*Cyberbullying* merupakan salah satu bentuk pelanggaran hak. Berikut perilaku yang dapat mencegah *cyberbullying* yang paling tepat adalah",
+      "options": {
+        "A": "menutup diri dari pergaulan",
+        "B": "menutup akses ke media sosial",
+        "C": "lebih bijak dalam menggunakan media sosial",
+        "D": "tidak membuat akun *real*"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. lebih bijak dalam menggunakan media sosial"
+    },
+    {
+      "id": "pp-22",
+      "question": "Aktivitas pelajar dalam menggunakan media sosial sesuai haknya yang paling tepat adalah",
+      "options": {
+        "A": "mengomentari unggahan tentang berita kriminal",
+        "B": "menyampaikan opini terkait unggahan akun resmi yang membahas mengenai ujian sekolah",
+        "C": "mengunggah ulang sebuah berita tentang pendidikan yang belum jelas kebenarannya",
+        "D": "mengunggah kritikan pedas terhadap kebijakan sekolahnya"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. menyampaikan opini terkait unggahan akun resmi yang membahas mengenai ujian sekolah"
+    },
+    {
+      "id": "pp-23",
+      "question": "Cabang-cabang produksi yang penting bagi negara dan yang menguasai hajat hidup orang banyak dikuasai oleh negara. Pernyataan ini sesuai dengan isi pasal dalam UUD 1945. Realisasi dari isi pasal di atas adalah",
+      "options": {
+        "A": "pemerintah mengelola kekayaan negara demi kepentingan bangsa Indonesia",
+        "B": "pemerintah berhak mengambil hak milik rakyat tanpa alasan yang jelas",
+        "C": "rakyat berhak meminta bantuan dana pemerintah dalam mengelola kekayaan pribadinya",
+        "D": "pemerintah menetapkan seperangkat peraturan bagi para pengusaha yang bergerak di bidang sumber daya alam"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. pemerintah mengelola kekayaan negara demi kepentingan bangsa Indonesia"
+    },
+    {
+      "id": "pp-24",
+      "question": "Membayar pajak merupakan salah satu kewajiban warga negara. Hak yang di dapat orang yang aktif membayar pajak adalah",
+      "options": {
+        "A": "mendapatkan pelayanan publik yang lebih baik dan layak",
+        "B": "mendapatkan fasilitas pendidikan yang lebih lengkap",
+        "C": "mendapatkan hak istimewa di bidang hukum",
+        "D": "menjadi prioritas dalam berbagai urusan pemerintahan"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. mendapatkan pelayanan publik yang lebih baik dan layak"
+    },
+    {
+      "id": "pp-25",
+      "question": "Sebagai warga negara yang baik, kita wajib mendukung pemerintah dalam penyelenggaraan pemerintahan. Salah satu hal yang dapat dilakukan warga negara adalah membangun partisipasi dalam mencegah terjadinya pelanggaran hak dan pengingkaran kewajiban. Salah satu contoh upaya yang dapat dilakukan warga negara adalah",
+      "options": {
+        "A": "menindak pelaku pelanggaran hak",
+        "B": "turut membuat undang-undang tentang HAM",
+        "C": "mematuhi aturan yang berlaku",
+        "D": "melakukan penyelidikan terhadap kasus pelanggaran hak"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. mematuhi aturan yang berlaku"
+    },
+    {
+      "id": "pp-26",
+      "question": "Globalisasi membawa dampak besar bagi bangsa Indonesia. Banyak perubahan positif yang terjadi di negara kita. Namun, globalisasi juga menghadirkan berbagai tantangan. Salah satu bentuk tantangan tersebut adalah",
+      "options": {
+        "A": "korupsi yang semakin merajalela",
+        "B": "kesenjangan ekonomi",
+        "C": "sumber daya manusia yang rendah",
+        "D": "menguatnya individualisme"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. menguatnya individualisme"
+    },
+    {
+      "id": "pp-27",
+      "question": "Mengembangkan sikap kerja sama antarpemeluk agama termasuk kewajiban warga negara yang berkaitan dengan sila . . . Pancasila.",
+      "options": {
+        "A": "pertama",
+        "B": "kedua",
+        "C": "ketiga",
+        "D": "keempat"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. pertama"
+    },
+    {
+      "id": "pp-28",
+      "question": "Salah satu contoh tindakan yang berkaitan dengan *cyberbullying* adalah *trolling*. Pengertian *trolling* yang tepat adalah",
+      "options": {
+        "A": "mengucilkan atau mengecualikan anak-anak dari aktivitas atau grup pertemanan",
+        "B": "pengiriman pesan yang mengancam atau menjengkelkan di jejaring sosial, ruang obrolan, atau game *online*",
+        "C": "menyebarkan kebohongan tentang seseorang",
+        "D": "menuliskan kata-kata menyakitkan pada kolom komentar media sosial"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. pengiriman pesan yang mengancam atau menjengkelkan di jejaring sosial, ruang obrolan, atau game *online*"
+    },
+    {
+      "id": "pp-29",
+      "question": "Mengembangkan rasa cinta tanah air dan bangsa merupakan kewajiban warga negara terkait sila . . . Pancasila.",
+      "options": {
+        "A": "pertama",
+        "B": "kedua",
+        "C": "ketiga",
+        "D": "keempat"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. ketiga"
+    },
+    {
+      "id": "pp-30",
+      "question": "Salah satu dampak globalisasi adalah terjadinya pergeseran nilai, norma, dan tradisi lokal, salah satunya adanya paham yang menganggap seluruh manusia adalah anggota dari satu komunitas (warga dunia/global). Paham ini disebut dengan",
+      "options": {
+        "A": "intoleransi",
+        "B": "kosmopolitanisme",
+        "C": "fundamentalisme",
+        "D": "individualisme"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. kosmopolitanisme"
+    },
+    {
+      "id": "pp-31",
+      "question": "Pancasila menjadi salah satu kekuatan Indonesia di tengah gempuran globalisasi. Salah satu alasan yang paling tepat adalah",
+      "options": {
+        "A": "Pancasila merupakan dasar negara Indonesia",
+        "B": "Pancasila mengandung nilai-nilai positif yang membentuk karakter dan kepribadian bangsa Indonesia yang kuat dan tangguh untuk menangkal efek buruk globalisasi",
+        "C": "Pancasila menunjukkan jati diri bangsa Indonesia",
+        "D": "Pancasila tidak mudah ditiru bangsa lain"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Pancasila mengandung nilai-nilai positif yang membentuk karakter dan kepribadian bangsa Indonesia yang kuat dan tangguh untuk menangkal efek buruk globalisasi"
+    },
+    {
+      "id": "pp-32",
+      "question": "Menentang keras segala bentuk *bullying* dan diskriminasi adalah salah satu contoh pengamalan sila . . . Pancasila.",
+      "options": {
+        "A": "pertama",
+        "B": "kedua",
+        "C": "ketiga",
+        "D": "keempat"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. kedua"
+    },
+    {
+      "id": "pp-33",
+      "question": "Pasal 33 UUD 1945 memuat tentang perekonomian nasional. Perekonomian nasional dilaksanakan berdasarkan",
+      "options": {
+        "A": "demokrasi ekonomi dengan prinsip kebersamaan",
+        "B": "persaingan bebas",
+        "C": "monopoli",
+        "D": "kemenangan di tangan pemilik modal"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. demokrasi ekonomi dengan prinsip kebersamaan"
+    },
+    {
+      "id": "pp-34",
+      "question": "Saat kegiatan musyawarah Anda menyampaikan pendapat. Ada salah satu anggota yang menyela dan meremehkan pendapat Anda. Sikap paling bijak yang dapat Anda tunjukkan adalah",
+      "options": {
+        "A": "*walkout* dari forum karena merasa tersinggung",
+        "B": "merasa marah dan mendebat tanggapan anggota tersebut",
+        "C": "tetap berjiwa besar dan bersikap tenang demi kelancaran musyawarah",
+        "D": "merasa tersinggung dan meminta pimpinan untuk mengeluarkan anggota tersebut"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. tetap berjiwa besar dan bersikap tenang demi kelancaran musyawarah"
+    },
+    {
+      "id": "pp-35",
+      "question": "Gemar melakukan kegiatan kemanusiaan merupakan kewajiban warga negara yang sesuai dengan sila . . . Pancasila.",
+      "options": {
+        "A": "pertama",
+        "B": "kedua",
+        "C": "ketiga",
+        "D": "keempat"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. kedua"
+    },
+    {
+      "id": "pp-36",
+      "question": "Sebagai dasar negara, Pancasila perlu diterapkan dalam kehidupan sehari-hari. Berikut penerapan sila keempat Pancasila yang paling tepat adalah",
+      "options": {
+        "A": "menghormati teman yang sedang beribadah",
+        "B": "menganggap semua teman sama (tidak membedakan)",
+        "C": "memberi kesempatan orang lain untuk menyampaikan pendapat",
+        "D": "menjaga kebebasan orang lain dalam pelaksanaan haknya"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. memberi kesempatan orang lain untuk menyampaikan pendapat"
+    },
+    {
+      "id": "pp-37",
+      "question": "Berikut nilai yang terkandung dalam sila pertama Pancasila adalah",
+      "options": {
+        "A": "negara Indonesia wajib menjamin setiap warga negara untuk mendapatkan pendidikan",
+        "B": "bangsa Indonesia tidak memaksakan suatu agama dan kepercayaan terhadap Tuhan Yang Maha Esa kepada orang lain",
+        "C": "Indonesia adalah negara bangsa yang merdeka, bersatu, dan berdaulat, tetapi bukan *chauvinistic*",
+        "D": "bangsa Indonesia mengakui dan memperlakukan kesederajatan manusia sesuai dengan harkat dan martabatnya sebagai makhluk Tuhan Yang Maha Esa"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. bangsa Indonesia tidak memaksakan suatu agama dan kepercayaan terhadap Tuhan Yang Maha Esa kepada orang lain"
+    },
+    {
+      "id": "pp-38",
+      "question": "Berikut nilai-nilai yang terkandung dalam sila keempat Pancasila adalah",
+      "options": {
+        "A": "bangsa Indonesia tidak memaksakan suatu agama dan kepercayaan terhadap Tuhan Yang Maha Esa kepada orang lain",
+        "B": "bangsa Indonesia mengakui dan memperlakukan kesederajatan manusia sesuai dengan harkat dan martabatnya sebagai makhluk Tuhan Yang Maha Esa",
+        "C": "bangsa Indonesia tidak mengenal sistem diktator mayoritas dan tirani minoritas",
+        "D": "negara Indonesia didirikan untuk bersungguh-sungguh memajukan kesejahteraan bagi seluruh rakyat Indonesia, baik lahir maupun batin"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. bangsa Indonesia tidak mengenal sistem diktator mayoritas dan tirani minoritas"
+    },
+    {
+      "id": "pp-39",
+      "question": "Sebagai negara beragam, kerja sama dan gotong royong sangat diperlukan untuk mewujudkan persatuan dan kesatuan. Berikut bentuk kerja sama yang termasuk kerja sama kontrak adalah",
+      "options": {
+        "A": "belajar kelompok",
+        "B": "gotong royong memperbaiki jembatan",
+        "C": "kerja sama antara karyawan tim *marketing* dan tim desain",
+        "D": "gotong royong membantu tetangga yang ada acara pernikahan"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. kerja sama antara karyawan tim *marketing* dan tim desain"
+    },
+    {
+      "id": "pp-40",
+      "question": "Kebebasan beragama dijamin dalam UUD 1945. Untuk mewujudkan kehidupan beragama yang sehat, maka harus ada kerja sama antarumat beragama. Berikut kerja sama yang paling tepat adalah",
+      "options": {
+        "A": "menghormati teman yang seagama",
+        "B": "mengikuti kegiatan keagamaan dari agama lain",
+        "C": "mencampur ajaran agama yang dianggap baik",
+        "D": "menghargai pemeluk agama lain"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. menghargai pemeluk agama lain"
+    },
+    {
+      "id": "pp-41",
+      "question": "Kesetaraan merupakan salah satu sikap yang perlu kita tampilkan dalam kerja sama membangun gotong royong. Setiap warga negara Indonesia mendapat jaminan kesetaraan dalam hukum yang termuat dalam UUD 1945 pasal",
+      "options": {
+        "A": "26 ayat (1) dan 27 ayat (3)",
+        "B": "26 ayat (2) dan 27 ayat (3)",
+        "C": "27 ayat (1) dan 28D ayat (1)",
+        "D": "27 ayat (3) dan 28D ayat (2)"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. 27 ayat (1) dan 28D ayat (1)"
+    },
+    {
+      "id": "pp-42",
+      "question": "Kerja sama antara warga negara dan pemerintah dapat dilihat pada berbagai peristiwa. Contoh kerja sama di bidang pertahanan dan keamanan yang paling tepat adalah",
+      "options": {
+        "A": "warga yang berinisiatif membantu mengatur lalu lintas jalan raya",
+        "B": "warga yang membantu menangkap dan mengadili pelaku kejahatan",
+        "C": "warga yang selalu melaksanakan aturan yang berlaku secara bertanggung jawab",
+        "D": "warga yang melakukan aksi demonstrasi di jalanan membela hak-hak buruh"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. warga yang selalu melaksanakan aturan yang berlaku secara bertanggung jawab"
+    },
+    {
+      "id": "pp-43",
+      "question": "Pasal 29 UUD 1945 menunjukkan pengakuan akan kemerdekaan warga dalam beragama. Contoh wujud kerja sama yang dapat ditunjukkan adalah",
+      "options": {
+        "A": "membiarkan orang lain berpegang teguh pada agamanya tanpa niat ikut campur",
+        "B": "turut melibatkan diri dalam berbagai kegiatan keagamaan semua agama di kampungnya",
+        "C": "mempelajari semua agama dengan alasan toleransi",
+        "D": "membujuk teman untuk mempelajari agama yang dianutnya"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. membiarkan orang lain berpegang teguh pada agamanya tanpa niat ikut campur"
+    },
+    {
+      "id": "pp-44",
+      "question": "Toleransi merupakan sikap positif yang perlu kita terapkan dalam kehidupan sehari-hari untuk mewujudkan kerukunan di atas keberagaman. Contoh toleransi yang paling tepat adalah",
+      "options": {
+        "A": "tidak pernah mengusik perbedaan keyakinan/pemahaman dengan orang lain",
+        "B": "meniru apa yang dilakukan orang lain untuk dapat merasakan apa yang mereka rasakan",
+        "C": "ikut melaksanakan rutinitas agama orang lain",
+        "D": "ikut melibatkan diri dalam setiap acara keagamaan semua agama"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. tidak pernah mengusik perbedaan keyakinan/pemahaman dengan orang lain"
+    },
+    {
+      "id": "pp-45",
+      "question": "Salah satu ciri musyawarah adalah pembicaraan harus dapat diterima akal sehat dan hati nurani. Maksud dari pernyataan di atas adalah",
+      "options": {
+        "A": "pendapat yang disampaikan bersifat solutif dan tidak bertentangan dengan nilai-nilai luhur",
+        "B": "pendapat yang disampaikan tidak berhubungan dengan dana yang besar",
+        "C": "mudah dipahami semua anggota",
+        "D": "pendapat yang disampaikan tidak menyusahkan orang lain"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. pendapat yang disampaikan bersifat solutif dan tidak bertentangan dengan nilai-nilai luhur"
+    },
+    {
+      "id": "pp-46",
+      "question": "Membela negara merupakan wujud kerja sama warga negara dengan pemerintah. Pernyataan yang tepat terkait hal tersebut adalah",
+      "options": {
+        "A": "membela negara adalah kewajiban warga negara",
+        "B": "membela negara termuat dalam pasal 30 ayat (1) UUD 1945",
+        "C": "membela negara merupakan hak setiap warga negara Indonesia asli",
+        "D": "membela negara adalah hak sekaligus kewajiban warga negara"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. membela negara adalah hak sekaligus kewajiban warga negara"
+    },
+    {
+      "id": "pp-47",
+      "question": "Kerja sama merupakan kebutuhan setiap manusia mengingat statusnya sebagai makhluk sosial. Sebagai negara yang beragam, kerja sama juga dapat mempererat hubungan. Berikut yang termasuk kerja sama yang paling tepat adalah",
+      "options": {
+        "A": "bekerja sama melawan kebijakan pemerintah",
+        "B": "bekerja sama memprotes aturan baru dari sekolah",
+        "C": "bekerja sama mengampanyekan hak asasi manusia",
+        "D": "bekerja sama membalas perundungan antarteman di sekolah"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. bekerja sama mengampanyekan hak asasi manusia"
+    },
+    {
+      "id": "pp-48",
+      "question": "Contoh bentuk kerja sama antarumat beragama yang paling tepat dapat dilihat pada peristiwa",
+      "options": {
+        "A": "membantu persiapan perayaan keagamaan tetangga",
+        "B": "ikut dalam perayaan keagamaan tetangga",
+        "C": "tidak peduli dengan kegiatan agama lain agar tidak menodai keyakinan agamanya",
+        "D": "mengagungkan ajaran agamanya untuk menunjukkan keyakinannya yang kuat tanpa merendahkan agama lain"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. membantu persiapan perayaan keagamaan tetangga"
+    },
+    {
+      "id": "pp-49",
+      "question": "Toleransi penting dalam upaya kerja sama membangun gotong royong. Hal ini dipicu oleh",
+      "options": {
+        "A": "dalam toleransi kita dipaksa untuk menerima keberagaman",
+        "B": "dalam toleransi, ada sikap sabar dan berlapang dada terhadap segala sesuatu yang berbeda dengan kita",
+        "C": "sikap toleransi menunjukkan kredibilitas suatu negara",
+        "D": "sikap toleransi menjadi satu-satunya cara untuk menyatukan keberagaman"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. dalam toleransi, ada sikap sabar dan berlapang dada terhadap segala sesuatu yang berbeda dengan kita"
+    },
+    {
+      "id": "pp-50",
+      "question": "Kerja sama bidang ekonomi salah satunya dapat ditunjukkan melalui kewajiban membayar pajak oleh setiap warga negara. Dampak positif kerja sama ini dapat dilihat dari",
+      "options": {
+        "A": "semakin mewahnya fasilitas umum",
+        "B": "makin lengkapnya gedung pelayanan publik",
+        "C": "semakin tingginya standar upah para pekerja",
+        "D": "semakin banyaknya beasiswa untuk pelajar"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. makin lengkapnya gedung pelayanan publik"
+    },
+    {
+      "id": "pp-51",
+      "question": "Dalam kegiatan gotong royong kita akan belajar untuk mempunyai sikap rela berkorban. Contoh sikap rela berkorban yang dapat Anda tunjukkan adalah",
+      "options": {
+        "A": "mengorbankan seluruh uang saku untuk kegiatan sosial",
+        "B": "mengorbankan waktu istirahat untuk membantu tetangga yang sedang ada hajatan",
+        "C": "membantu teman yang dihukum menyapu kelas di luar jam sekolah",
+        "D": "menyisihkan uang pribadi untuk disumbangkan dalam kegiatan sosial"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. mengorbankan waktu istirahat untuk membantu tetangga yang sedang ada hajatan"
+    },
+    {
+      "id": "pp-52",
+      "question": "Agar masyarakat dapat hidup dengan aman dan nyaman harus terwujud pertahanan dan keamanan negara yang baik. Hal tersebut tidak hanya tanggung jawab pemerintah dan pihak terkait, tetapi juga menjadi tanggung jawab seluruh komponen masyarakat. Semua harus dapat bekerja sama untuk mewujudkannya. Semua melaksanakan tugas sesuai kemampuannya. Pernyataan yang tepat berkaitan dengan keikutsertaan warga negara dalam usaha pertahanan dan keamanan negara adalah",
+      "options": {
+        "A": "setiap warga negara wajib melaksanakan pembelaan negara dengan mengabdikan diri kepada negara",
+        "B": "pasal 27 ayat (3) UUD 1945 menyebutkan bahwa \"Setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara\"",
+        "C": "pasal 30 ayat (2) UUD 1945 berbunyi, \"Tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara\"",
+        "D": "pelajar yang ingin menunjukkan sikap bela negara dapat dilakukan dengan sekolah militer"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. pasal 27 ayat (3) UUD 1945 menyebutkan bahwa \"Setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara\""
+    },
+    {
+      "id": "pp-53",
+      "question": "Persatuan Indonesia bernapaskan semangat kebangsaan yang melindungi segenap bangsa dan seluruh tumpah darah Indonesia yang senasib dan sepenanggungan dalam bingkai NKRI adalah nilai yang terkandung dalam sila . . . Pancasila.",
+      "options": {
+        "A": "pertama",
+        "B": "kedua",
+        "C": "ketiga",
+        "D": "keempat"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. ketiga"
+    },
+    {
+      "id": "pp-54",
+      "question": "Menghargai martabat orang lain termasuk kewajiban asasi. Berikut hal yang membedakan kewajiban asasi dan kewajiban warga negara adalah",
+      "options": {
+        "A": "kewajiban asasi terkait dengan agama seseorang, sedangkan kewajiban warga negara terkait dengan kewarganegaraan seseorang",
+        "B": "kewajiban asasi berlaku bagi semua orang, sedangkan kewajiban warga negara terkait dengan kewarganegaraan seseorang",
+        "C": "kewajiban asasi dan kewajiban warga negara terkait dengan kewarganegaraan seseorang",
+        "D": "kewajiban asasi terkait dengan pilihan politik seseorang, sedangkan kewajiban warga negara terkait dengan kewarganegaraan seseorang"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. kewajiban asasi berlaku bagi semua orang, sedangkan kewajiban warga negara terkait dengan kewarganegaraan seseorang"
+    },
+    {
+      "id": "pp-55",
+      "question": "Di tengah masyarakat global banyak tantangan yang akan kita hadapi. Namun, bangsa Indonesia mempunyai kekuatan untuk menghadapi tantangan tersebut. Berikut yang termasuk kekuatan yang dimiliki bangsa Indonesia adalah",
+      "options": {
+        "A": "jumlah penduduk yang padat",
+        "B": "bonus demografi",
+        "C": "banyaknya jumlah pulau",
+        "D": "kemajuan teknologi komunikasi"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. bonus demografi"
+    },
+    {
+      "id": "pp-56",
+      "question": "Sebagai negara berkembang, bangsa Indonesia memiliki banyak kelemahan yang dapat menghambat kemajuan bangsa dan negara. Berikut yang **tidak** termasuk kelemahan dan tantangan bagi bangsa Indonesia adalah",
+      "options": {
+        "A": "sumber daya manusia yang rendah",
+        "B": "bencana alam",
+        "C": "pembangunan tidak merata",
+        "D": "sumber daya alam yang melimpah"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. sumber daya alam yang melimpah"
+    },
+    {
+      "id": "pp-57",
+      "question": "Pancasila menjadi dasar bagi penyelenggaraan pemerintahan di Indonesia. Hal ini karena Pancasila mempunyai kedudukan sebagai",
+      "options": {
+        "A": "identitas negara",
+        "B": "pandangan hidup",
+        "C": "sumber tertib hukum",
+        "D": "dasar negara"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. dasar negara"
+    },
+    {
+      "id": "pp-58",
+      "question": "Gotong royong merupakan tradisi bangsa Indonesia yang masih dilakukan di berbagai daerah. Gotong royong mempunyai istilah berbeda di tiap daerah. Berikut yang **tidak** termasuk istilah gotong royong adalah",
+      "options": {
+        "A": "*tepa salira*",
+        "B": "*mapalus*",
+        "C": "*sambatan*",
+        "D": "*alang tulung*"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. *tepa salira*"
+    },
+    {
+      "id": "pp-59",
+      "question": "Setiap warga negara wajib ikut serta dalam pembelaan negara. Kewajiban ini diatur dalam Undang-Undang Dasar 1945 pasal",
+      "options": {
+        "A": "27 ayat (1)",
+        "B": "27 ayat (3)",
+        "C": "28J ayat (1)",
+        "D": "30 ayat (1)"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. 27 ayat (3)"
+    },
+    {
+      "id": "pp-60",
+      "question": "Salah satu penyebab terjadinya pelanggaran hak yang berasal dari dalam adalah",
+      "options": {
+        "A": "rendahnya kesadaran berbangsa dan bernegara",
+        "B": "sikap aparat penegak hukum yang tidak tegas",
+        "C": "perkembangan iptek yang disalahgunakan",
+        "D": "adanya kesenjangan sosial"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. rendahnya kesadaran berbangsa dan bernegara"
+    },
+    {
+      "id": "pp-61",
+      "question": "Kesetaraan menjadi salah satu sikap yang harus dikembangkan dalam kerja sama atau gotong royong. Kesetaraan diatur dalam UUD 1945 pasal 27 ayat (1) yang berbunyi",
+      "options": {
+        "A": "Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan.",
+        "B": "Setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara.",
+        "C": "Segala warga negara bersamaan kedudukannya di dalam hukum dan pemerintahan dan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada kecualinya.",
+        "D": "Setiap warga negara berhak memperoleh kesempatan yang sama dalam pemerintahan."
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Segala warga negara bersamaan kedudukannya di dalam hukum dan pemerintahan dan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada kecualinya."
+    },
+    {
+      "id": "pp-62",
+      "question": "Negara Indonesia bukan sebuah negara yang didirikan untuk satu golongan, melainkan untuk semua yang bertanah air Indonesia merupakan nilai yang terkandung dalam sila . . . Pancasila.",
+      "options": {
+        "A": "pertama",
+        "B": "kedua",
+        "C": "ketiga",
+        "D": "keempat"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. ketiga"
+    },
+    {
+      "id": "pp-63",
+      "question": "Melaksanakan perintah agama masing-masing dengan tetap mengedepankan harmoni dalam kehidupan bermasyarakat, berbangsa, dan bernegara adalah nilai yang terkandung dalam sila . . . Pancasila.",
+      "options": {
+        "A": "pertama",
+        "B": "kedua",
+        "C": "ketiga",
+        "D": "keempat"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. pertama"
+    },
+    {
+      "id": "pp-64",
+      "question": "Pelanggaran hak warga negara merupakan akibat dari adanya pelalaian atau pengingkaran terhadap kewajiban, baik yang dilakukan oleh pemerintah maupun oleh warga negara sendiri. Berikut contoh sikap dan perilaku yang dapat dikembangkan sebagai wujud partisipasi dalam penanggulangan pelanggaran hak dan pengingkaran kewajiban di lingkungan masyarakat adalah",
+      "options": {
+        "A": "mematuhi peraturan bersama, baik tertulis maupun tidak tertulis",
+        "B": "patuh pada aturan keluarga",
+        "C": "menjalin kerja sama dengan semua warga sekolah",
+        "D": "mematuhi tata tertib dan norma yang berlaku"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. mematuhi peraturan bersama, baik tertulis maupun tidak tertulis"
+    },
+    {
+      "id": "pp-65",
+      "question": "Gotong royong merupakan salah satu kegiatan yang sesuai dengan nilai-nilai Pancasila, dan banyak nilai positif yang terkandung di dalamnya. Salah satunya adalah kebersamaan yang timbul dari seluruh lapisan masyarakat akan menciptakan rasa persatuan tanpa memandang kepentingan pribadi atau golongan dan latar belakang pada individu dalam lingkungan masyarakat. Hal tersebut disebut juga dengan",
+      "options": {
+        "A": "nilai kebersamaan",
+        "B": "nilai rela berkorban",
+        "C": "nilai persatuan",
+        "D": "nilai keadilan"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. nilai persatuan"
+    },
+    {
+      "id": "pp-66",
+      "question": "Sebagai pedoman hidup bangsa Indonesia, Pancasila harus senantiasa kita praktikkan dalam kehidupan sehari-hari. Contoh perilaku yang dapat Anda wujudkan sesuai sila kelima Pancasila adalah",
+      "options": {
+        "A": "menggunakan hak milik pribadi untuk gaya hidup hedon",
+        "B": "menunjukkan kepedulian penuh pada kasus *bullying*",
+        "C": "bergaul dengan semua orang tanpa membeda-bedakan",
+        "D": "siap sedia menolong kesusahan yang dialami orang lain"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. siap sedia menolong kesusahan yang dialami orang lain"
+    },
+    {
+      "id": "pp-67",
+      "question": "Penyebaran hoaks merupakan salah satu dampak negatif perkembangan iptek. Sebagai generasi muda, Anda dapat berpartisipasi dalam pembangunan dengan menghentikan penyebaran hoaks. Cara yang dapat ditempuh misalnya",
+      "options": {
+        "A": "mengurangi penggunaan internet",
+        "B": "meningkatkan literasi digital, kemudian menerapkannya ketika berselancar di dunia maya",
+        "C": "menghindari memosting ulang berbagai informasi",
+        "D": "tidak pernah mengomentari postingan orang lain"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. meningkatkan literasi digital, kemudian menerapkannya ketika berselancar di dunia maya"
+    }
+  ],
+  "agama": [
+    {
+      "id": "agama-1",
+      "question": "Pak Sarno adalah seorang pengusaha Restoran yang sukses mengembangkan usahanya hingga dia dapat mendirikan restoran di berbagai kota. Saat jalan tol dibangun usaha, usahanya mengalami penurunan omset hingga terlilit hutang jutaan rupiah, akan tetapi Pak Sarno tetap rajin menunaikan salat lima waktu, membaca Al-Qur'an sembari berdoa kepada Allah Swt. untuk agar dimudahkan dalam melunasi hutang-hutangnya. Dari cerita tersebut Pak Sarno termasuk orang yang",
+      "options": {
+        "A": "Sabar dalam menerima cobaan",
+        "B": "Sabar dalam menerima ujian",
+        "C": "Sabar dalam taat kepada Allah Swt.",
+        "D": "Sabar dalam menerima takdir"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Sabar dalam taat kepada Allah Swt."
+    },
+    {
+      "id": "agama-2",
+      "question": "Pak Rakhim dikabari bahwa tetangganya yang dirawat di rumah sakit meninggal dunia, dengan sepontan Pak Fulan mengucapkan *\"inna lillahi wainna ilaihi roji'un\"*. Ungkapan tersebut dalam agama islam disebut dengan bacaan",
+      "options": {
+        "A": "Hauqolah",
+        "B": "Tarji'",
+        "C": "Tasbih",
+        "D": "Tahmid"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Tarji'"
+    },
+    {
+      "id": "agama-3",
+      "question": "Dalam hadis riwayat Ummu Salamah, Rasulullah Saw. mengajarkan do'a kepada umatnya saat menghadapi musibah. Do'a tersebut berbunyi *\"Inna lillahi wa inna ilaihi raji'un\"*, yang artinya adalah?",
+      "options": {
+        "A": "Kami mohon ampun kepada Allah",
+        "B": "Segala puji bagi Allah",
+        "C": "Sesungguhnya kami milik Allah dan kepada-Nya kami kembali",
+        "D": "Allah Maha Pengampun"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Sesungguhnya kami milik Allah dan kepada-Nya kami kembali"
+    },
+    {
+      "id": "agama-4",
+      "question": "Perhatikan potongan Q.S. al-Baqarah/2: 155 berikut ! **وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِّنَ** الْخَوْفِ وَالْجُوْعِ وَنَقْصٍ مِّنَ الْاَمْوَالِ وَالْاَنْفُسِ وَالثَّمَرٰتِ Pada potongan ayat yang bergaris bawah terdapat bacaan",
+      "options": {
+        "A": "Qalqalah sugra, ghunnah, ikhfa' safawi dan idgham bighunnah",
+        "B": "Qalqalah sugra, ghunnah, idhar safawi dan idgham bighunnah",
+        "C": "Ghunnah, idgham bighunnah, ihfa' dan alif lam qomariyah",
+        "D": "Idgham bighunnah, ihfa' alif lam qomariyah, ghunnah dan ihfa' safawi"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. Qalqalah sugra, ghunnah, ikhfa' safawi dan idgham bighunnah"
+    },
+    {
+      "id": "agama-5",
+      "question": "Pak Rahman selalu membimbing dan mengajak istri dan anak-anaknya mengerjakan salat jamaah di masjid kampung, walaupun dalam keadaan gerimis mereka tetap rajin salat berjamaah. Dari narasi tersebut Pak Rahman termasuk",
+      "options": {
+        "A": "Rela terhadap qodha'nya Allah Swt.",
+        "B": "Sabar dalam menjauhi maksiat",
+        "C": "Sabar dalam melaksanakan ketaatan kepada Allah Swt.",
+        "D": "Sabar dalam menerima takdir"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Sabar dalam melaksanakan ketaatan kepada Allah Swt."
+    },
+    {
+      "id": "agama-6",
+      "question": "Perhatikan potongan Q. S. Ibrahim/14: 9 berikut! جَاۤءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنٰتِ **فَرَدُّوْٓا اَيْدِيَهُمْ فِيْٓ اَفْوَاهِهِمْ** Arti yang paling tepat pada potongan ayat yang bergaris bawah adalah",
+      "options": {
+        "A": "Rasul-rasul telah datang kepadamu",
+        "B": "Bukti-bukti nyata yang dibawa oleh para rasul",
+        "C": "Mereka menutupkan tangannya ke mulutnya",
+        "D": "Tidak ada yang mengetahui mereka selain Allah"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Mereka menutupkan tangannya ke mulutnya"
+    },
+    {
+      "id": "agama-7",
+      "question": "Hubbah adalah seorang anak dari keluarga miskin, bapaknya pedagang buah di pasar yang penghasilannya hanya dapat mencukupi kebutuhan pokok saja. Keluarga Hubbah termasuk kelompok masyarakat yang kekurangan, tetapi ia termasuk orang yang selalu berusaha berdoa dan mengharapkan anugrah Allah Swt. karena dia yakin Allah akan mengabulkan doanya. Perilaku Hubbah adalah contoh orang Sabar dalam menghadapi ujian dan cobaan. Berikut ini adalah keutamaan orang dan balasan orang sabar dalam menghadapi ujian dan cobaan . .",
+      "options": {
+        "A": "selalu berburuk sangka",
+        "B": "memperoleh teman yang banyak",
+        "C": "memperoleh martabat yang tinggi di surga",
+        "D": "selalu mendapatkan yang diinginkan"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. memperoleh martabat yang tinggi di surga"
+    },
+    {
+      "id": "agama-8",
+      "question": "Pernyataan berikut merupakan obat yang dapat melunakkan hati yang sedang susah",
+      "options": {
+        "A": "Menghadiri majlis ta'lim dan majlis nasihat",
+        "B": "Mendatangi kafe dan hiburan malam",
+        "C": "Berjemur hingga larut malam",
+        "D": "Banyak membaca novel"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. Menghadiri majlis ta'lim dan majlis nasihat"
+    },
+    {
+      "id": "agama-9",
+      "question": "Apa contoh situasi yang mengharuskan seorang suami bersabar dalam melaksanakan ketaatan?",
+      "options": {
+        "A": "Menghindari kemaksiatan.",
+        "B": "Menghadapi cobaan yang sulit.",
+        "C": "Mengajak istri untuk mengerjakan salat.",
+        "D": "Melakukan perintah tanpa ragu."
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Mengajak istri untuk mengerjakan salat."
+    },
+    {
+      "id": "agama-10",
+      "question": "Mengapa sabar dalam menerima takdir Allah dianggap penting?",
+      "options": {
+        "A": "Agar orang lain melihat kita sebagai contoh yang baik.",
+        "B": "Karena Allah suka melihat orang menderita.",
+        "C": "Karena takdir Allah tidak dapat diubah.",
+        "D": "Agar kita bisa mengeluh dan meratapi nasib kita."
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Karena takdir Allah tidak dapat diubah."
+    },
+    {
+      "id": "agama-11",
+      "question": "Apa yang seharusnya dilakukan setiap kali seseorang mendapat musibah?",
+      "options": {
+        "A": "Menghindari situasi yang menimbulkan musibah.",
+        "B": "Mencari solusi dengan cepat.",
+        "C": "Mengeluh kepada orang lain.",
+        "D": "Mengucapkan *\"innaa lillahi wa innaa ilaihi raaji'un.\"*"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. Mengucapkan *\"innaa lillahi wa innaa ilaihi raaji'un.\"*"
+    },
+    {
+      "id": "agama-12",
+      "question": "Apa yang diberikan Allah kepada orang-orang yang sabar menurut Q.S. Al-Baqarah: 155?",
+      "options": {
+        "A": "Kekayaan dan harta benda.",
+        "B": "Kabar gembira dan petunjuk.",
+        "C": "Kemudahan dalam segala hal.",
+        "D": "Kesehatan yang sempurna."
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Kabar gembira dan petunjuk."
+    },
+    {
+      "id": "agama-13",
+      "question": "Setiap mukmin akan diuji oleh Allah Swt. sesuai dengan kadar kemampuannya, oleh karena itu harus dihadapi dengan penuh kesabaran. Berikut ini merupakan ciri-ciri sifat sabar, *kecuali*",
+      "options": {
+        "A": "tidak suka berkeluh kesah",
+        "B": "tabah dalam menghadapi musibah",
+        "C": "tidak mudah putus asa",
+        "D": "selalu mengeluh ketika menghadapi musibah"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. selalu mengeluh ketika menghadapi musibah"
+    },
+    {
+      "id": "agama-14",
+      "question": "Yang termasuk perilaku sabar dalam menghadapi musibah adalah",
+      "options": {
+        "A": "acuh tak acuh terhadap musibah yang dialami",
+        "B": "minta bantuan orang pintar",
+        "C": "menerima dengan lapang dada dan ikhlash",
+        "D": "melakukan kegiatan yang menyenangkan"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. menerima dengan lapang dada dan ikhlash"
+    },
+    {
+      "id": "agama-15",
+      "question": "Di bawah ini adalah hal-hal yang menyebabkan seseorang disebut bersikap sabar dalam menghadapi musibah, *kecuali*",
+      "options": {
+        "A": "menerima cobaan dan ujian dengan ikhlash dan tabah",
+        "B": "berusaha mencari jalan keluar terbaik untuk menghadapi ujian dan cobaan",
+        "C": "tidak mengeluh dengan berlebihan",
+        "D": "menyalahkan orang lain atas ujian yang dihadapi"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. menyalahkan orang lain atas ujian yang dihadapi"
+    },
+    {
+      "id": "agama-16",
+      "question": "Perhatikan ilustrasi berikut! Keluarga Pak Ahmad kehilangan tempat tinggal dan seluruh peralatan bengkelnya akibat bencana banjir bandang. Pak Ahmad berkata kepada anak-anaknya, \"Harta ini adalah titipan Allah yang diambil kembali oleh pemilik-Nya. Mari kita fokus membersihkan sisa alat yang ada dan mulai lagi dari awal.\" Sikap Pak Ahmad menunjukkan implementasi sabar dalam",
+      "options": {
+        "A": "Ketaatan menjalankan perintah Allah",
+        "B": "Menghindari kemaksiatan yang merugikan",
+        "C": "Menerima takdir Allah yang pahit (musibah)",
+        "D": "Mencari rida manusia dalam kesulitan"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Menerima takdir Allah yang pahit (musibah)"
+    },
+    {
+      "id": "agama-17",
+      "question": "Seorang siswa SMK kelas XII gagal masuk ke perusahaan impian saat mengikuti rekrutmen sekolah, padahal ia sudah mempersiapkan diri dengan matang. Ia kemudian terus menyalahkan sistem sekolah dan merasa Allah tidak adil. Respon siswa tersebut menunjukkan bahwa ia belum memahami esensi sabar, karena",
+      "options": {
+        "A": "Sabar seharusnya membuat seseorang berhenti mencoba agar tidak kecewa",
+        "B": "Sabar berarti menerima hasil akhir dengan rida setelah ikhtiar maksimal",
+        "C": "Ujian hanya diberikan kepada orang yang tidak rajin belajar",
+        "D": "Keadilan Allah selalu diukur dari keberhasilan duniawi semata"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Sabar berarti menerima hasil akhir dengan rida setelah ikhtiar maksimal"
+    },
+    {
+      "id": "agama-18",
+      "question": "Allah SWT berfirman dalam QS. Al-Baqarah ayat 155 bahwa manusia akan diuji dengan ketakutan, kelaparan, serta kekurangan harta dan jiwa. Analisis yang paling tepat mengenai hubungan antara ujian tersebut dengan kualitas iman seorang mukmin adalah",
+      "options": {
+        "A": "Ujian bertujuan untuk menjatuhkan martabat manusia di mata orang lain",
+        "B": "Semakin berat ujian, semakin besar indikasi bahwa Allah sedang murka",
+        "C": "Ujian berfungsi sebagai instrumen untuk menyeleksi dan meningkatkan derajat keimanan",
+        "D": "Allah memberikan ujian agar manusia menyadari bahwa dunia adalah tempat penyiksaan"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Ujian berfungsi sebagai instrumen untuk menyeleksi dan meningkatkan derajat keimanan"
+    },
+    {
+      "id": "agama-19",
+      "question": "Dalam menghadapi krisis ekonomi keluarga, seorang siswa SMK memutuskan untuk bekerja paruh waktu setelah pulang sekolah demi membantu biaya pendidikannya sendiri tanpa mengeluh. Tindakan siswa ini merupakan bentuk sabar yang bersifat \"Dinamis\", artinya",
+      "options": {
+        "A": "Pasrah sepenuhnya pada keadaan tanpa melakukan tindakan apa pun",
+        "B": "Mengeluh kepada teman-teman di media sosial agar mendapatkan donasi",
+        "C": "Menjadikan kesabaran sebagai energi untuk tetap produktif dan mencari solusi yang halal",
+        "D": "Menyalahkan orang tua atas kemiskinan yang dialami keluarga"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Menjadikan kesabaran sebagai energi untuk tetap produktif dan mencari solusi yang halal"
+    },
+    {
+      "id": "agama-20",
+      "question": "Ketika seseorang tertimpa musibah, Islam mengajarkan untuk mengucapkan kalimat istirja' (Inna lillahi wa inna ilaihi raji'un). Makna filosofis mendalam dari kalimat ini dalam membangun kesehatan mental adalah",
+      "options": {
+        "A": "Menanamkan kesadaran bahwa segala sesuatu bersifat sementara dan milik Sang Pencipta",
+        "B": "Sebagai mantra agar musibah tersebut segera hilang secara ajaib",
+        "C": "Formalitas lisan untuk menunjukkan bahwa kita adalah orang yang religius",
+        "D": "Upaya untuk menakut-nakuti orang lain dengan konsep kematian"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. Menanamkan kesadaran bahwa segala sesuatu bersifat sementara dan milik Sang Pencipta"
+    },
+    {
+      "id": "agama-21",
+      "question": "Perhatikan perilaku berikut! 1) Segera introspeksi diri (muhasabah) saat menghadapi kegagalan. 2) Mencari-cari kesalahan orang lain untuk menutupi kekurangan diri. 3) Tetap konsisten beribadah meskipun hati sedang berduka. 4) Meratapi nasib dengan menyakiti diri sendiri secara fisik. 5) Berbaik sangka (husnudzon) bahwa ada hikmah di balik setiap kejadian. Manakah yang merupakan ciri perilaku sabar yang sesuai dengan syariat?",
+      "options": {
+        "A": "1), 2), dan 3)",
+        "B": "1), 3), dan 5)",
+        "C": "2), 3), dan 4)",
+        "D": "1), 4), dan 5)"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. 1), 3), dan 5)"
+    },
+    {
+      "id": "agama-22",
+      "question": "Sabar dalam menghadapi \"ujian kesenangan\" (seperti kekayaan mendadak atau popularitas) seringkali dianggap lebih berat daripada sabar dalam kesempitan. Hal ini dikarenakan",
+      "options": {
+        "A": "Orang kaya tidak memiliki kewajiban untuk bersabar",
+        "B": "Kesenangan cenderung membuat manusia lalai, sombong, dan lupa pada sumber nikmat",
+        "C": "Musibah kesempitan lebih mudah diselesaikan dengan uang",
+        "D": "Ujian kesenangan hanya diberikan kepada orang yang tidak beriman"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Kesenangan cenderung membuat manusia lalai, sombong, dan lupa pada sumber nikmat"
+    },
+    {
+      "id": "agama-23",
+      "question": "Siswa SMK jurusan Teknik yang sedang melakukan praktik kerja lapangan (PKL) seringkali mendapatkan teguran keras dari pembimbing industri karena kesalahannya. Respon sabar yang paling profesional dan islami bagi siswa tersebut adalah",
+      "options": {
+        "A": "Langsung mengundurkan diri karena merasa harga dirinya terhina",
+        "B": "Mendengarkan dengan hati panas dan berniat membalas di lain waktu",
+        "C": "Menjadikan teguran sebagai bahan evaluasi untuk memperbaiki kompetensi teknisnya",
+        "D": "Diam saja namun tetap mengulangi kesalahan yang sama secara sengaja"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Menjadikan teguran sebagai bahan evaluasi untuk memperbaiki kompetensi teknisnya"
+    },
+    {
+      "id": "agama-24",
+      "question": "Salah satu janji Allah bagi orang yang bersabar dalam menghadapi musibah adalah mendapatkan pahala tanpa batas dan penghapusan dosa. Syarat agar sebuah musibah dapat menggugurkan dosa adalah",
+      "options": {
+        "A": "Musibah tersebut harus dipublikasikan agar orang lain merasa iba",
+        "B": "Pelakunya harus menangis setiap hari sebagai tanda penyesalan",
+        "C": "Diterima dengan ikhlas, tidak menggerutu, dan tetap berpegang pada aturan Allah",
+        "D": "Harus dibarengi dengan melakukan perjalanan jauh (musafir)"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Diterima dengan ikhlas, tidak menggerutu, dan tetap berpegang pada aturan Allah"
+    },
+    {
+      "id": "agama-25",
+      "question": "\"Andi kehilangan ponsel yang baru dibelinya saat berada di angkutan umum. Meskipun sedih, ia tetap berangkat sekolah dan mengikuti ujian dengan tenang.\" Kasus Andi menunjukkan bahwa sabar memiliki dampak positif terhadap",
+      "options": {
+        "A": "Kemampuan kognitif untuk melupakan kejadian tersebut secara total",
+        "B": "Ketahanan mental (resilience) dalam menjaga stabilitas emosi demi tanggung jawab",
+        "C": "Kepopuleran Andi karena dianggap sebagai orang yang sangat kaya",
+        "D": "Penurunan nilai rapor karena fokusnya terbagi dengan rasa sedih"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Ketahanan mental (resilience) dalam menjaga stabilitas emosi demi tanggung jawab"
+    },
+    {
+      "id": "agama-26",
+      "question": "Tiga unsur akidah islam merupakan pilar agama islam yang memiliki hubungan kuat satuantara satu yang lainnya, ketiga pilar tersebut adalah",
+      "options": {
+        "A": "iman, islam, dan ihsan",
+        "B": "iman, ihsan dan tauhid",
+        "C": "iman, amal dan ihsan",
+        "D": "iman, taqwa dan ibadah"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. iman, islam, dan ihsan"
+    },
+    {
+      "id": "agama-27",
+      "question": "Iman, Islam dan ihsan adalah satu kesatuan yang tidak bisa dipisahkan yang kemudian disebut dengan agama Islam. Berikut ini yang merupakan pengertian dari iman adalah",
+      "options": {
+        "A": "mempercayai dengan hati, mengucapkan dengan lisan dan meragukan dengan perbuatan",
+        "B": "mempercayai setengah hati, mengucapkan dengan lisan dan meragukan dengan perbuatan",
+        "C": "mempercayai dengan hati, mengucapkan dengan lisan dan membuktikan dengan perbuatan",
+        "D": "mempercayai dengan hati, menolak dengan ucapan dan membuktikan dengan perbuatan"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. mempercayai dengan hati, mengucapkan dengan lisan dan membuktikan dengan perbuatan"
+    },
+    {
+      "id": "agama-28",
+      "question": "Seorang mukmin, adalah seorang yang beriman yang melaksanakan ibadah dengan sangat ikhlas, seakan-akan Allah Swt. melihatnya, meskipun ia tidak melihat Allah Swt. Pernyataan tersebut merupakan definisi dari",
+      "options": {
+        "A": "Ihsan",
+        "B": "Islam",
+        "C": "Istishab",
+        "D": "Iman"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. Ihsan"
+    },
+    {
+      "id": "agama-29",
+      "question": "Perhatikan pernyataan berikut! 1) Mahmud hanya mengerjakan shalat jamaah saat berada di sekolah saat dilihat oleh guru dan teman-temannya 2) Mamat selalu berbuat baik, berkata jujur, tetapi tidak pernah shalat 3) Malik senantiasa mendirikan shalat, berkata baik dan rajin bersedekah 4) Maman selalu istiqomah dalam beribadah dan gemar membantu orang tuanya 5) Marwan adalah ketua Rohis di sekolah tetapi saat di rumah sering berbohong kepada orang tuanya Dari pernyataan tersebut, yang perilakunya selaras dengan iman, Islam dan ihsan adalah",
+      "options": {
+        "A": "Malik dan Maman",
+        "B": "Maman dan Marwan",
+        "C": "Marwan dan Mahmud",
+        "D": "Mamad dan Malik"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. Malik dan Maman"
+    },
+    {
+      "id": "agama-30",
+      "question": "Orang yang beriman, tidak akan luput dari ujian dan godaan yang terhadap keimanannya. Semakin beriman seseorang, semakin besar pula ujian dari Allah Swt. baginya. Berikut ini yang bukan merupakan ujian bagi seorang mukmin adalah",
+      "options": {
+        "A": "mukmin yang saling membenci satu sama lain",
+        "B": "mukmin yang saling mendukung satu sama lain",
+        "C": "datangnya orang munafik yang membenci kaum mukmin",
+        "D": "godaan hawa nafsu dari dalam diri setiap mukmin itu sendiri"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. mukmin yang saling mendukung satu sama lain"
+    },
+    {
+      "id": "agama-31",
+      "question": "Iman pada dasarnya adalah keyakinan dan kesadaran dalam hati, sehingga iman mempunyai tiga kriteria, yaitu :",
+      "options": {
+        "A": "Bersifat abstrak, fluktuatif dan mempunyai tingkatan",
+        "B": "Bersifat abstrak, rasional dan mudah difahami",
+        "C": "Bersifat abstrak, hakiki dan terletak dalam hati",
+        "D": "Bersifat abstrak, fluktuatif dan tersembunyi"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. Bersifat abstrak, fluktuatif dan mempunyai tingkatan"
+    },
+    {
+      "id": "agama-32",
+      "question": "Salah satu kriteria iman yakni bersifat abstrak, mengapa demikian?",
+      "options": {
+        "A": "Karena iman hanya dapat diukur dengan perbuatan nyata.",
+        "B": "Karena iman hanya ada dalam hati tanpa ada hubungannya dengan perbuatan.",
+        "C": "Karena iman tidak dapat diukur dan hanya Allah yang mengetahui isi hati.",
+        "D": "Karena iman hanya terkait dengan keyakinan dalam hati dan tidak mempengaruhi perbuatan."
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Karena iman tidak dapat diukur dan hanya Allah yang mengetahui isi hati."
+    },
+    {
+      "id": "agama-33",
+      "question": "Fadil siswa yang selalu berbuat kebaikan dalam bentuk pengabdian dan keihklasan kepadaAllah swt. Fadil selalu berbuat baik dan perbuatannya bermanfaat baik bagi dirinya maupunorang lain, dia selalu menolong temannya yang sedang dalam kesusahan. Perbuatan Fadil mernunjukan perbuatan",
+      "options": {
+        "A": "Iman",
+        "B": "Ihsan",
+        "C": "Islam",
+        "D": "Ikhlas"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Ihsan"
+    },
+    {
+      "id": "agama-34",
+      "question": "Manusia tidak bersifat ma'sum, di suatu waktu memungkinkan berbuat khilaf atau dosa. Berdasarkan ajaran Islam, bila kita berbuat khilaf atau dosa, maka segera",
+      "options": {
+        "A": "bertaubat memohon ampun atas dosa yang dilakukan",
+        "B": "menangisi dan mengakui atas kelemahan diri sendiri",
+        "C": "melakukan konsultasi dengan ustadz atau guru ngaji",
+        "D": "membaca Al-Qur'an dan memohon ampun Allah"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. bertaubat memohon ampun atas dosa yang dilakukan"
+    },
+    {
+      "id": "agama-35",
+      "question": "Perhatikan potongan Q.S. al-Anfal ayat 2 berikut! إِنَّمَا الْمُؤْمِنُوْنَ الَّذِيْنَ اِذَا ذُكِرَ اللّٰهُ وَجِلَتْ قُلُوْبُهُمْ **وَاِذَا تُلِيَتْ عَلَيْهِمْ اٰيٰتُهٗ زَادَتْهُمْ اِيْمَانًا** وَّعَلٰى رَبِّهِمْ يَتَوَكَّلُوْنَ ۙ (٢) Contoh perilaku yang sesuai dengan kandungan dalam ayat yang bergaris bawah adalah",
+      "options": {
+        "A": "Imran selalu khusuk berzikir di masjid sebelum melakukan salat fardu",
+        "B": "Setelah melakukan salat dhuhur, Ali bersegera kembali ke tempat pekerjaannya",
+        "C": "Ketika mendengar adzan, Amir bersegera mengambil air wudhu dan pergi ke masjid",
+        "D": "Husna selalu membawa makanan ke sekolah untuk diberikan kepada teman-temanya"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. Imran selalu khusuk berzikir di masjid sebelum melakukan salat fardu"
+    },
+    {
+      "id": "agama-36",
+      "question": "Indikator seseorang disebut sebagai muslim, apabila telah melafalkan dua kalimah syahadat. Adapun yang menjadi ciri khas kalimat syahadat yang diucapkan oleh seorang muslim ialah",
+      "options": {
+        "A": "Kalimat syahadat hanya berfungsi untuk membersihkan jiwa.",
+        "B": "Kalimat syahadat hanya mengakui keberadaan Allah.",
+        "C": "Kalimat syahadat adalah pernyataan bahwa seseorang tidak akan melakukan kesalahan.",
+        "D": "Kalimat syahadat adalah pernyataan bahwa seseorang akan berusaha menjalankan semua perintah Allah dan menjauhi larangan-Nya."
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. Kalimat syahadat adalah pernyataan bahwa seseorang akan berusaha menjalankan semua perintah Allah dan menjauhi larangan-Nya."
+    },
+    {
+      "id": "agama-37",
+      "question": "Mengapa Islam disebut sebagai agama yang sempurna dan universal?",
+      "options": {
+        "A": "Karena Islam hanya berlaku untuk umat Islam saja.",
+        "B": "Karena Islam tidak memerlukan ibadah seperti salat dan puasa.",
+        "C": "Karena Islam adalah agama yang diwahyukan oleh Allah kepada Nabi Muhammad untuk seluruh umat manusia di dunia.",
+        "D": "Karena Islam hanya berlaku pada periode tertentu dalam sejarah."
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Karena Islam adalah agama yang diwahyukan oleh Allah kepada Nabi Muhammad untuk seluruh umat manusia di dunia."
+    },
+    {
+      "id": "agama-38",
+      "question": "Rudi dan Nanang berboncengan ketika pulang sekolah, di pertigaan tiba-tiba melihat teman dari sekolah lain terjatuh dari sepeda dan sontak Rudi dan Nanang berhenti untuk menolong. Sikap Rudi dan Nanang semacam ini termasuk",
+      "options": {
+        "A": "Ihsan kepada makhluk Allah",
+        "B": "Ihsan kepada sesama manusia",
+        "C": "Supaya dikatakan suka menolong",
+        "D": "Panggilan nurani sebagai manusia"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Ihsan kepada sesama manusia"
+    },
+    {
+      "id": "agama-39",
+      "question": "Menurut Imam An-Nawawi, Ihsan berarti :",
+      "options": {
+        "A": "Menjaga lisan dalam berkata",
+        "B": "Berbuat baik dalam segala hal",
+        "C": "Menjaga sopan santun dalam beramal",
+        "D": "Meyakini dalam hati"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Berbuat baik dalam segala hal"
+    },
+    {
+      "id": "agama-40",
+      "question": "Ditinjau dari tingkatannya, Ihsan terdiri dari dua tingkatan yaitu:",
+      "options": {
+        "A": "muroqobah dan musyahadah",
+        "B": "muroqobah dan mujahadah",
+        "C": "iman dan amal",
+        "D": "syahadah dan makrifah"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. muroqobah dan musyahadah"
+    },
+    {
+      "id": "agama-41",
+      "question": "Menurut Ibnu Katsir, ada 3 macam orang dalam mengamalkan ajaran Islam, yaitu..",
+      "options": {
+        "A": "Dzalim, tidak berlebihan dan berlomba-lomba dalam kebaikan",
+        "B": "Dzalim, mengumbar hawa nafsu dan suka bermaksiat",
+        "C": "Dzalim, tidak suka bermaksiat dan takwa",
+        "D": "Dzalim, munafik dan fasik"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. Dzalim, tidak berlebihan dan berlomba-lomba dalam kebaikan"
+    },
+    {
+      "id": "agama-42",
+      "question": "Ajaran Islam membimbing umat agar menapaki maqam dan derajat \"insan kamil\". Adapun yang dimaksud dengan *\"insan kamil\"* adalah?",
+      "options": {
+        "A": "Manusia yang hidup dalam kemewahan materi.",
+        "B": "Manusia yang sempurna dalam karakter dan perbuatan.",
+        "C": "Manusia yang selalu berada dalam kesulitan.",
+        "D": "Manusia yang tidak perlu menjalankan ibadah."
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Manusia yang sempurna dalam karakter dan perbuatan."
+    },
+    {
+      "id": "agama-43",
+      "question": "Karakteristik manusia sempurna atau *\"insan kamil\"* adalah",
+      "options": {
+        "A": "Orang yang tidak pernah melakukan kesalahan.",
+        "B": "Orang yang memiliki kekayaan materi melimpah.",
+        "C": "Orang yang selalu menghindari tanggung jawab.",
+        "D": "Orang yang berlomba-lomba dalam kebaikan."
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. Orang yang berlomba-lomba dalam kebaikan."
+    },
+    {
+      "id": "agama-44",
+      "question": "Mengapa penting untuk mengembangkan karakter insan kamil dalam dunia modern?",
+      "options": {
+        "A": "Karena dunia modern membutuhkan manusia yang tidak memiliki keyakinan.",
+        "B": "Karena dunia modern hanya fokus pada materi dan kesenangan.",
+        "C": "Karena karakter insan kamil dapat menghasilkan kesuksesan finansial.",
+        "D": "Karena karakter insan kamil membawa keseimbangan dan moral dalam kehidupan."
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. Karena karakter insan kamil membawa keseimbangan dan moral dalam kehidupan."
+    },
+    {
+      "id": "agama-45",
+      "question": "Salah satu karakteristik orang munafik yang disebutkan dalam Al-Qur'an diantaranya adalah",
+      "options": {
+        "A": "Sering memberi sumbangan",
+        "B": "Selalu membantu orang lain",
+        "C": "Berbicara dengan jujur",
+        "D": "Menjadikan sumpah palsu sebagai tameng"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. Menjadikan sumpah palsu sebagai tameng"
+    },
+    {
+      "id": "agama-46",
+      "question": "Orang munafik akan memiliki hati yang rusak dan mati, hal ini dapat mengakibatkan",
+      "options": {
+        "A": "Kehilangan harta",
+        "B": "Kecantikan fisik",
+        "C": "Ketidakmampuan menerima hidayah dan kebaikan",
+        "D": "Kerusakan pada fisik"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Ketidakmampuan menerima hidayah dan kebaikan"
+    },
+    {
+      "id": "agama-47",
+      "question": "Sebagai seorang mukmin, jika ditengah-tengah kehidupan bermasyarakat dijumpai perilaku sikap orang munafik. Apa sebaiknya yang anda lakukan",
+      "options": {
+        "A": "Mengikuti saran mereka",
+        "B": "Mempercayai setiap perkataan mereka",
+        "C": "Membantu mereka dalam setiap situasi",
+        "D": "Selalu bersikap hati-hati dan waspada"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. Selalu bersikap hati-hati dan waspada"
+    },
+    {
+      "id": "agama-48",
+      "question": "Pada saat bertemu Rasulullah Saw. dan kaum muslimin ia berbohong dengan cara menceritakan kejelekan orang orang kafir. Pada saat bertemu orang kafir ia mengaku bagian dari orang kafir dan menjelekjelekan kaum muslimin dan Rasulullah Saw. Pada saat bertemu kaum muslimin dan Rasulullah Saw., ia mengaku bagian dari kaum muslimin dan siap melawan kaum kafir quraisy. Tokoh munafik ini bernama",
+      "options": {
+        "A": "Abdullah bin Umar",
+        "B": "Abdullah bin Jahsyi",
+        "C": "Abdullah bin Ubay",
+        "D": "Abu Jahal"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Abdullah bin Ubay"
+    },
+    {
+      "id": "agama-49",
+      "question": "Perhatikan karakteristik manusia berikut! 1) Bersumpah palsu 2) Menghalangi jalan Allah 3) Menghardik anak yatim 4) Tampilan lahir dan batin berbeda 5) Manis perkataan tapi buruk hati Dari pernyataan-pernyataan tersebut yang merupakan karakteristik munafiqin adalah",
+      "options": {
+        "A": "1, 2, 3 dan 4",
+        "B": "1, 2, 4 dan 5",
+        "C": "2, 3, 4 dan 5",
+        "D": "2, 3 dan 4"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. 1, 2, 4 dan 5"
+    },
+    {
+      "id": "agama-50",
+      "question": "Salah satu karakter orang munafik ialah memiliki karakter dengan sebutan *\"khusyub musannadah\"*, kalimat tersebut memiliki arti bahwa orang munafik bagaikan",
+      "options": {
+        "A": "Kayu yang keras",
+        "B": "Kayu yang panjang",
+        "C": "Kayu yang kuat",
+        "D": "Kayu yang keropos"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. Kayu yang keropos"
+    },
+    {
+      "id": "agama-51",
+      "question": "Menurut Firman Allah dalam surat Al-Baqarah/2: (10), perkara yang akan terjadi pada hati orang yang berdusta ialah",
+      "options": {
+        "A": "Hati menjadi lebih lunak",
+        "B": "Hati mengalami pencerahan",
+        "C": "Hati mengalami perubahan positif",
+        "D": "Hati mengalami penyakit"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. Hati mengalami penyakit"
+    },
+    {
+      "id": "agama-52",
+      "question": "Berikut ini diantara tanda-tanda kerasnya hati adalah",
+      "options": {
+        "A": "ketika keburukan dan perbuatan dosa tidak lagi membuat hatinya terluka",
+        "B": "Banyak melakukan perbuatan baik",
+        "C": "Bermalas-malasan dalam ketaatan",
+        "D": "Terpengaruh oleh ayat-ayat Al-Qur'an"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. ketika keburukan dan perbuatan dosa tidak lagi membuat hatinya terluka"
+    },
+    {
+      "id": "agama-53",
+      "question": "Pada era digital seperti sekarang ini dan segala sesuatu yang serba canggih terkadang memberikan suatu perubahan yang tidak pasti, baik dari segi moral, nilai kehidupan dan spritual. Semakin cepat perubahan itu, semakin maju pula masyakat serta tuntunan hidup yang harus dipenuhi oleh manusia. Oleh karena itu, orang sering tidak mampu untuk mengatasi permasalahan yang dihadapi sehingga menimbulkan rasa stres yang memicu muculnya rasa gelisah dan krisis rohani dan permasalahan spiritual sehingga menimbulkan kerasnya hati manusia. Keras hati dalam bahasa agama sering disebut dengan",
+      "options": {
+        "A": "Qalbun salim",
+        "B": "Qaswah al-Qalb",
+        "C": "Qalbun mayyitun",
+        "D": "Nifaq"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Qaswah al-Qalb"
+    },
+    {
+      "id": "agama-54",
+      "question": "Pak Rokhim sudah dua tahun menderita sakit gula sehingga sangat hati-hati ketika makan dan minum. Pak Fulan menerima musibah ini dengan hati yang ikhlas, sabar dan selalu berdo'a kepada Allah Swt agar penyakitnya segera diangkat dan bisa sehat kembali. Dari cerita tersebut Pak Fulan termasuk orang yang memiliki",
+      "options": {
+        "A": "Qalbun Salim",
+        "B": "Mayyit al-qalb",
+        "C": "Maridh al-qalb",
+        "D": "Qaswat al-qalb"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. Qalbun Salim"
+    },
+    {
+      "id": "agama-55",
+      "question": "Tanda-tanda berikut merupakan orang-orang yang mulai mengeras hatinya",
+      "options": {
+        "A": "Rajin dalam mengerjakan kebaikan dan ketaatan",
+        "B": "Tersentuh hatinya dengan ayat-ayat Al-Qur'an yang dibacakan",
+        "C": "Selalu merasa takut akan janji dan ancaman Allah Swt.",
+        "D": "Bertambahnya kecintaan terhadap dunia dan melupakan akhirat"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. Bertambahnya kecintaan terhadap dunia dan melupakan akhirat"
+    },
+    {
+      "id": "agama-56",
+      "question": "Pernyataan berikut merupakan obat yang dapat melunakkan hati yang sedah susah",
+      "options": {
+        "A": "Mendatangi kafe dan hiburan malam",
+        "B": "Banyak membaca novel",
+        "C": "Menghadiri majlis ta'lim dan majlis nasihat",
+        "D": "Berjemur hingga larut malam"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Menghadiri majlis ta'lim dan majlis nasihat"
+    },
+    {
+      "id": "agama-57",
+      "question": "Apa yang diartikan dengan \"lalai dari ketaatan\" dalam konteks hati yang keras?",
+      "options": {
+        "A": "Tidak merasa takut akan janji Allah",
+        "B": "Tidak terpengaruh oleh berbagai ujian dan cobaan",
+        "C": "Merasa senang saat beribadah",
+        "D": "Tidak mengenal perbuatan ma'ruf dan munkar"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. Tidak mengenal perbuatan ma'ruf dan munkar"
+    },
+    {
+      "id": "agama-58",
+      "question": "Salah satu teman anda, diidentifikasi bahwa ia memiliki tanda-tanda sifat keras hati dalam pergaulan. Sebagai teman dekat saran terbaik untuk melunakkan hati yang keras ialah",
+      "options": {
+        "A": "Memotivasi agar ia banyak berbicara dan makan berlebihan",
+        "B": "Meningkatkan kecintaan terhadap dunia",
+        "C": "Tidak perlu terlibat dalam majlis taklim dan nasihat",
+        "D": "Mengajak beriman kepada Allah dan memperbanyak zikir"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. Mengajak beriman kepada Allah dan memperbanyak zikir"
+    },
+    {
+      "id": "agama-59",
+      "question": "Berikut yang mungkin dirasakan oleh seseorang yang memiliki sikap keras kepala, jika ada ide orang lain yang berbeda darinya, maka",
+      "options": {
+        "A": "Dia akan segera menyetujui ide tersebut",
+        "B": "Dia akan merasa senang dan terbuka untuk ide baru",
+        "C": "Dia akan menganggap ide itu buruk dan tidak berhasil",
+        "D": "Dia akan merasa tidak peduli dengan ide tersebut"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Dia akan menganggap ide itu buruk dan tidak berhasil"
+    },
+    {
+      "id": "agama-60",
+      "question": "Bagaimana seseorang yang keras kepala bereaksi jika ada yang mencoba membujuknya untuk melakukankan hal yang bertentangan dengan keinginannya?",
+      "options": {
+        "A": "Dia akan dengan senang hati melakukannya",
+        "B": "Dia akan mendengarkan dan mempertimbangkan dengan terbuka",
+        "C": "Dia akan merasa tenang dan menerima permintaan tersebut",
+        "D": "Dia akan merasa frustasi dan marah"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. Dia akan merasa frustasi dan marah"
+    },
+    {
+      "id": "agama-61",
+      "question": "Perhatikan pernyataan-pernyataan berikut! 1. Orang memiliki ide atau rencana yang harus diwujudkan, sekalipun ide atau rencana tersebut salah. 2. Bersikeras melakukan suatu hal, meskipun orang lain tidak ingin melakukannya. 3. Ketika orang lain mengutarakan ide atau rencana yang berbeda akan menuduh bahwa ide tersebut buruk dan tidak akan berhasil. 4. Merasa kesal, marah, dan frustrasi ketika orang lain membujuk untuk melakukan hal yang bertentangan dengan keinginan kita 5. Melaksakan ide dan gagasan yang sudah disepakati untuk dilaksanakan bersama Dari pernyataan-pernyataan tersebut yang merupakan ciri-ciri keras kepala adalah",
+      "options": {
+        "A": "1, 2, 3 dan 4",
+        "B": "1, 2, 3 dan 5",
+        "C": "2, 3, 4 dan 5",
+        "D": "2, 3 dan 4"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. 1, 2, 3 dan 4"
+    },
+    {
+      "id": "agama-62",
+      "question": "Sebelum Islam datang, perempuan tidak menerima harta warisan sedikit pun dengan dalih tidak memiliki konstribusi dalam membela kehormatan keluarga. Setelah Islam datang, sebagai agama *rahmatan lil alamin*, memberikan waris pada perempuan, karena",
+      "options": {
+        "A": "ketentuan dari Allah SWT..",
+        "B": "belas kasihan kepada mereka",
+        "C": "menghargai jasa besar mereka",
+        "D": "mereka berhak menerimanya"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. ketentuan dari Allah SWT.."
+    },
+    {
+      "id": "agama-63",
+      "question": "Tidak semua harta peninggalan dapat dibagi kepada ahli waris. Sebelum harta diwariskan, harus dibersihkan dulu dari",
+      "options": {
+        "A": "riba",
+        "B": "riya",
+        "C": "hutang",
+        "D": "kotoran"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. hutang"
+    },
+    {
+      "id": "agama-64",
+      "question": "Ayat yang berbicara tentang masalah warisan adalah",
+      "options": {
+        "A": "Q.S. al-Hadid/57: 12",
+        "B": "Q.S. al-Waqi'ah/56: 15-24",
+        "C": "Q.S. al-Hujurat/9: 12",
+        "D": "Q.S. an-Nisa'/4 : 11-12"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. Q.S. an-Nisa'/4 : 11-12"
+    },
+    {
+      "id": "agama-65",
+      "question": "Menghitung warisan harus memahami apa yang disebut dengan *furudhul muqadarah*, yang artinya adalah",
+      "options": {
+        "A": "hak-hak waris para pewaris",
+        "B": "bagian-bagian tertentu dari waris waris",
+        "C": "ketentuan sebelum harta diwaris",
+        "D": "ketentuan pembagian harta warisan"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. bagian-bagian tertentu dari waris waris"
+    },
+    {
+      "id": "agama-66",
+      "question": "Kelompok penerima warisan, ada yang digolongkan ke dalam dzawil furudh, ada juga yang dari *ashabah*, menurut bahasa *ashabah* berarti",
+      "options": {
+        "A": "terhalang",
+        "B": "bertambah",
+        "C": "sisa harta",
+        "D": "harta yang rusak"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. sisa harta"
+    },
+    {
+      "id": "agama-67",
+      "question": "Dekat tidaknya ahli waris, menentukan hak waris yang diperoleh. Berikut ini ahli waris yang tidak pernah hilang hak warisnya adalah",
+      "options": {
+        "A": "saudara laki-laki dan perempuan",
+        "B": "anak laki-laki dan perempuan",
+        "C": "ayah dan ibu",
+        "D": "cucu laki-laki dan perempuan"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. anak laki-laki dan perempuan"
+    },
+    {
+      "id": "agama-68",
+      "question": "Setiap ahli waris memiliki bagian yang berbeda tergantung dekat tidaknya dengan yang meninggal. Dan ahli waris yang mendapat bagian 2/3 adalah",
+      "options": {
+        "A": "anak perempuan lebih dari satu",
+        "B": "cucu laki laki lebih dari satu",
+        "C": "anak perempuan tunggal",
+        "D": "suami apabila tidak ada anak"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. anak perempuan lebih dari satu"
+    },
+    {
+      "id": "agama-69",
+      "question": "Berikut ini adalah ahli waris yang mendapatkan jatah 1/4, kecuali",
+      "options": {
+        "A": "suami jika ada anak atau cucu",
+        "B": "istri jika tidak ada anak cucu",
+        "C": "dua anak perempuan tanpa anak laki-laki",
+        "D": "istri jika ada anak cucu"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. dua anak perempuan tanpa anak laki-laki"
+    },
+    {
+      "id": "agama-70",
+      "question": "Kedekatan nasab, sangat memberi arti tentang bagian yang diterima. Salah satu ahli berikut ini yang termasuk ashabah binnafsi adalah",
+      "options": {
+        "A": "istri",
+        "B": "suami",
+        "C": "saudara laki-laki sekandung",
+        "D": "anak perempuan"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. saudara laki-laki sekandung"
+    },
+    {
+      "id": "agama-71",
+      "question": "*(Bagian pembagian warisan untuk anak perempuan tunggal, istri, dan ibu)*",
+      "options": {
+        "A": "anak perempuan $1/2$, istri $1/8$, dan ibu $1/6$",
+        "B": "anak perempuan $1/3$, istri $1/6$, dan ibu $1/8$",
+        "C": "anak perempuan $1/4$, istri $1/3$, dan ibu $1/6$",
+        "D": "anak perempuan $1/6$, istri $1/2$, dan ibu $1/4$"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. anak perempuan $1/2$, istri $1/8$, dan ibu $1/6$"
+    },
+    {
+      "id": "agama-72",
+      "question": "Ahli waris yang mendapat bagian tertentu disebut",
+      "options": {
+        "A": "zawil furud",
+        "B": "asabah binafsih",
+        "C": "zawil arham",
+        "D": "'asabah"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. zawil furud"
+    },
+    {
+      "id": "agama-73",
+      "question": "Ahli waris yang mendapat sisa bagian karena dirinya sendiri disebut",
+      "options": {
+        "A": "Asabah",
+        "B": "Asabah ma'al gair",
+        "C": "Asabah bil gair",
+        "D": "Asabah binafsih"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. Asabah binafsih"
+    },
+    {
+      "id": "agama-74",
+      "question": "Pengertian dari *Mahjub* adalah ?",
+      "options": {
+        "A": "Seseorang kehilangan hak warisnya karena meninggal dunia.",
+        "B": "Seseorang kehilangan hak warisnya karena membunuh.",
+        "C": "Seseorang kehilangan hak warisnya karena terhalang oleh ahli waris yang lebih dekat.",
+        "D": "Harta pusaka habis untuk melunasi utang dan wasiat."
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Seseorang kehilangan hak warisnya karena terhalang oleh ahli waris yang lebih dekat."
+    },
+    {
+      "id": "agama-75",
+      "question": "Jika seseorang meninggal, ahli warisnya dari pihak laki-laki ada lima belas orang. Apabila kelima belas orang tersebut semua ada, maka yang berhak menerima harta pusaka hanya tiga orang saja. Siapakah ketiga ahli waris yang dimaksud ?",
+      "options": {
+        "A": "Kakek, suami, dan bapak.",
+        "B": "Saudara laki-laki seibu sebapak, anak laki-laki, dan suami.",
+        "C": "Cucu laki-laki, anak laki-laki, dan bapak.",
+        "D": "Bapak, anak laki-laki, dan suami."
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. Bapak, anak laki-laki, dan suami."
+    },
+    {
+      "id": "agama-76",
+      "question": "Ahli waris yang mendapat bagian $1/4$ adalah",
+      "options": {
+        "A": "istri, jika tidak ada anak",
+        "B": "ibu",
+        "C": "bapak",
+        "D": "suami, jika tidak ada anak"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. istri, jika tidak ada anak"
+    },
+    {
+      "id": "agama-77",
+      "question": "Perhatikan pernyataan-pernyataan berikut ini! 1) Anak perempuan, jika ia sendiri tanpa saudara-saudaranya. 2) Suami, jika istrinya yang meninggal itu mempunyai anak. 3) Cucu perempuan dari anak laki-laki, jika tidak ada anak perempuan. 4) Nenek, jika ibu dari si mayat tidak ada. 5) Saudara perempuan yang seibu sebapak sendirian. Kelompok \"ahli waris dengan bagian tertentu\" yang memperoleh $1/2$ dari harta pusaka ditunjukkan oleh nomor",
+      "options": {
+        "A": "1), 2), dan 3)",
+        "B": "2), 4), dan 5)",
+        "C": "2), 3), dan 4)",
+        "D": "1), 3), dan 5)"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. 1), 3), dan 5)"
+    },
+    {
+      "id": "agama-78",
+      "question": "Pak Adam meninggal dunia tanpa meninggalkan seorang pun ahli waris. Dengan demikian, harta Pak Adam",
+      "options": {
+        "A": "menjadi hak umat Islam dan diserahkan kepada Baitul Mal",
+        "B": "boleh diambil oleh siapa saja yang mau",
+        "C": "menjadi hak orang-orang terdekatnya",
+        "D": "otomatis hanya untuk memenuhi wasiat dan membayar utang saja"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. menjadi hak umat Islam dan diserahkan kepada Baitul Mal"
+    },
+    {
+      "id": "agama-79",
+      "question": "Adanya hukum waris memberikan keadilan bagi kehidupan manusia. Pernyataan di bawah ini merupakan hikmah adanya hukum waris, kecuali",
+      "options": {
+        "A": "sebagai pembelajaran untuk menjadi lebih bijaksana",
+        "B": "menjalin persaudaraan berdasarkan hak dan kewajiban",
+        "C": "menghindari perselisihan yang mungkin terjadi antar ahli waris",
+        "D": "menghilangkan pilih kasih dari orangtua kepada anak anaknya"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. menghilangkan pilih kasih dari orangtua kepada anak anaknya"
+    },
+    {
+      "id": "agama-80",
+      "question": "Budaya keilmuan di Republik Islam Pakistan, telah melahirkan sejumlah ilmuwan Muslim, berikut ini yang bukan ilmuwan muslim dari Pakistan adalah",
+      "options": {
+        "A": "Imam Malik",
+        "B": "Abu A'la al-Maududi",
+        "C": "Dr. Abdus Salam",
+        "D": "Muhammad Iqbal"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. Imam Malik"
+    },
+    {
+      "id": "agama-81",
+      "question": "Bangunan monumental dalam perkembangan peradaban Islam di India yang masih berdiri kokoh hingga sekarang ini, yaitu",
+      "options": {
+        "A": "Baitul Maqdis",
+        "B": "Masjid Nabawi",
+        "C": "Taj mahal",
+        "D": "Masjid Aya Sophia"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Taj mahal"
+    },
+    {
+      "id": "agama-82",
+      "question": "Pendiri Pakistan Philosophical Congress, juga editor History of Muslim Phylosophy, salah satu buku terbaik untuk sejarah filsafat saat ini adalah",
+      "options": {
+        "A": "Muhammad Iqbal",
+        "B": "Abu A'lā al Maududi",
+        "C": "M. M. Syarif",
+        "D": "Fazlur Rahman"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. M. M. Syarif"
+    },
+    {
+      "id": "agama-83",
+      "question": "Masa ekspansi kekhalifahan Turki Usmani sekitar abad ke-14 dan ke15 ke wilayah Balkan dan Eropa Tengah. Akibat ekspansi itu sampai sekarang terdapat kaum Muslim keturunan Turki di Yugoslavia, Rumania, Yunani, Bosnia Herzegovina, dan di Albania. Di antara negara tersebut yang mayoritas muslim adalah",
+      "options": {
+        "A": "Yugoslavia",
+        "B": "Albania",
+        "C": "Bosnia",
+        "D": "Rumania"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Albania"
+    },
+    {
+      "id": "agama-84",
+      "question": "Kaum imigran Muslim memasuki benua Eropa setelah perang dunia ke2, terutama ke negara-negara industri. Berikut ini negara yang bukan termasuk negara yang dituju yaitu...,",
+      "options": {
+        "A": "Jerman",
+        "B": "Inggris",
+        "C": "Turki",
+        "D": "Belanda"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Turki"
+    },
+    {
+      "id": "agama-85",
+      "question": "Islam masuk ke India pada abad ke-7. kemudian agama Islam dapat berkembang dengan pesatnya di sana. Bukti berkembangnya Islam di India adalah dengan berdirinya kerajaan-kerajaan Islam serta peninggalannya. Berikut yang tidak termasuk kerajaan Islam di India adalah",
+      "options": {
+        "A": "Kerajaan Sabaktakin",
+        "B": "Kerajaan Mamalik",
+        "C": "Kerajaan Goa Talo",
+        "D": "Kerajaan Ghazi"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Kerajaan Goa Talo"
+    },
+    {
+      "id": "agama-86",
+      "question": "Panglima Islam yang diutus Khalifah Umar bin Khattab untuk membebaskan Mesir dari cengkeraman Bizantium (Romawi Timur) adalah",
+      "options": {
+        "A": "Khalid bin Walid",
+        "B": "Hamzah",
+        "C": "Ibnu Umar",
+        "D": "Amru bin Ash"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D. Amru bin Ash"
+    },
+    {
+      "id": "agama-87",
+      "question": "Salah satu bukti peninggalan peradaban Islam di Spanyol adalah",
+      "options": {
+        "A": "Tajmahal",
+        "B": "Istana Al-Hambra",
+        "C": "Observatorium Maragha",
+        "D": "Masjid Qiblatain"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Istana Al-Hambra"
+    },
+    {
+      "id": "agama-88",
+      "question": "Agama Islam masuk ke Austria dibawa oleh para imigran terutama dari Turki dan Afrika. Pada tahun 1976, dibentuklah organisasi Islam yang bertaraf nasional, yang tugasnya melaksanakan koordinasi, khususnya dalam dakwah Islam di seluruh wilayah Benua Australia. Organisasi tersebut bernama",
+      "options": {
+        "A": "AFIC",
+        "B": "ISNA",
+        "C": "AFFC",
+        "D": "AMSS"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. AFIC"
+    },
+    {
+      "id": "agama-89",
+      "question": "Perkembangan Islam di Benua Asia, khususnya di Asia Tenggara, dikenal melalui jalur perdagangan yang damai. Jika dianalisis dari sisi sosiologis, mengapa Islam dapat diterima dengan cepat oleh masyarakat lokal tanpa melalui ekspansi militer?",
+      "options": {
+        "A": "Karena para pedagang Muslim memiliki kekuatan ekonomi untuk membeli kesetiaan penguasa lokal",
+        "B": "Adanya keselarasan antara nilai-nilai Islam dengan prinsip kesetaraan sosial yang meruntuhkan sistem kasta",
+        "C": "Para pedagang Muslim memaksakan hukum syariat sebagai syarat transaksi perdagangan",
+        "D": "Masyarakat Asia Tenggara saat itu belum memiliki kepercayaan atau agama apa pun"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Adanya keselarasan antara nilai-nilai Islam dengan prinsip kesetaraan sosial yang meruntuhkan sistem kasta"
+    },
+    {
+      "id": "agama-90",
+      "question": "Andalusia (Spanyol) di Benua Eropa pernah menjadi mercusuar peradaban dunia. Salah satu faktor kunci yang menyebabkan ilmu pengetahuan berkembang pesat di sana adalah adanya Convivencia. Nilai utama dari konsep ini adalah",
+      "options": {
+        "A": "Dominasi mutlak umat Islam terhadap seluruh aspek kehidupan masyarakat Eropa",
+        "B": "Persaingan senjata antarumat beragama untuk menunjukkan siapa yang paling kuat",
+        "C": "Pola hidup berdampingan secara damai dan kolaboratif antara umat Islam, Kristen, dan Yahudi",
+        "D": "Penutupan akses ilmu pengetahuan dari luar wilayah Eropa agar tidak tercemar"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Pola hidup berdampingan secara damai dan kolaboratif antara umat Islam, Kristen, dan Yahudi"
+    },
+    {
+      "id": "agama-91",
+      "question": "Universitas Al-Azhar di Mesir (Afrika) dan Universitas Al-Qarawiyyin di Maroko merupakan bukti kejayaan pendidikan Islam. Dampak jangka panjang dari keberadaan institusi tersebut terhadap peradaban modern adalah",
+      "options": {
+        "A": "Terciptanya sistem ekonomi global yang hanya berpusat di benua Afrika",
+        "B": "Menjadi model awal manajemen pendidikan tinggi dan pemberian gelar akademik di dunia",
+        "C": "Menghapus seluruh literatur sains yang berasal dari peradaban Yunani dan Romawi",
+        "D": "Menolak segala bentuk inovasi teknologi yang tidak berasal dari ulama lokal"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Menjadi model awal manajemen pendidikan tinggi dan pemberian gelar akademik di dunia"
+    },
+    {
+      "id": "agama-92",
+      "question": "Di Benua Amerika, populasi Muslim mengalami pertumbuhan melalui jalur imigrasi dan konversi. Tantangan terbesar sekaligus peluang dakwah bagi umat Islam di negara sekuler seperti Amerika Serikat adalah",
+      "options": {
+        "A": "Memaksakan pembentukan negara Islam melalui jalur politik praktis",
+        "B": "Menutup diri dari pergaulan sosial agar akidah tetap terjaga dari pengaruh Barat",
+        "C": "Menunjukkan integritas moral dan profesionalisme kerja sebagai wujud dakwah bil-hal",
+        "D": "Mengabaikan hukum negara setempat jika dirasa tidak sesuai dengan tradisi asal"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C. Menunjukkan integritas moral dan profesionalisme kerja sebagai wujud dakwah bil-hal"
+    },
+    {
+      "id": "agama-93",
+      "question": "Jalur Sutra (Silk Road) menjadi sarana penting penyebaran Islam di Asia Tengah hingga ke daratan Cina. Analisis yang tepat mengenai hubungan antara perdagangan dan penyebaran agama pada jalur ini adalah",
+      "options": {
+        "A": "Agama Islam menyebar karena menjadi syarat utama untuk melewati perbatasan wilayah",
+        "B": "Para pedagang Muslim berperan sebagai duta budaya yang memperkenalkan Islam melalui kejujuran dalam bertransaksi",
+        "C": "Terjadi asimilasi paksa antara pedagang Arab dengan penduduk asli Cina",
+        "D": "Kaisar Cina mewajibkan seluruh rakyatnya memeluk Islam agar perdagangan lancar"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Para pedagang Muslim berperan sebagai duta budaya yang memperkenalkan Islam melalui kejujuran dalam bertransaksi"
+    },
+    {
+      "id": "agama-94",
+      "question": "Peradaban Islam di Afrika Sub-Sahara, seperti Kerajaan Mali, pernah mencapai puncak kemakmuran hingga memengaruhi nilai tukar emas dunia saat Mansa Musa melakukan haji. Hal ini membuktikan bahwa",
+      "options": {
+        "A": "Ibadah haji hanya boleh dilakukan oleh orang-orang yang sangat kaya",
+        "B": "Kejayaan peradaban Islam di Afrika dibangun atas dasar kekuatan ekonomi dan kedermawanan sosial",
+        "C": "Afrika adalah satu-satunya benua yang memiliki cadangan emas pada masa pertengahan",
+        "D": "Mansa Musa ingin menunjukkan kekuatannya untuk menjajah wilayah Timur Tengah"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Kejayaan peradaban Islam di Afrika dibangun atas dasar kekuatan ekonomi dan kedermawanan sosial"
+    },
+    {
+      "id": "agama-95",
+      "question": "Saat ini, banyak ilmuwan Muslim di Eropa dan Amerika yang menempati posisi strategis di lembaga riset seperti NASA atau CERN. Jika dikaitkan dengan sejarah kejayaan Islam masa lalu, fenomena ini menunjukkan bahwa",
+      "options": {
+        "A": "Umat Islam sedang berusaha mengambil alih teknologi Barat untuk kepentingan militer",
+        "B": "Karakteristik intelektual Islam yang inklusif dan universal masih relevan dalam sains modern",
+        "C": "Barat tidak mampu mengembangkan teknologi tanpa bantuan dari ilmuwan Muslim",
+        "D": "Ilmu pengetahuan umum lebih penting daripada pemahaman agama bagi Muslim modern"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Karakteristik intelektual Islam yang inklusif dan universal masih relevan dalam sains modern"
+    },
+    {
+      "id": "agama-96",
+      "question": "Pembangunan Masjid Raya Paris di Prancis setelah Perang Dunia I merupakan bentuk penghargaan atas jasa tentara Muslim. Hal ini menunjukkan bahwa keberadaan Islam di Eropa pada masa modern diakui melalui",
+      "options": {
+        "A": "Penaklukan wilayah secara fisik melalui perang saudara",
+        "B": "Kontribusi nyata dan pengorbanan dalam sejarah perjuangan bangsa setempat",
+        "C": "Tekanan diplomatik dari negara-negara kaya minyak di Timur Tengah",
+        "D": "Keinginan masyarakat Eropa untuk meninggalkan agama lama mereka"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Kontribusi nyata dan pengorbanan dalam sejarah perjuangan bangsa setempat"
+    },
+    {
+      "id": "agama-97",
+      "question": "Perkembangan Islam di Benua Australia sering kali dikaitkan dengan peran para \"Cameleers\" (penunggang unta) dari Afghanistan dan Pakistan. Pelajaran berharga (ibrah) dari sejarah ini bagi siswa SMK adalah",
+      "options": {
+        "A": "Pentingnya menguasai teknik peternakan hewan untuk berdakwah",
+        "B": "Dakwah bisa dilakukan melalui profesi apa pun selama dijalani dengan amanah dan disiplin",
+        "C": "Australia adalah benua yang sulit dijangkau tanpa bantuan hewan unta",
+        "D": "Kita harus membatasi diri hanya berteman dengan sesama perantau Muslim"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Dakwah bisa dilakukan melalui profesi apa pun selama dijalani dengan amanah dan disiplin"
+    },
+    {
+      "id": "agama-98",
+      "question": "Peradaban Islam di dunia saat ini mulai beralih ke arah digitalisasi dan ekonomi syariah global. Strategi yang paling tepat bagi lulusan SMK untuk berkontribusi dalam peradaban Islam masa depan adalah",
+      "options": {
+        "A": "Mempelajari sejarah masa lalu hanya untuk membanggakan kejayaan nenek moyang",
+        "B": "Menguasai kompetensi teknis (hardskill) yang dibarengi dengan etika profesi (softskill) islami",
+        "C": "Menolak bekerja di perusahaan non-Muslim agar tidak terkontaminasi budaya asing",
+        "D": "Fokus pada ibadah ritual saja karena urusan dunia sudah ada yang mengatur"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B. Menguasai kompetensi teknis (hardskill) yang dibarengi dengan etika profesi (softskill) islami"
+    },
+    {
+      "id": "agama-114",
+      "question": "Perhatikanlan Q.S.an-Nisa'/4:7 di bawah ini! لِلرِّجَالِ نَصِيْبٌ مِّمَّا تَرَكَ الْوَالِدٰنِ وَالْاَقْرَبُوْنَ وَلِلنِّسَاۤءِ نَصِيْبٌ مِّمَّا تَرَكَ الْوَالِدٰنِ وَالْاَقْرَبُوْنَ مِمَّا قَلَّ مِنْهُ اَوْ كَثُرَ ۗ **نَصِيْبًا مَّفْرُوْضًا** Terjemahan yang tepat untuk kalimat yang di beri garis bawah adalah",
+      "options": {
+        "A": "baik sedikit atau banyak menurut bahagian yang telah ditetapkan",
+        "B": "dari harta peninggalan ibu-bapak dan kerabat-kerabatnya",
+        "C": "dari harta peninggalan keluarga dan kerabatnya",
+        "D": "dan bagi seorang wanita ada hak bagian (pula)"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A. baik sedikit atau banyak menurut bahagian yang telah ditetapkan"
+    }
+  ],
+  "bing": [],
+  "bin": [],
+  "mtk": []
+}
