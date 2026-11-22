@@ -808,7 +808,7 @@
   "agama": [
     {
       "id": "agama-1",
-      "question": "Pak Sarno adalah seorang pengusaha Restoran yang sukses mengembangkan usahanya hingga dia dapat mendirikan restoran di berbagai kota. Saat jalan tol dibangun usaha, usahanya mengalami penurunan omset hingga terlilit hutang jutaan rupiah, akan tetapi Pak Sarno tetap rajin menunaikan salat lima waktu, membaca Al-Qur'an sembari berdoa kepada Allah Swt. untuk agar dimudahkan dalam melunasi hutang-hutangnya. Dari cerita tersebut Pak Sarno termasuk orang yang",
+      "question": "** Pak Sarno adalah seorang pengusaha Restoran yang sukses mengembangkan usahanya hingga dia dapat mendirikan restoran di berbagai kota. Saat jalan tol dibangun usaha, usahanya mengalami penurunan omset hingga terlilit hutang jutaan rupiah, akan tetapi Pak Sarno tetap rajin menunaikan salat lima waktu, membaca Al-Qur'an sembari berdoa kepada Allah Swt. untuk agar dimudahkan dalam melunasi hutang-hutangnya. Dari cerita tersebut Pak Sarno termasuk orang yang . . . .",
       "options": {
         "A": "Sabar dalam menerima cobaan",
         "B": "Sabar dalam menerima ujian",
@@ -816,11 +816,11 @@
         "D": "Sabar dalam menerima takdir"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Sabar dalam taat kepada Allah Swt."
+      "explanation": "Jawaban benar adalah C."
     },
     {
       "id": "agama-2",
-      "question": "Pak Rakhim dikabari bahwa tetangganya yang dirawat di rumah sakit meninggal dunia, dengan sepontan Pak Fulan mengucapkan *\"inna lillahi wainna ilaihi roji'un\"*. Ungkapan tersebut dalam agama islam disebut dengan bacaan",
+      "question": "** Pak Rakhim dikabari bahwa tetangganya yang dirawat di rumah sakit meninggal dunia, dengan sepontan Pak Fulan mengucapkan *\"inna lillahi wainna ilaihi roji'un\"*. Ungkapan tersebut dalam agama islam disebut dengan bacaan . . . .",
       "options": {
         "A": "Hauqolah",
         "B": "Tarji'",
@@ -828,11 +828,11 @@
         "D": "Tahmid"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Tarji'"
+      "explanation": "Jawaban benar adalah B."
     },
     {
       "id": "agama-3",
-      "question": "Dalam hadis riwayat Ummu Salamah, Rasulullah Saw. mengajarkan do'a kepada umatnya saat menghadapi musibah. Do'a tersebut berbunyi *\"Inna lillahi wa inna ilaihi raji'un\"*, yang artinya adalah?",
+      "question": "** Dalam hadis riwayat Ummu Salamah, Rasulullah Saw. mengajarkan do'a kepada umatnya saat menghadapi musibah. Do'a tersebut berbunyi *\"Inna lillahi wa inna ilaihi raji'un\"*, yang artinya adalah?",
       "options": {
         "A": "Kami mohon ampun kepada Allah",
         "B": "Segala puji bagi Allah",
@@ -840,11 +840,11 @@
         "D": "Allah Maha Pengampun"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Sesungguhnya kami milik Allah dan kepada-Nya kami kembali"
+      "explanation": "Jawaban benar adalah C."
     },
     {
       "id": "agama-4",
-      "question": "Perhatikan potongan Q.S. al-Baqarah/2: 155 berikut ! **وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِّنَ** الْخَوْفِ وَالْجُوْعِ وَنَقْصٍ مِّنَ الْاَمْوَالِ وَالْاَنْفُسِ وَالثَّمَرٰتِ Pada potongan ayat yang bergaris bawah terdapat bacaan",
+      "question": "** Perhatikan potongan Q.S. al-Baqarah/2: 155 berikut !",
       "options": {
         "A": "Qalqalah sugra, ghunnah, ikhfa' safawi dan idgham bighunnah",
         "B": "Qalqalah sugra, ghunnah, idhar safawi dan idgham bighunnah",
@@ -852,11 +852,11 @@
         "D": "Idgham bighunnah, ihfa' alif lam qomariyah, ghunnah dan ihfa' safawi"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. Qalqalah sugra, ghunnah, ikhfa' safawi dan idgham bighunnah"
+      "explanation": "Jawaban benar adalah A."
     },
     {
       "id": "agama-5",
-      "question": "Pak Rahman selalu membimbing dan mengajak istri dan anak-anaknya mengerjakan salat jamaah di masjid kampung, walaupun dalam keadaan gerimis mereka tetap rajin salat berjamaah. Dari narasi tersebut Pak Rahman termasuk",
+      "question": "** Pak Rahman selalu membimbing dan mengajak istri dan anak-anaknya mengerjakan salat jamaah di masjid kampung, walaupun dalam keadaan gerimis mereka tetap rajin salat berjamaah. Dari narasi tersebut Pak Rahman termasuk . . . .",
       "options": {
         "A": "Rela terhadap qodha'nya Allah Swt.",
         "B": "Sabar dalam menjauhi maksiat",
@@ -864,11 +864,11 @@
         "D": "Sabar dalam menerima takdir"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Sabar dalam melaksanakan ketaatan kepada Allah Swt."
+      "explanation": "Jawaban benar adalah C."
     },
     {
       "id": "agama-6",
-      "question": "Perhatikan potongan Q. S. Ibrahim/14: 9 berikut! جَاۤءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنٰتِ **فَرَدُّوْٓا اَيْدِيَهُمْ فِيْٓ اَفْوَاهِهِمْ** Arti yang paling tepat pada potongan ayat yang bergaris bawah adalah",
+      "question": "** Perhatikan potongan Q. S. Ibrahim/14: 9 berikut!",
       "options": {
         "A": "Rasul-rasul telah datang kepadamu",
         "B": "Bukti-bukti nyata yang dibawa oleh para rasul",
@@ -876,11 +876,11 @@
         "D": "Tidak ada yang mengetahui mereka selain Allah"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Mereka menutupkan tangannya ke mulutnya"
+      "explanation": "Jawaban benar adalah C."
     },
     {
       "id": "agama-7",
-      "question": "Hubbah adalah seorang anak dari keluarga miskin, bapaknya pedagang buah di pasar yang penghasilannya hanya dapat mencukupi kebutuhan pokok saja. Keluarga Hubbah termasuk kelompok masyarakat yang kekurangan, tetapi ia termasuk orang yang selalu berusaha berdoa dan mengharapkan anugrah Allah Swt. karena dia yakin Allah akan mengabulkan doanya. Perilaku Hubbah adalah contoh orang Sabar dalam menghadapi ujian dan cobaan. Berikut ini adalah keutamaan orang dan balasan orang sabar dalam menghadapi ujian dan cobaan . .",
+      "question": "** Hubbah adalah seorang anak dari keluarga miskin, bapaknya pedagang buah di pasar yang penghasilannya hanya dapat mencukupi kebutuhan pokok saja. Keluarga Hubbah termasuk kelompok masyarakat yang kekurangan, tetapi ia termasuk orang yang selalu berusaha berdoa dan mengharapkan anugrah Allah Swt. karena dia yakin Allah akan mengabulkan doanya. Perilaku Hubbah adalah contoh orang Sabar dalam menghadapi ujian dan cobaan. Berikut ini adalah keutamaan orang dan balasan orang sabar dalam menghadapi ujian dan cobaan . .",
       "options": {
         "A": "selalu berburuk sangka",
         "B": "memperoleh teman yang banyak",
@@ -888,11 +888,11 @@
         "D": "selalu mendapatkan yang diinginkan"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. memperoleh martabat yang tinggi di surga"
+      "explanation": "Jawaban benar adalah C."
     },
     {
       "id": "agama-8",
-      "question": "Pernyataan berikut merupakan obat yang dapat melunakkan hati yang sedang susah",
+      "question": "** Pernyataan berikut merupakan obat yang dapat melunakkan hati yang sedang susah . . .",
       "options": {
         "A": "Menghadiri majlis ta'lim dan majlis nasihat",
         "B": "Mendatangi kafe dan hiburan malam",
@@ -900,11 +900,11 @@
         "D": "Banyak membaca novel"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. Menghadiri majlis ta'lim dan majlis nasihat"
+      "explanation": "Jawaban benar adalah A."
     },
     {
       "id": "agama-9",
-      "question": "Apa contoh situasi yang mengharuskan seorang suami bersabar dalam melaksanakan ketaatan?",
+      "question": "** Apa contoh situasi yang mengharuskan seorang suami bersabar dalam melaksanakan ketaatan?",
       "options": {
         "A": "Menghindari kemaksiatan.",
         "B": "Menghadapi cobaan yang sulit.",
@@ -912,11 +912,11 @@
         "D": "Melakukan perintah tanpa ragu."
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Mengajak istri untuk mengerjakan salat."
+      "explanation": "Jawaban benar adalah C."
     },
     {
       "id": "agama-10",
-      "question": "Mengapa sabar dalam menerima takdir Allah dianggap penting?",
+      "question": "** Mengapa sabar dalam menerima takdir Allah dianggap penting?",
       "options": {
         "A": "Agar orang lain melihat kita sebagai contoh yang baik.",
         "B": "Karena Allah suka melihat orang menderita.",
@@ -924,11 +924,11 @@
         "D": "Agar kita bisa mengeluh dan meratapi nasib kita."
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Karena takdir Allah tidak dapat diubah."
+      "explanation": "Jawaban benar adalah C."
     },
     {
       "id": "agama-11",
-      "question": "Apa yang seharusnya dilakukan setiap kali seseorang mendapat musibah?",
+      "question": "** Apa yang seharusnya dilakukan setiap kali seseorang mendapat musibah?",
       "options": {
         "A": "Menghindari situasi yang menimbulkan musibah.",
         "B": "Mencari solusi dengan cepat.",
@@ -936,11 +936,11 @@
         "D": "Mengucapkan *\"innaa lillahi wa innaa ilaihi raaji'un.\"*"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. Mengucapkan *\"innaa lillahi wa innaa ilaihi raaji'un.\"*"
+      "explanation": "Jawaban benar adalah D."
     },
     {
       "id": "agama-12",
-      "question": "Apa yang diberikan Allah kepada orang-orang yang sabar menurut Q.S. Al-Baqarah: 155?",
+      "question": "** Apa yang diberikan Allah kepada orang-orang yang sabar menurut Q.S. Al-Baqarah: 155?",
       "options": {
         "A": "Kekayaan dan harta benda.",
         "B": "Kabar gembira dan petunjuk.",
@@ -948,11 +948,11 @@
         "D": "Kesehatan yang sempurna."
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Kabar gembira dan petunjuk."
+      "explanation": "Jawaban benar adalah B."
     },
     {
       "id": "agama-13",
-      "question": "Setiap mukmin akan diuji oleh Allah Swt. sesuai dengan kadar kemampuannya, oleh karena itu harus dihadapi dengan penuh kesabaran. Berikut ini merupakan ciri-ciri sifat sabar, *kecuali*",
+      "question": "** Setiap mukmin akan diuji oleh Allah Swt. sesuai dengan kadar kemampuannya, oleh karena itu harus dihadapi dengan penuh kesabaran. Berikut ini merupakan ciri-ciri sifat sabar, *kecuali*...",
       "options": {
         "A": "tidak suka berkeluh kesah",
         "B": "tabah dalam menghadapi musibah",
@@ -960,11 +960,23 @@
         "D": "selalu mengeluh ketika menghadapi musibah"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. selalu mengeluh ketika menghadapi musibah"
+      "explanation": "Jawaban benar adalah D."
     },
     {
       "id": "agama-14",
-      "question": "Yang termasuk perilaku sabar dalam menghadapi musibah adalah",
+      "question": "** Saat dilampu merah banyak pengendara motor yang lain memberhentikan kendaraannya melewati garis batas bahkan berlomba berhenti paling depan agar dapat segera melaju ketika lampu hijau menyala. Akan tetapi pak Amin menunggu di tempat yang semestinya sambil menunggu lampu hijau menyala. Perilaku pak Amin mencerminkan sikap....",
+      "options": {
+        "A": "empati",
+        "B": "Ikhlash",
+        "C": "husnudzan",
+        "D": "sabar"
+      },
+      "answer": "D",
+      "explanation": "Jawaban benar adalah D."
+    },
+    {
+      "id": "agama-15",
+      "question": "** Yang termasuk perilaku sabar dalam menghadapi musibah adalah ...",
       "options": {
         "A": "acuh tak acuh terhadap musibah yang dialami",
         "B": "minta bantuan orang pintar",
@@ -972,11 +984,11 @@
         "D": "melakukan kegiatan yang menyenangkan"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. menerima dengan lapang dada dan ikhlash"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-15",
-      "question": "Di bawah ini adalah hal-hal yang menyebabkan seseorang disebut bersikap sabar dalam menghadapi musibah, *kecuali*",
+      "id": "agama-16",
+      "question": "** Di bawah ini adalah hal-hal yang menyebabkan seseorang disebut bersikap sabar dalam menghadapi musibah, *kecuali* ....",
       "options": {
         "A": "menerima cobaan dan ujian dengan ikhlash dan tabah",
         "B": "berusaha mencari jalan keluar terbaik untuk menghadapi ujian dan cobaan",
@@ -984,11 +996,11 @@
         "D": "menyalahkan orang lain atas ujian yang dihadapi"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. menyalahkan orang lain atas ujian yang dihadapi"
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-16",
-      "question": "Perhatikan ilustrasi berikut! Keluarga Pak Ahmad kehilangan tempat tinggal dan seluruh peralatan bengkelnya akibat bencana banjir bandang. Pak Ahmad berkata kepada anak-anaknya, \"Harta ini adalah titipan Allah yang diambil kembali oleh pemilik-Nya. Mari kita fokus membersihkan sisa alat yang ada dan mulai lagi dari awal.\" Sikap Pak Ahmad menunjukkan implementasi sabar dalam",
+      "id": "agama-17",
+      "question": "** Perhatikan ilustrasi berikut!",
       "options": {
         "A": "Ketaatan menjalankan perintah Allah",
         "B": "Menghindari kemaksiatan yang merugikan",
@@ -996,11 +1008,11 @@
         "D": "Mencari rida manusia dalam kesulitan"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Menerima takdir Allah yang pahit (musibah)"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-17",
-      "question": "Seorang siswa SMK kelas XII gagal masuk ke perusahaan impian saat mengikuti rekrutmen sekolah, padahal ia sudah mempersiapkan diri dengan matang. Ia kemudian terus menyalahkan sistem sekolah dan merasa Allah tidak adil. Respon siswa tersebut menunjukkan bahwa ia belum memahami esensi sabar, karena",
+      "id": "agama-18",
+      "question": "** Seorang siswa SMK kelas XII gagal masuk ke perusahaan impian saat mengikuti rekrutmen sekolah, padahal ia sudah mempersiapkan diri dengan matang. Ia kemudian terus menyalahkan sistem sekolah dan merasa Allah tidak adil. Respon siswa tersebut menunjukkan bahwa ia belum memahami esensi sabar, karena...",
       "options": {
         "A": "Sabar seharusnya membuat seseorang berhenti mencoba agar tidak kecewa",
         "B": "Sabar berarti menerima hasil akhir dengan rida setelah ikhtiar maksimal",
@@ -1008,11 +1020,11 @@
         "D": "Keadilan Allah selalu diukur dari keberhasilan duniawi semata"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Sabar berarti menerima hasil akhir dengan rida setelah ikhtiar maksimal"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-18",
-      "question": "Allah SWT berfirman dalam QS. Al-Baqarah ayat 155 bahwa manusia akan diuji dengan ketakutan, kelaparan, serta kekurangan harta dan jiwa. Analisis yang paling tepat mengenai hubungan antara ujian tersebut dengan kualitas iman seorang mukmin adalah",
+      "id": "agama-19",
+      "question": "** Allah SWT berfirman dalam QS. Al-Baqarah ayat 155 bahwa manusia akan diuji dengan ketakutan, kelaparan, serta kekurangan harta dan jiwa. Analisis yang paling tepat mengenai hubungan antara ujian tersebut dengan kualitas iman seorang mukmin adalah...",
       "options": {
         "A": "Ujian bertujuan untuk menjatuhkan martabat manusia di mata orang lain",
         "B": "Semakin berat ujian, semakin besar indikasi bahwa Allah sedang murka",
@@ -1020,11 +1032,11 @@
         "D": "Allah memberikan ujian agar manusia menyadari bahwa dunia adalah tempat penyiksaan"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Ujian berfungsi sebagai instrumen untuk menyeleksi dan meningkatkan derajat keimanan"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-19",
-      "question": "Dalam menghadapi krisis ekonomi keluarga, seorang siswa SMK memutuskan untuk bekerja paruh waktu setelah pulang sekolah demi membantu biaya pendidikannya sendiri tanpa mengeluh. Tindakan siswa ini merupakan bentuk sabar yang bersifat \"Dinamis\", artinya",
+      "id": "agama-20",
+      "question": "** Dalam menghadapi krisis ekonomi keluarga, seorang siswa SMK memutuskan untuk bekerja paruh waktu setelah pulang sekolah demi membantu biaya pendidikannya sendiri tanpa mengeluh. Tindakan siswa ini merupakan bentuk sabar yang bersifat \"Dinamis\", artinya...",
       "options": {
         "A": "Pasrah sepenuhnya pada keadaan tanpa melakukan tindakan apa pun",
         "B": "Mengeluh kepada teman-teman di media sosial agar mendapatkan donasi",
@@ -1032,11 +1044,11 @@
         "D": "Menyalahkan orang tua atas kemiskinan yang dialami keluarga"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Menjadikan kesabaran sebagai energi untuk tetap produktif dan mencari solusi yang halal"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-20",
-      "question": "Ketika seseorang tertimpa musibah, Islam mengajarkan untuk mengucapkan kalimat istirja' (Inna lillahi wa inna ilaihi raji'un). Makna filosofis mendalam dari kalimat ini dalam membangun kesehatan mental adalah",
+      "id": "agama-21",
+      "question": "** Ketika seseorang tertimpa musibah, Islam mengajarkan untuk mengucapkan kalimat istirja' (Inna lillahi wa inna ilaihi raji'un). Makna filosofis mendalam dari kalimat ini dalam membangun kesehatan mental adalah...",
       "options": {
         "A": "Menanamkan kesadaran bahwa segala sesuatu bersifat sementara dan milik Sang Pencipta",
         "B": "Sebagai mantra agar musibah tersebut segera hilang secara ajaib",
@@ -1044,11 +1056,11 @@
         "D": "Upaya untuk menakut-nakuti orang lain dengan konsep kematian"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. Menanamkan kesadaran bahwa segala sesuatu bersifat sementara dan milik Sang Pencipta"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-21",
-      "question": "Perhatikan perilaku berikut! 1) Segera introspeksi diri (muhasabah) saat menghadapi kegagalan. 2) Mencari-cari kesalahan orang lain untuk menutupi kekurangan diri. 3) Tetap konsisten beribadah meskipun hati sedang berduka. 4) Meratapi nasib dengan menyakiti diri sendiri secara fisik. 5) Berbaik sangka (husnudzon) bahwa ada hikmah di balik setiap kejadian. Manakah yang merupakan ciri perilaku sabar yang sesuai dengan syariat?",
+      "id": "agama-22",
+      "question": "** Perhatikan perilaku berikut!",
       "options": {
         "A": "1), 2), dan 3)",
         "B": "1), 3), dan 5)",
@@ -1056,11 +1068,11 @@
         "D": "1), 4), dan 5)"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. 1), 3), dan 5)"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-22",
-      "question": "Sabar dalam menghadapi \"ujian kesenangan\" (seperti kekayaan mendadak atau popularitas) seringkali dianggap lebih berat daripada sabar dalam kesempitan. Hal ini dikarenakan",
+      "id": "agama-23",
+      "question": "** Sabar dalam menghadapi \"ujian kesenangan\" (seperti kekayaan mendadak atau popularitas) seringkali dianggap lebih berat daripada sabar dalam kesempitan. Hal ini dikarenakan...",
       "options": {
         "A": "Orang kaya tidak memiliki kewajiban untuk bersabar",
         "B": "Kesenangan cenderung membuat manusia lalai, sombong, dan lupa pada sumber nikmat",
@@ -1068,11 +1080,11 @@
         "D": "Ujian kesenangan hanya diberikan kepada orang yang tidak beriman"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Kesenangan cenderung membuat manusia lalai, sombong, dan lupa pada sumber nikmat"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-23",
-      "question": "Siswa SMK jurusan Teknik yang sedang melakukan praktik kerja lapangan (PKL) seringkali mendapatkan teguran keras dari pembimbing industri karena kesalahannya. Respon sabar yang paling profesional dan islami bagi siswa tersebut adalah",
+      "id": "agama-24",
+      "question": "** Siswa SMK jurusan Teknik yang sedang melakukan praktik kerja lapangan (PKL) seringkali mendapatkan teguran keras dari pembimbing industri karena kesalahannya. Respon sabar yang paling profesional dan islami bagi siswa tersebut adalah...",
       "options": {
         "A": "Langsung mengundurkan diri karena merasa harga dirinya terhina",
         "B": "Mendengarkan dengan hati panas dan berniat membalas di lain waktu",
@@ -1080,11 +1092,11 @@
         "D": "Diam saja namun tetap mengulangi kesalahan yang sama secara sengaja"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Menjadikan teguran sebagai bahan evaluasi untuk memperbaiki kompetensi teknisnya"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-24",
-      "question": "Salah satu janji Allah bagi orang yang bersabar dalam menghadapi musibah adalah mendapatkan pahala tanpa batas dan penghapusan dosa. Syarat agar sebuah musibah dapat menggugurkan dosa adalah",
+      "id": "agama-25",
+      "question": "** Salah satu janji Allah bagi orang yang bersabar dalam menghadapi musibah adalah mendapatkan pahala tanpa batas dan penghapusan dosa. Syarat agar sebuah musibah dapat menggugurkan dosa adalah...",
       "options": {
         "A": "Musibah tersebut harus dipublikasikan agar orang lain merasa iba",
         "B": "Pelakunya harus menangis setiap hari sebagai tanda penyesalan",
@@ -1092,11 +1104,11 @@
         "D": "Harus dibarengi dengan melakukan perjalanan jauh (musafir)"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Diterima dengan ikhlas, tidak menggerutu, dan tetap berpegang pada aturan Allah"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-25",
-      "question": "\"Andi kehilangan ponsel yang baru dibelinya saat berada di angkutan umum. Meskipun sedih, ia tetap berangkat sekolah dan mengikuti ujian dengan tenang.\" Kasus Andi menunjukkan bahwa sabar memiliki dampak positif terhadap",
+      "id": "agama-26",
+      "question": "** \"Andi kehilangan ponsel yang baru dibelinya saat berada di angkutan umum. Meskipun sedih, ia tetap berangkat sekolah dan mengikuti ujian dengan tenang.\" Kasus Andi menunjukkan bahwa sabar memiliki dampak positif terhadap...",
       "options": {
         "A": "Kemampuan kognitif untuk melupakan kejadian tersebut secara total",
         "B": "Ketahanan mental (resilience) dalam menjaga stabilitas emosi demi tanggung jawab",
@@ -1104,11 +1116,11 @@
         "D": "Penurunan nilai rapor karena fokusnya terbagi dengan rasa sedih"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Ketahanan mental (resilience) dalam menjaga stabilitas emosi demi tanggung jawab"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-26",
-      "question": "Tiga unsur akidah islam merupakan pilar agama islam yang memiliki hubungan kuat satuantara satu yang lainnya, ketiga pilar tersebut adalah",
+      "id": "agama-27",
+      "question": "** Tiga unsur akidah islam merupakan pilar agama islam yang memiliki hubungan kuat satuantara satu yang lainnya, ketiga pilar tersebut adalah ...",
       "options": {
         "A": "iman, islam, dan ihsan",
         "B": "iman, ihsan dan tauhid",
@@ -1116,11 +1128,11 @@
         "D": "iman, taqwa dan ibadah"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. iman, islam, dan ihsan"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-27",
-      "question": "Iman, Islam dan ihsan adalah satu kesatuan yang tidak bisa dipisahkan yang kemudian disebut dengan agama Islam. Berikut ini yang merupakan pengertian dari iman adalah",
+      "id": "agama-28",
+      "question": "** Iman, Islam dan ihsan adalah satu kesatuan yang tidak bisa dipisahkan yang kemudian disebut dengan agama Islam. Berikut ini yang merupakan pengertian dari iman adalah....",
       "options": {
         "A": "mempercayai dengan hati, mengucapkan dengan lisan dan meragukan dengan perbuatan",
         "B": "mempercayai setengah hati, mengucapkan dengan lisan dan meragukan dengan perbuatan",
@@ -1128,11 +1140,11 @@
         "D": "mempercayai dengan hati, menolak dengan ucapan dan membuktikan dengan perbuatan"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. mempercayai dengan hati, mengucapkan dengan lisan dan membuktikan dengan perbuatan"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-28",
-      "question": "Seorang mukmin, adalah seorang yang beriman yang melaksanakan ibadah dengan sangat ikhlas, seakan-akan Allah Swt. melihatnya, meskipun ia tidak melihat Allah Swt. Pernyataan tersebut merupakan definisi dari",
+      "id": "agama-29",
+      "question": "** Seorang mukmin, adalah seorang yang beriman yang melaksanakan ibadah dengan sangat ikhlas, seakan-akan Allah Swt. melihatnya, meskipun ia tidak melihat Allah Swt. Pernyataan tersebut merupakan definisi dari ....",
       "options": {
         "A": "Ihsan",
         "B": "Islam",
@@ -1140,11 +1152,11 @@
         "D": "Iman"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. Ihsan"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-29",
-      "question": "Perhatikan pernyataan berikut! 1) Mahmud hanya mengerjakan shalat jamaah saat berada di sekolah saat dilihat oleh guru dan teman-temannya 2) Mamat selalu berbuat baik, berkata jujur, tetapi tidak pernah shalat 3) Malik senantiasa mendirikan shalat, berkata baik dan rajin bersedekah 4) Maman selalu istiqomah dalam beribadah dan gemar membantu orang tuanya 5) Marwan adalah ketua Rohis di sekolah tetapi saat di rumah sering berbohong kepada orang tuanya Dari pernyataan tersebut, yang perilakunya selaras dengan iman, Islam dan ihsan adalah",
+      "id": "agama-30",
+      "question": "** Perhatikan pernyataan berikut!",
       "options": {
         "A": "Malik dan Maman",
         "B": "Maman dan Marwan",
@@ -1152,11 +1164,11 @@
         "D": "Mamad dan Malik"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. Malik dan Maman"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-30",
-      "question": "Orang yang beriman, tidak akan luput dari ujian dan godaan yang terhadap keimanannya. Semakin beriman seseorang, semakin besar pula ujian dari Allah Swt. baginya. Berikut ini yang bukan merupakan ujian bagi seorang mukmin adalah",
+      "id": "agama-31",
+      "question": "** Orang yang beriman, tidak akan luput dari ujian dan godaan yang terhadap keimanannya. Semakin beriman seseorang, semakin besar pula ujian dari Allah Swt. baginya. Berikut ini yang bukan merupakan ujian bagi seorang mukmin adalah....",
       "options": {
         "A": "mukmin yang saling membenci satu sama lain",
         "B": "mukmin yang saling mendukung satu sama lain",
@@ -1164,11 +1176,11 @@
         "D": "godaan hawa nafsu dari dalam diri setiap mukmin itu sendiri"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. mukmin yang saling mendukung satu sama lain"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-31",
-      "question": "Iman pada dasarnya adalah keyakinan dan kesadaran dalam hati, sehingga iman mempunyai tiga kriteria, yaitu :",
+      "id": "agama-32",
+      "question": "** Iman pada dasarnya adalah keyakinan dan kesadaran dalam hati, sehingga iman mempunyai tiga kriteria, yaitu :",
       "options": {
         "A": "Bersifat abstrak, fluktuatif dan mempunyai tingkatan",
         "B": "Bersifat abstrak, rasional dan mudah difahami",
@@ -1176,11 +1188,11 @@
         "D": "Bersifat abstrak, fluktuatif dan tersembunyi"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. Bersifat abstrak, fluktuatif dan mempunyai tingkatan"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-32",
-      "question": "Salah satu kriteria iman yakni bersifat abstrak, mengapa demikian?",
+      "id": "agama-33",
+      "question": "** Salah satu kriteria iman yakni bersifat abstrak, mengapa demikian?",
       "options": {
         "A": "Karena iman hanya dapat diukur dengan perbuatan nyata.",
         "B": "Karena iman hanya ada dalam hati tanpa ada hubungannya dengan perbuatan.",
@@ -1188,11 +1200,11 @@
         "D": "Karena iman hanya terkait dengan keyakinan dalam hati dan tidak mempengaruhi perbuatan."
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Karena iman tidak dapat diukur dan hanya Allah yang mengetahui isi hati."
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-33",
-      "question": "Fadil siswa yang selalu berbuat kebaikan dalam bentuk pengabdian dan keihklasan kepadaAllah swt. Fadil selalu berbuat baik dan perbuatannya bermanfaat baik bagi dirinya maupunorang lain, dia selalu menolong temannya yang sedang dalam kesusahan. Perbuatan Fadil mernunjukan perbuatan",
+      "id": "agama-34",
+      "question": "** Fadil siswa yang selalu berbuat kebaikan dalam bentuk pengabdian dan keihklasan kepadaAllah swt. Fadil selalu berbuat baik dan perbuatannya bermanfaat baik bagi dirinya maupunorang lain, dia selalu menolong temannya yang sedang dalam kesusahan. Perbuatan Fadil mernunjukan perbuatan ...",
       "options": {
         "A": "Iman",
         "B": "Ihsan",
@@ -1200,11 +1212,11 @@
         "D": "Ikhlas"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Ihsan"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-34",
-      "question": "Manusia tidak bersifat ma'sum, di suatu waktu memungkinkan berbuat khilaf atau dosa. Berdasarkan ajaran Islam, bila kita berbuat khilaf atau dosa, maka segera",
+      "id": "agama-35",
+      "question": "** Manusia tidak bersifat ma'sum, di suatu waktu memungkinkan berbuat khilaf atau dosa. Berdasarkan ajaran Islam, bila kita berbuat khilaf atau dosa, maka segera ....",
       "options": {
         "A": "bertaubat memohon ampun atas dosa yang dilakukan",
         "B": "menangisi dan mengakui atas kelemahan diri sendiri",
@@ -1212,11 +1224,11 @@
         "D": "membaca Al-Qur'an dan memohon ampun Allah"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. bertaubat memohon ampun atas dosa yang dilakukan"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-35",
-      "question": "Perhatikan potongan Q.S. al-Anfal ayat 2 berikut! إِنَّمَا الْمُؤْمِنُوْنَ الَّذِيْنَ اِذَا ذُكِرَ اللّٰهُ وَجِلَتْ قُلُوْبُهُمْ **وَاِذَا تُلِيَتْ عَلَيْهِمْ اٰيٰتُهٗ زَادَتْهُمْ اِيْمَانًا** وَّعَلٰى رَبِّهِمْ يَتَوَكَّلُوْنَ ۙ (٢) Contoh perilaku yang sesuai dengan kandungan dalam ayat yang bergaris bawah adalah",
+      "id": "agama-36",
+      "question": "** Perhatikan potongan Q.S. al-Anfal ayat 2 berikut!",
       "options": {
         "A": "Imran selalu khusuk berzikir di masjid sebelum melakukan salat fardu",
         "B": "Setelah melakukan salat dhuhur, Ali bersegera kembali ke tempat pekerjaannya",
@@ -1224,11 +1236,11 @@
         "D": "Husna selalu membawa makanan ke sekolah untuk diberikan kepada teman-temanya"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. Imran selalu khusuk berzikir di masjid sebelum melakukan salat fardu"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-36",
-      "question": "Indikator seseorang disebut sebagai muslim, apabila telah melafalkan dua kalimah syahadat. Adapun yang menjadi ciri khas kalimat syahadat yang diucapkan oleh seorang muslim ialah",
+      "id": "agama-37",
+      "question": "** Indikator seseorang disebut sebagai muslim, apabila telah melafalkan dua kalimah syahadat. Adapun yang menjadi ciri khas kalimat syahadat yang diucapkan oleh seorang muslim ialah...",
       "options": {
         "A": "Kalimat syahadat hanya berfungsi untuk membersihkan jiwa.",
         "B": "Kalimat syahadat hanya mengakui keberadaan Allah.",
@@ -1236,11 +1248,11 @@
         "D": "Kalimat syahadat adalah pernyataan bahwa seseorang akan berusaha menjalankan semua perintah Allah dan menjauhi larangan-Nya."
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. Kalimat syahadat adalah pernyataan bahwa seseorang akan berusaha menjalankan semua perintah Allah dan menjauhi larangan-Nya."
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-37",
-      "question": "Mengapa Islam disebut sebagai agama yang sempurna dan universal?",
+      "id": "agama-38",
+      "question": "** Mengapa Islam disebut sebagai agama yang sempurna dan universal?",
       "options": {
         "A": "Karena Islam hanya berlaku untuk umat Islam saja.",
         "B": "Karena Islam tidak memerlukan ibadah seperti salat dan puasa.",
@@ -1248,11 +1260,11 @@
         "D": "Karena Islam hanya berlaku pada periode tertentu dalam sejarah."
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Karena Islam adalah agama yang diwahyukan oleh Allah kepada Nabi Muhammad untuk seluruh umat manusia di dunia."
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-38",
-      "question": "Rudi dan Nanang berboncengan ketika pulang sekolah, di pertigaan tiba-tiba melihat teman dari sekolah lain terjatuh dari sepeda dan sontak Rudi dan Nanang berhenti untuk menolong. Sikap Rudi dan Nanang semacam ini termasuk",
+      "id": "agama-39",
+      "question": "** Rudi dan Nanang berboncengan ketika pulang sekolah, di pertigaan tiba-tiba melihat teman dari sekolah lain terjatuh dari sepeda dan sontak Rudi dan Nanang berhenti untuk menolong. Sikap Rudi dan Nanang semacam ini termasuk ....",
       "options": {
         "A": "Ihsan kepada makhluk Allah",
         "B": "Ihsan kepada sesama manusia",
@@ -1260,11 +1272,11 @@
         "D": "Panggilan nurani sebagai manusia"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Ihsan kepada sesama manusia"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-39",
-      "question": "Menurut Imam An-Nawawi, Ihsan berarti :",
+      "id": "agama-40",
+      "question": "** Menurut Imam An-Nawawi, Ihsan berarti :",
       "options": {
         "A": "Menjaga lisan dalam berkata",
         "B": "Berbuat baik dalam segala hal",
@@ -1272,11 +1284,11 @@
         "D": "Meyakini dalam hati"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Berbuat baik dalam segala hal"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-40",
-      "question": "Ditinjau dari tingkatannya, Ihsan terdiri dari dua tingkatan yaitu:",
+      "id": "agama-41",
+      "question": "** Ditinjau dari tingkatannya, Ihsan terdiri dari dua tingkatan yaitu:",
       "options": {
         "A": "muroqobah dan musyahadah",
         "B": "muroqobah dan mujahadah",
@@ -1284,11 +1296,11 @@
         "D": "syahadah dan makrifah"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. muroqobah dan musyahadah"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-41",
-      "question": "Menurut Ibnu Katsir, ada 3 macam orang dalam mengamalkan ajaran Islam, yaitu..",
+      "id": "agama-42",
+      "question": "** Menurut Ibnu Katsir, ada 3 macam orang dalam mengamalkan ajaran Islam, yaitu..",
       "options": {
         "A": "Dzalim, tidak berlebihan dan berlomba-lomba dalam kebaikan",
         "B": "Dzalim, mengumbar hawa nafsu dan suka bermaksiat",
@@ -1296,11 +1308,11 @@
         "D": "Dzalim, munafik dan fasik"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. Dzalim, tidak berlebihan dan berlomba-lomba dalam kebaikan"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-42",
-      "question": "Ajaran Islam membimbing umat agar menapaki maqam dan derajat \"insan kamil\". Adapun yang dimaksud dengan *\"insan kamil\"* adalah?",
+      "id": "agama-43",
+      "question": "** Ajaran Islam membimbing umat agar menapaki maqam dan derajat \"insan kamil\". Adapun yang dimaksud dengan *\"insan kamil\"* adalah?",
       "options": {
         "A": "Manusia yang hidup dalam kemewahan materi.",
         "B": "Manusia yang sempurna dalam karakter dan perbuatan.",
@@ -1308,11 +1320,11 @@
         "D": "Manusia yang tidak perlu menjalankan ibadah."
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Manusia yang sempurna dalam karakter dan perbuatan."
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-43",
-      "question": "Karakteristik manusia sempurna atau *\"insan kamil\"* adalah",
+      "id": "agama-44",
+      "question": "** Karakteristik manusia sempurna atau *\"insan kamil\"* adalah....",
       "options": {
         "A": "Orang yang tidak pernah melakukan kesalahan.",
         "B": "Orang yang memiliki kekayaan materi melimpah.",
@@ -1320,11 +1332,11 @@
         "D": "Orang yang berlomba-lomba dalam kebaikan."
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. Orang yang berlomba-lomba dalam kebaikan."
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-44",
-      "question": "Mengapa penting untuk mengembangkan karakter insan kamil dalam dunia modern?",
+      "id": "agama-45",
+      "question": "** Mengapa penting untuk mengembangkan karakter insan kamil dalam dunia modern?",
       "options": {
         "A": "Karena dunia modern membutuhkan manusia yang tidak memiliki keyakinan.",
         "B": "Karena dunia modern hanya fokus pada materi dan kesenangan.",
@@ -1332,11 +1344,11 @@
         "D": "Karena karakter insan kamil membawa keseimbangan dan moral dalam kehidupan."
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. Karena karakter insan kamil membawa keseimbangan dan moral dalam kehidupan."
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-45",
-      "question": "Salah satu karakteristik orang munafik yang disebutkan dalam Al-Qur'an diantaranya adalah",
+      "id": "agama-46",
+      "question": "** Salah satu karakteristik orang munafik yang disebutkan dalam Al-Qur'an diantaranya adalah...",
       "options": {
         "A": "Sering memberi sumbangan",
         "B": "Selalu membantu orang lain",
@@ -1344,11 +1356,11 @@
         "D": "Menjadikan sumpah palsu sebagai tameng"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. Menjadikan sumpah palsu sebagai tameng"
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-46",
-      "question": "Orang munafik akan memiliki hati yang rusak dan mati, hal ini dapat mengakibatkan",
+      "id": "agama-47",
+      "question": "** Orang munafik akan memiliki hati yang rusak dan mati, hal ini dapat mengakibatkan...",
       "options": {
         "A": "Kehilangan harta",
         "B": "Kecantikan fisik",
@@ -1356,11 +1368,11 @@
         "D": "Kerusakan pada fisik"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Ketidakmampuan menerima hidayah dan kebaikan"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-47",
-      "question": "Sebagai seorang mukmin, jika ditengah-tengah kehidupan bermasyarakat dijumpai perilaku sikap orang munafik. Apa sebaiknya yang anda lakukan",
+      "id": "agama-48",
+      "question": "** Sebagai seorang mukmin, jika ditengah-tengah kehidupan bermasyarakat dijumpai perilaku sikap orang munafik. Apa sebaiknya yang anda lakukan...",
       "options": {
         "A": "Mengikuti saran mereka",
         "B": "Mempercayai setiap perkataan mereka",
@@ -1368,11 +1380,11 @@
         "D": "Selalu bersikap hati-hati dan waspada"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. Selalu bersikap hati-hati dan waspada"
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-48",
-      "question": "Pada saat bertemu Rasulullah Saw. dan kaum muslimin ia berbohong dengan cara menceritakan kejelekan orang orang kafir. Pada saat bertemu orang kafir ia mengaku bagian dari orang kafir dan menjelekjelekan kaum muslimin dan Rasulullah Saw. Pada saat bertemu kaum muslimin dan Rasulullah Saw., ia mengaku bagian dari kaum muslimin dan siap melawan kaum kafir quraisy. Tokoh munafik ini bernama",
+      "id": "agama-49",
+      "question": "** Pada saat bertemu Rasulullah Saw. dan kaum muslimin ia berbohong dengan cara menceritakan kejelekan orang orang kafir. Pada saat bertemu orang kafir ia mengaku bagian dari orang kafir dan menjelekjelekan kaum muslimin dan Rasulullah Saw. Pada saat bertemu kaum muslimin dan Rasulullah Saw., ia mengaku bagian dari kaum muslimin dan siap melawan kaum kafir quraisy. Tokoh munafik ini bernama....",
       "options": {
         "A": "Abdullah bin Umar",
         "B": "Abdullah bin Jahsyi",
@@ -1380,11 +1392,11 @@
         "D": "Abu Jahal"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Abdullah bin Ubay"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-49",
-      "question": "Perhatikan karakteristik manusia berikut! 1) Bersumpah palsu 2) Menghalangi jalan Allah 3) Menghardik anak yatim 4) Tampilan lahir dan batin berbeda 5) Manis perkataan tapi buruk hati Dari pernyataan-pernyataan tersebut yang merupakan karakteristik munafiqin adalah",
+      "id": "agama-50",
+      "question": "** Perhatikan karakteristik manusia berikut!",
       "options": {
         "A": "1, 2, 3 dan 4",
         "B": "1, 2, 4 dan 5",
@@ -1392,11 +1404,11 @@
         "D": "2, 3 dan 4"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. 1, 2, 4 dan 5"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-50",
-      "question": "Salah satu karakter orang munafik ialah memiliki karakter dengan sebutan *\"khusyub musannadah\"*, kalimat tersebut memiliki arti bahwa orang munafik bagaikan",
+      "id": "agama-51",
+      "question": "** Salah satu karakter orang munafik ialah memiliki karakter dengan sebutan *\"khusyub musannadah\"*, kalimat tersebut memiliki arti bahwa orang munafik bagaikan...",
       "options": {
         "A": "Kayu yang keras",
         "B": "Kayu yang panjang",
@@ -1404,11 +1416,11 @@
         "D": "Kayu yang keropos"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. Kayu yang keropos"
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-51",
-      "question": "Menurut Firman Allah dalam surat Al-Baqarah/2: (10), perkara yang akan terjadi pada hati orang yang berdusta ialah",
+      "id": "agama-52",
+      "question": "** Menurut Firman Allah dalam surat Al-Baqarah/2: (10), perkara yang akan terjadi pada hati orang yang berdusta ialah...",
       "options": {
         "A": "Hati menjadi lebih lunak",
         "B": "Hati mengalami pencerahan",
@@ -1416,11 +1428,11 @@
         "D": "Hati mengalami penyakit"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. Hati mengalami penyakit"
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-52",
-      "question": "Berikut ini diantara tanda-tanda kerasnya hati adalah",
+      "id": "agama-53",
+      "question": "** Berikut ini diantara tanda-tanda kerasnya hati adalah....",
       "options": {
         "A": "ketika keburukan dan perbuatan dosa tidak lagi membuat hatinya terluka",
         "B": "Banyak melakukan perbuatan baik",
@@ -1428,11 +1440,11 @@
         "D": "Terpengaruh oleh ayat-ayat Al-Qur'an"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. ketika keburukan dan perbuatan dosa tidak lagi membuat hatinya terluka"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-53",
-      "question": "Pada era digital seperti sekarang ini dan segala sesuatu yang serba canggih terkadang memberikan suatu perubahan yang tidak pasti, baik dari segi moral, nilai kehidupan dan spritual. Semakin cepat perubahan itu, semakin maju pula masyakat serta tuntunan hidup yang harus dipenuhi oleh manusia. Oleh karena itu, orang sering tidak mampu untuk mengatasi permasalahan yang dihadapi sehingga menimbulkan rasa stres yang memicu muculnya rasa gelisah dan krisis rohani dan permasalahan spiritual sehingga menimbulkan kerasnya hati manusia. Keras hati dalam bahasa agama sering disebut dengan",
+      "id": "agama-54",
+      "question": "** Pada era digital seperti sekarang ini dan segala sesuatu yang serba canggih terkadang memberikan suatu perubahan yang tidak pasti, baik dari segi moral, nilai kehidupan dan spritual. Semakin cepat perubahan itu, semakin maju pula masyakat serta tuntunan hidup yang harus dipenuhi oleh manusia. Oleh karena itu, orang sering tidak mampu untuk mengatasi permasalahan yang dihadapi sehingga menimbulkan rasa stres yang memicu muculnya rasa gelisah dan krisis rohani dan permasalahan spiritual sehingga menimbulkan kerasnya hati manusia. Keras hati dalam bahasa agama sering disebut dengan ....",
       "options": {
         "A": "Qalbun salim",
         "B": "Qaswah al-Qalb",
@@ -1440,11 +1452,11 @@
         "D": "Nifaq"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Qaswah al-Qalb"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-54",
-      "question": "Pak Rokhim sudah dua tahun menderita sakit gula sehingga sangat hati-hati ketika makan dan minum. Pak Fulan menerima musibah ini dengan hati yang ikhlas, sabar dan selalu berdo'a kepada Allah Swt agar penyakitnya segera diangkat dan bisa sehat kembali. Dari cerita tersebut Pak Fulan termasuk orang yang memiliki",
+      "id": "agama-55",
+      "question": "** Pak Rokhim sudah dua tahun menderita sakit gula sehingga sangat hati-hati ketika makan dan minum. Pak Fulan menerima musibah ini dengan hati yang ikhlas, sabar dan selalu berdo'a kepada Allah Swt agar penyakitnya segera diangkat dan bisa sehat kembali. Dari cerita tersebut Pak Fulan termasuk orang yang memiliki....",
       "options": {
         "A": "Qalbun Salim",
         "B": "Mayyit al-qalb",
@@ -1452,11 +1464,11 @@
         "D": "Qaswat al-qalb"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. Qalbun Salim"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-55",
-      "question": "Tanda-tanda berikut merupakan orang-orang yang mulai mengeras hatinya",
+      "id": "agama-56",
+      "question": "** Tanda-tanda berikut merupakan orang-orang yang mulai mengeras hatinya ....",
       "options": {
         "A": "Rajin dalam mengerjakan kebaikan dan ketaatan",
         "B": "Tersentuh hatinya dengan ayat-ayat Al-Qur'an yang dibacakan",
@@ -1464,11 +1476,11 @@
         "D": "Bertambahnya kecintaan terhadap dunia dan melupakan akhirat"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. Bertambahnya kecintaan terhadap dunia dan melupakan akhirat"
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-56",
-      "question": "Pernyataan berikut merupakan obat yang dapat melunakkan hati yang sedah susah",
+      "id": "agama-57",
+      "question": "** Pernyataan berikut merupakan obat yang dapat melunakkan hati yang sedah susah...",
       "options": {
         "A": "Mendatangi kafe dan hiburan malam",
         "B": "Banyak membaca novel",
@@ -1476,11 +1488,11 @@
         "D": "Berjemur hingga larut malam"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Menghadiri majlis ta'lim dan majlis nasihat"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-57",
-      "question": "Apa yang diartikan dengan \"lalai dari ketaatan\" dalam konteks hati yang keras?",
+      "id": "agama-58",
+      "question": "** Apa yang diartikan dengan \"lalai dari ketaatan\" dalam konteks hati yang keras?",
       "options": {
         "A": "Tidak merasa takut akan janji Allah",
         "B": "Tidak terpengaruh oleh berbagai ujian dan cobaan",
@@ -1488,11 +1500,11 @@
         "D": "Tidak mengenal perbuatan ma'ruf dan munkar"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. Tidak mengenal perbuatan ma'ruf dan munkar"
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-58",
-      "question": "Salah satu teman anda, diidentifikasi bahwa ia memiliki tanda-tanda sifat keras hati dalam pergaulan. Sebagai teman dekat saran terbaik untuk melunakkan hati yang keras ialah",
+      "id": "agama-59",
+      "question": "** Salah satu teman anda, diidentifikasi bahwa ia memiliki tanda-tanda sifat keras hati dalam pergaulan. Sebagai teman dekat saran terbaik untuk melunakkan hati yang keras ialah...",
       "options": {
         "A": "Memotivasi agar ia banyak berbicara dan makan berlebihan",
         "B": "Meningkatkan kecintaan terhadap dunia",
@@ -1500,11 +1512,11 @@
         "D": "Mengajak beriman kepada Allah dan memperbanyak zikir"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. Mengajak beriman kepada Allah dan memperbanyak zikir"
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-59",
-      "question": "Berikut yang mungkin dirasakan oleh seseorang yang memiliki sikap keras kepala, jika ada ide orang lain yang berbeda darinya, maka",
+      "id": "agama-60",
+      "question": "** Berikut yang mungkin dirasakan oleh seseorang yang memiliki sikap keras kepala, jika ada ide orang lain yang berbeda darinya, maka...",
       "options": {
         "A": "Dia akan segera menyetujui ide tersebut",
         "B": "Dia akan merasa senang dan terbuka untuk ide baru",
@@ -1512,11 +1524,11 @@
         "D": "Dia akan merasa tidak peduli dengan ide tersebut"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Dia akan menganggap ide itu buruk dan tidak berhasil"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-60",
-      "question": "Bagaimana seseorang yang keras kepala bereaksi jika ada yang mencoba membujuknya untuk melakukankan hal yang bertentangan dengan keinginannya?",
+      "id": "agama-61",
+      "question": "** Bagaimana seseorang yang keras kepala bereaksi jika ada yang mencoba membujuknya untuk melakukankan hal yang bertentangan dengan keinginannya?",
       "options": {
         "A": "Dia akan dengan senang hati melakukannya",
         "B": "Dia akan mendengarkan dan mempertimbangkan dengan terbuka",
@@ -1524,11 +1536,11 @@
         "D": "Dia akan merasa frustasi dan marah"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. Dia akan merasa frustasi dan marah"
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-61",
-      "question": "Perhatikan pernyataan-pernyataan berikut! 1. Orang memiliki ide atau rencana yang harus diwujudkan, sekalipun ide atau rencana tersebut salah. 2. Bersikeras melakukan suatu hal, meskipun orang lain tidak ingin melakukannya. 3. Ketika orang lain mengutarakan ide atau rencana yang berbeda akan menuduh bahwa ide tersebut buruk dan tidak akan berhasil. 4. Merasa kesal, marah, dan frustrasi ketika orang lain membujuk untuk melakukan hal yang bertentangan dengan keinginan kita 5. Melaksakan ide dan gagasan yang sudah disepakati untuk dilaksanakan bersama Dari pernyataan-pernyataan tersebut yang merupakan ciri-ciri keras kepala adalah",
+      "id": "agama-62",
+      "question": "** Perhatikan pernyataan-pernyataan berikut!",
       "options": {
         "A": "1, 2, 3 dan 4",
         "B": "1, 2, 3 dan 5",
@@ -1536,11 +1548,11 @@
         "D": "2, 3 dan 4"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. 1, 2, 3 dan 4"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-62",
-      "question": "Sebelum Islam datang, perempuan tidak menerima harta warisan sedikit pun dengan dalih tidak memiliki konstribusi dalam membela kehormatan keluarga. Setelah Islam datang, sebagai agama *rahmatan lil alamin*, memberikan waris pada perempuan, karena",
+      "id": "agama-63",
+      "question": "** Sebelum Islam datang, perempuan tidak menerima harta warisan sedikit pun dengan dalih tidak memiliki konstribusi dalam membela kehormatan keluarga. Setelah Islam datang, sebagai agama *rahmatan lil alamin*, memberikan waris pada perempuan, karena...",
       "options": {
         "A": "ketentuan dari Allah SWT..",
         "B": "belas kasihan kepada mereka",
@@ -1548,11 +1560,11 @@
         "D": "mereka berhak menerimanya"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. ketentuan dari Allah SWT.."
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-63",
-      "question": "Tidak semua harta peninggalan dapat dibagi kepada ahli waris. Sebelum harta diwariskan, harus dibersihkan dulu dari",
+      "id": "agama-64",
+      "question": "** Tidak semua harta peninggalan dapat dibagi kepada ahli waris. Sebelum harta diwariskan, harus dibersihkan dulu dari ....",
       "options": {
         "A": "riba",
         "B": "riya",
@@ -1560,11 +1572,11 @@
         "D": "kotoran"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. hutang"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-64",
-      "question": "Ayat yang berbicara tentang masalah warisan adalah",
+      "id": "agama-65",
+      "question": "** Ayat yang berbicara tentang masalah warisan adalah ....",
       "options": {
         "A": "Q.S. al-Hadid/57: 12",
         "B": "Q.S. al-Waqi'ah/56: 15-24",
@@ -1572,11 +1584,11 @@
         "D": "Q.S. an-Nisa'/4 : 11-12"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. Q.S. an-Nisa'/4 : 11-12"
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-65",
-      "question": "Menghitung warisan harus memahami apa yang disebut dengan *furudhul muqadarah*, yang artinya adalah",
+      "id": "agama-66",
+      "question": "** Menghitung warisan harus memahami apa yang disebut dengan *furudhul muqadarah*, yang artinya adalah ....",
       "options": {
         "A": "hak-hak waris para pewaris",
         "B": "bagian-bagian tertentu dari waris waris",
@@ -1584,11 +1596,11 @@
         "D": "ketentuan pembagian harta warisan"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. bagian-bagian tertentu dari waris waris"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-66",
-      "question": "Kelompok penerima warisan, ada yang digolongkan ke dalam dzawil furudh, ada juga yang dari *ashabah*, menurut bahasa *ashabah* berarti",
+      "id": "agama-67",
+      "question": "** Kelompok penerima warisan, ada yang digolongkan ke dalam dzawil furudh, ada juga yang dari *ashabah*, menurut bahasa *ashabah* berarti ....",
       "options": {
         "A": "terhalang",
         "B": "bertambah",
@@ -1596,11 +1608,11 @@
         "D": "harta yang rusak"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. sisa harta"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-67",
-      "question": "Dekat tidaknya ahli waris, menentukan hak waris yang diperoleh. Berikut ini ahli waris yang tidak pernah hilang hak warisnya adalah",
+      "id": "agama-68",
+      "question": "** Dekat tidaknya ahli waris, menentukan hak waris yang diperoleh. Berikut ini ahli waris yang tidak pernah hilang hak warisnya adalah ....",
       "options": {
         "A": "saudara laki-laki dan perempuan",
         "B": "anak laki-laki dan perempuan",
@@ -1608,11 +1620,11 @@
         "D": "cucu laki-laki dan perempuan"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. anak laki-laki dan perempuan"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-68",
-      "question": "Setiap ahli waris memiliki bagian yang berbeda tergantung dekat tidaknya dengan yang meninggal. Dan ahli waris yang mendapat bagian 2/3 adalah",
+      "id": "agama-69",
+      "question": "** Setiap ahli waris memiliki bagian yang berbeda tergantung dekat tidaknya dengan yang meninggal. Dan ahli waris yang mendapat bagian 2/3 adalah",
       "options": {
         "A": "anak perempuan lebih dari satu",
         "B": "cucu laki laki lebih dari satu",
@@ -1620,11 +1632,11 @@
         "D": "suami apabila tidak ada anak"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. anak perempuan lebih dari satu"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-69",
-      "question": "Berikut ini adalah ahli waris yang mendapatkan jatah 1/4, kecuali",
+      "id": "agama-70",
+      "question": "** Berikut ini adalah ahli waris yang mendapatkan jatah 1/4, kecuali...",
       "options": {
         "A": "suami jika ada anak atau cucu",
         "B": "istri jika tidak ada anak cucu",
@@ -1632,11 +1644,11 @@
         "D": "istri jika ada anak cucu"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. dua anak perempuan tanpa anak laki-laki"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-70",
-      "question": "Kedekatan nasab, sangat memberi arti tentang bagian yang diterima. Salah satu ahli berikut ini yang termasuk ashabah binnafsi adalah",
+      "id": "agama-71",
+      "question": "** Kedekatan nasab, sangat memberi arti tentang bagian yang diterima. Salah satu ahli berikut ini yang termasuk ashabah binnafsi adalah ....",
       "options": {
         "A": "istri",
         "B": "suami",
@@ -1644,11 +1656,11 @@
         "D": "anak perempuan"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. saudara laki-laki sekandung"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-71",
-      "question": "*(Bagian pembagian warisan untuk anak perempuan tunggal, istri, dan ibu)*",
+      "id": "agama-72",
+      "question": "** *(Bagian pembagian warisan untuk anak perempuan tunggal, istri, dan ibu)*",
       "options": {
         "A": "anak perempuan $1/2$, istri $1/8$, dan ibu $1/6$",
         "B": "anak perempuan $1/3$, istri $1/6$, dan ibu $1/8$",
@@ -1656,11 +1668,11 @@
         "D": "anak perempuan $1/6$, istri $1/2$, dan ibu $1/4$"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. anak perempuan $1/2$, istri $1/8$, dan ibu $1/6$"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-72",
-      "question": "Ahli waris yang mendapat bagian tertentu disebut",
+      "id": "agama-73",
+      "question": "** Ahli waris yang mendapat bagian tertentu disebut ...",
       "options": {
         "A": "zawil furud",
         "B": "asabah binafsih",
@@ -1668,11 +1680,11 @@
         "D": "'asabah"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. zawil furud"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-73",
-      "question": "Ahli waris yang mendapat sisa bagian karena dirinya sendiri disebut",
+      "id": "agama-74",
+      "question": "** Ahli waris yang mendapat sisa bagian karena dirinya sendiri disebut ...",
       "options": {
         "A": "Asabah",
         "B": "Asabah ma'al gair",
@@ -1680,11 +1692,11 @@
         "D": "Asabah binafsih"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. Asabah binafsih"
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-74",
-      "question": "Pengertian dari *Mahjub* adalah ?",
+      "id": "agama-75",
+      "question": "** Pengertian dari *Mahjub* adalah ?",
       "options": {
         "A": "Seseorang kehilangan hak warisnya karena meninggal dunia.",
         "B": "Seseorang kehilangan hak warisnya karena membunuh.",
@@ -1692,11 +1704,11 @@
         "D": "Harta pusaka habis untuk melunasi utang dan wasiat."
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Seseorang kehilangan hak warisnya karena terhalang oleh ahli waris yang lebih dekat."
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-75",
-      "question": "Jika seseorang meninggal, ahli warisnya dari pihak laki-laki ada lima belas orang. Apabila kelima belas orang tersebut semua ada, maka yang berhak menerima harta pusaka hanya tiga orang saja. Siapakah ketiga ahli waris yang dimaksud ?",
+      "id": "agama-76",
+      "question": "** Jika seseorang meninggal, ahli warisnya dari pihak laki-laki ada lima belas orang. Apabila kelima belas orang tersebut semua ada, maka yang berhak menerima harta pusaka hanya tiga orang saja. Siapakah ketiga ahli waris yang dimaksud ?",
       "options": {
         "A": "Kakek, suami, dan bapak.",
         "B": "Saudara laki-laki seibu sebapak, anak laki-laki, dan suami.",
@@ -1704,11 +1716,11 @@
         "D": "Bapak, anak laki-laki, dan suami."
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. Bapak, anak laki-laki, dan suami."
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-76",
-      "question": "Ahli waris yang mendapat bagian $1/4$ adalah",
+      "id": "agama-77",
+      "question": "** Ahli waris yang mendapat bagian $1/4$ adalah ....",
       "options": {
         "A": "istri, jika tidak ada anak",
         "B": "ibu",
@@ -1716,11 +1728,11 @@
         "D": "suami, jika tidak ada anak"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. istri, jika tidak ada anak"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-77",
-      "question": "Perhatikan pernyataan-pernyataan berikut ini! 1) Anak perempuan, jika ia sendiri tanpa saudara-saudaranya. 2) Suami, jika istrinya yang meninggal itu mempunyai anak. 3) Cucu perempuan dari anak laki-laki, jika tidak ada anak perempuan. 4) Nenek, jika ibu dari si mayat tidak ada. 5) Saudara perempuan yang seibu sebapak sendirian. Kelompok \"ahli waris dengan bagian tertentu\" yang memperoleh $1/2$ dari harta pusaka ditunjukkan oleh nomor",
+      "id": "agama-78",
+      "question": "** Perhatikan pernyataan-pernyataan berikut ini!",
       "options": {
         "A": "1), 2), dan 3)",
         "B": "2), 4), dan 5)",
@@ -1728,11 +1740,11 @@
         "D": "1), 3), dan 5)"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. 1), 3), dan 5)"
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-78",
-      "question": "Pak Adam meninggal dunia tanpa meninggalkan seorang pun ahli waris. Dengan demikian, harta Pak Adam",
+      "id": "agama-79",
+      "question": "** Pak Adam meninggal dunia tanpa meninggalkan seorang pun ahli waris. Dengan demikian, harta Pak Adam ....",
       "options": {
         "A": "menjadi hak umat Islam dan diserahkan kepada Baitul Mal",
         "B": "boleh diambil oleh siapa saja yang mau",
@@ -1740,11 +1752,11 @@
         "D": "otomatis hanya untuk memenuhi wasiat dan membayar utang saja"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. menjadi hak umat Islam dan diserahkan kepada Baitul Mal"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-79",
-      "question": "Adanya hukum waris memberikan keadilan bagi kehidupan manusia. Pernyataan di bawah ini merupakan hikmah adanya hukum waris, kecuali",
+      "id": "agama-80",
+      "question": "** Adanya hukum waris memberikan keadilan bagi kehidupan manusia. Pernyataan di bawah ini merupakan hikmah adanya hukum waris, kecuali...",
       "options": {
         "A": "sebagai pembelajaran untuk menjadi lebih bijaksana",
         "B": "menjalin persaudaraan berdasarkan hak dan kewajiban",
@@ -1752,11 +1764,11 @@
         "D": "menghilangkan pilih kasih dari orangtua kepada anak anaknya"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. menghilangkan pilih kasih dari orangtua kepada anak anaknya"
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-80",
-      "question": "Budaya keilmuan di Republik Islam Pakistan, telah melahirkan sejumlah ilmuwan Muslim, berikut ini yang bukan ilmuwan muslim dari Pakistan adalah",
+      "id": "agama-81",
+      "question": "** Budaya keilmuan di Republik Islam Pakistan, telah melahirkan sejumlah ilmuwan Muslim, berikut ini yang bukan ilmuwan muslim dari Pakistan adalah....",
       "options": {
         "A": "Imam Malik",
         "B": "Abu A'la al-Maududi",
@@ -1764,11 +1776,11 @@
         "D": "Muhammad Iqbal"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. Imam Malik"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-81",
-      "question": "Bangunan monumental dalam perkembangan peradaban Islam di India yang masih berdiri kokoh hingga sekarang ini, yaitu",
+      "id": "agama-82",
+      "question": "** Bangunan monumental dalam perkembangan peradaban Islam di India yang masih berdiri kokoh hingga sekarang ini, yaitu ....",
       "options": {
         "A": "Baitul Maqdis",
         "B": "Masjid Nabawi",
@@ -1776,11 +1788,11 @@
         "D": "Masjid Aya Sophia"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Taj mahal"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-82",
-      "question": "Pendiri Pakistan Philosophical Congress, juga editor History of Muslim Phylosophy, salah satu buku terbaik untuk sejarah filsafat saat ini adalah",
+      "id": "agama-83",
+      "question": "** Pendiri Pakistan Philosophical Congress, juga editor History of Muslim Phylosophy, salah satu buku terbaik untuk sejarah filsafat saat ini adalah....",
       "options": {
         "A": "Muhammad Iqbal",
         "B": "Abu A'lā al Maududi",
@@ -1788,11 +1800,11 @@
         "D": "Fazlur Rahman"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. M. M. Syarif"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-83",
-      "question": "Masa ekspansi kekhalifahan Turki Usmani sekitar abad ke-14 dan ke15 ke wilayah Balkan dan Eropa Tengah. Akibat ekspansi itu sampai sekarang terdapat kaum Muslim keturunan Turki di Yugoslavia, Rumania, Yunani, Bosnia Herzegovina, dan di Albania. Di antara negara tersebut yang mayoritas muslim adalah",
+      "id": "agama-84",
+      "question": "** Masa ekspansi kekhalifahan Turki Usmani sekitar abad ke-14 dan ke15 ke wilayah Balkan dan Eropa Tengah. Akibat ekspansi itu sampai sekarang terdapat kaum Muslim keturunan Turki di Yugoslavia, Rumania, Yunani, Bosnia Herzegovina, dan di Albania. Di antara negara tersebut yang mayoritas muslim adalah ....",
       "options": {
         "A": "Yugoslavia",
         "B": "Albania",
@@ -1800,11 +1812,11 @@
         "D": "Rumania"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Albania"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-84",
-      "question": "Kaum imigran Muslim memasuki benua Eropa setelah perang dunia ke2, terutama ke negara-negara industri. Berikut ini negara yang bukan termasuk negara yang dituju yaitu...,",
+      "id": "agama-85",
+      "question": "** Kaum imigran Muslim memasuki benua Eropa setelah perang dunia ke2, terutama ke negara-negara industri. Berikut ini negara yang bukan termasuk negara yang dituju yaitu...,",
       "options": {
         "A": "Jerman",
         "B": "Inggris",
@@ -1812,11 +1824,11 @@
         "D": "Belanda"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Turki"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-85",
-      "question": "Islam masuk ke India pada abad ke-7. kemudian agama Islam dapat berkembang dengan pesatnya di sana. Bukti berkembangnya Islam di India adalah dengan berdirinya kerajaan-kerajaan Islam serta peninggalannya. Berikut yang tidak termasuk kerajaan Islam di India adalah",
+      "id": "agama-86",
+      "question": "** Islam masuk ke India pada abad ke-7. kemudian agama Islam dapat berkembang dengan pesatnya di sana. Bukti berkembangnya Islam di India adalah dengan berdirinya kerajaan-kerajaan Islam serta peninggalannya. Berikut yang tidak termasuk kerajaan Islam di India adalah....",
       "options": {
         "A": "Kerajaan Sabaktakin",
         "B": "Kerajaan Mamalik",
@@ -1824,11 +1836,11 @@
         "D": "Kerajaan Ghazi"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Kerajaan Goa Talo"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-86",
-      "question": "Panglima Islam yang diutus Khalifah Umar bin Khattab untuk membebaskan Mesir dari cengkeraman Bizantium (Romawi Timur) adalah",
+      "id": "agama-87",
+      "question": "** Panglima Islam yang diutus Khalifah Umar bin Khattab untuk membebaskan Mesir dari cengkeraman Bizantium (Romawi Timur) adalah...",
       "options": {
         "A": "Khalid bin Walid",
         "B": "Hamzah",
@@ -1836,11 +1848,11 @@
         "D": "Amru bin Ash"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D. Amru bin Ash"
+      "explanation": "Jawaban benar adalah D."
     },
     {
-      "id": "agama-87",
-      "question": "Salah satu bukti peninggalan peradaban Islam di Spanyol adalah",
+      "id": "agama-88",
+      "question": "** Salah satu bukti peninggalan peradaban Islam di Spanyol adalah . . . .",
       "options": {
         "A": "Tajmahal",
         "B": "Istana Al-Hambra",
@@ -1848,11 +1860,11 @@
         "D": "Masjid Qiblatain"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Istana Al-Hambra"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-88",
-      "question": "Agama Islam masuk ke Austria dibawa oleh para imigran terutama dari Turki dan Afrika. Pada tahun 1976, dibentuklah organisasi Islam yang bertaraf nasional, yang tugasnya melaksanakan koordinasi, khususnya dalam dakwah Islam di seluruh wilayah Benua Australia. Organisasi tersebut bernama",
+      "id": "agama-89",
+      "question": "** Agama Islam masuk ke Austria dibawa oleh para imigran terutama dari Turki dan Afrika. Pada tahun 1976, dibentuklah organisasi Islam yang bertaraf nasional, yang tugasnya melaksanakan koordinasi, khususnya dalam dakwah Islam di seluruh wilayah Benua Australia. Organisasi tersebut bernama ....",
       "options": {
         "A": "AFIC",
         "B": "ISNA",
@@ -1860,11 +1872,11 @@
         "D": "AMSS"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. AFIC"
+      "explanation": "Jawaban benar adalah A."
     },
     {
-      "id": "agama-89",
-      "question": "Perkembangan Islam di Benua Asia, khususnya di Asia Tenggara, dikenal melalui jalur perdagangan yang damai. Jika dianalisis dari sisi sosiologis, mengapa Islam dapat diterima dengan cepat oleh masyarakat lokal tanpa melalui ekspansi militer?",
+      "id": "agama-90",
+      "question": "** Perkembangan Islam di Benua Asia, khususnya di Asia Tenggara, dikenal melalui jalur perdagangan yang damai. Jika dianalisis dari sisi sosiologis, mengapa Islam dapat diterima dengan cepat oleh masyarakat lokal tanpa melalui ekspansi militer?",
       "options": {
         "A": "Karena para pedagang Muslim memiliki kekuatan ekonomi untuk membeli kesetiaan penguasa lokal",
         "B": "Adanya keselarasan antara nilai-nilai Islam dengan prinsip kesetaraan sosial yang meruntuhkan sistem kasta",
@@ -1872,11 +1884,11 @@
         "D": "Masyarakat Asia Tenggara saat itu belum memiliki kepercayaan atau agama apa pun"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Adanya keselarasan antara nilai-nilai Islam dengan prinsip kesetaraan sosial yang meruntuhkan sistem kasta"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-90",
-      "question": "Andalusia (Spanyol) di Benua Eropa pernah menjadi mercusuar peradaban dunia. Salah satu faktor kunci yang menyebabkan ilmu pengetahuan berkembang pesat di sana adalah adanya Convivencia. Nilai utama dari konsep ini adalah",
+      "id": "agama-91",
+      "question": "** Andalusia (Spanyol) di Benua Eropa pernah menjadi mercusuar peradaban dunia. Salah satu faktor kunci yang menyebabkan ilmu pengetahuan berkembang pesat di sana adalah adanya Convivencia. Nilai utama dari konsep ini adalah...",
       "options": {
         "A": "Dominasi mutlak umat Islam terhadap seluruh aspek kehidupan masyarakat Eropa",
         "B": "Persaingan senjata antarumat beragama untuk menunjukkan siapa yang paling kuat",
@@ -1884,11 +1896,11 @@
         "D": "Penutupan akses ilmu pengetahuan dari luar wilayah Eropa agar tidak tercemar"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Pola hidup berdampingan secara damai dan kolaboratif antara umat Islam, Kristen, dan Yahudi"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-91",
-      "question": "Universitas Al-Azhar di Mesir (Afrika) dan Universitas Al-Qarawiyyin di Maroko merupakan bukti kejayaan pendidikan Islam. Dampak jangka panjang dari keberadaan institusi tersebut terhadap peradaban modern adalah",
+      "id": "agama-92",
+      "question": "** Universitas Al-Azhar di Mesir (Afrika) dan Universitas Al-Qarawiyyin di Maroko merupakan bukti kejayaan pendidikan Islam. Dampak jangka panjang dari keberadaan institusi tersebut terhadap peradaban modern adalah...",
       "options": {
         "A": "Terciptanya sistem ekonomi global yang hanya berpusat di benua Afrika",
         "B": "Menjadi model awal manajemen pendidikan tinggi dan pemberian gelar akademik di dunia",
@@ -1896,11 +1908,11 @@
         "D": "Menolak segala bentuk inovasi teknologi yang tidak berasal dari ulama lokal"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Menjadi model awal manajemen pendidikan tinggi dan pemberian gelar akademik di dunia"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-92",
-      "question": "Di Benua Amerika, populasi Muslim mengalami pertumbuhan melalui jalur imigrasi dan konversi. Tantangan terbesar sekaligus peluang dakwah bagi umat Islam di negara sekuler seperti Amerika Serikat adalah",
+      "id": "agama-93",
+      "question": "** Di Benua Amerika, populasi Muslim mengalami pertumbuhan melalui jalur imigrasi dan konversi. Tantangan terbesar sekaligus peluang dakwah bagi umat Islam di negara sekuler seperti Amerika Serikat adalah...",
       "options": {
         "A": "Memaksakan pembentukan negara Islam melalui jalur politik praktis",
         "B": "Menutup diri dari pergaulan sosial agar akidah tetap terjaga dari pengaruh Barat",
@@ -1908,11 +1920,11 @@
         "D": "Mengabaikan hukum negara setempat jika dirasa tidak sesuai dengan tradisi asal"
       },
       "answer": "C",
-      "explanation": "Jawaban benar adalah C. Menunjukkan integritas moral dan profesionalisme kerja sebagai wujud dakwah bil-hal"
+      "explanation": "Jawaban benar adalah C."
     },
     {
-      "id": "agama-93",
-      "question": "Jalur Sutra (Silk Road) menjadi sarana penting penyebaran Islam di Asia Tengah hingga ke daratan Cina. Analisis yang tepat mengenai hubungan antara perdagangan dan penyebaran agama pada jalur ini adalah",
+      "id": "agama-94",
+      "question": "** Jalur Sutra (Silk Road) menjadi sarana penting penyebaran Islam di Asia Tengah hingga ke daratan Cina. Analisis yang tepat mengenai hubungan antara perdagangan dan penyebaran agama pada jalur ini adalah...",
       "options": {
         "A": "Agama Islam menyebar karena menjadi syarat utama untuk melewati perbatasan wilayah",
         "B": "Para pedagang Muslim berperan sebagai duta budaya yang memperkenalkan Islam melalui kejujuran dalam bertransaksi",
@@ -1920,11 +1932,11 @@
         "D": "Kaisar Cina mewajibkan seluruh rakyatnya memeluk Islam agar perdagangan lancar"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Para pedagang Muslim berperan sebagai duta budaya yang memperkenalkan Islam melalui kejujuran dalam bertransaksi"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-94",
-      "question": "Peradaban Islam di Afrika Sub-Sahara, seperti Kerajaan Mali, pernah mencapai puncak kemakmuran hingga memengaruhi nilai tukar emas dunia saat Mansa Musa melakukan haji. Hal ini membuktikan bahwa",
+      "id": "agama-95",
+      "question": "** Peradaban Islam di Afrika Sub-Sahara, seperti Kerajaan Mali, pernah mencapai puncak kemakmuran hingga memengaruhi nilai tukar emas dunia saat Mansa Musa melakukan haji. Hal ini membuktikan bahwa...",
       "options": {
         "A": "Ibadah haji hanya boleh dilakukan oleh orang-orang yang sangat kaya",
         "B": "Kejayaan peradaban Islam di Afrika dibangun atas dasar kekuatan ekonomi dan kedermawanan sosial",
@@ -1932,11 +1944,11 @@
         "D": "Mansa Musa ingin menunjukkan kekuatannya untuk menjajah wilayah Timur Tengah"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Kejayaan peradaban Islam di Afrika dibangun atas dasar kekuatan ekonomi dan kedermawanan sosial"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-95",
-      "question": "Saat ini, banyak ilmuwan Muslim di Eropa dan Amerika yang menempati posisi strategis di lembaga riset seperti NASA atau CERN. Jika dikaitkan dengan sejarah kejayaan Islam masa lalu, fenomena ini menunjukkan bahwa",
+      "id": "agama-96",
+      "question": "** Saat ini, banyak ilmuwan Muslim di Eropa dan Amerika yang menempati posisi strategis di lembaga riset seperti NASA atau CERN. Jika dikaitkan dengan sejarah kejayaan Islam masa lalu, fenomena ini menunjukkan bahwa...",
       "options": {
         "A": "Umat Islam sedang berusaha mengambil alih teknologi Barat untuk kepentingan militer",
         "B": "Karakteristik intelektual Islam yang inklusif dan universal masih relevan dalam sains modern",
@@ -1944,11 +1956,11 @@
         "D": "Ilmu pengetahuan umum lebih penting daripada pemahaman agama bagi Muslim modern"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Karakteristik intelektual Islam yang inklusif dan universal masih relevan dalam sains modern"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-96",
-      "question": "Pembangunan Masjid Raya Paris di Prancis setelah Perang Dunia I merupakan bentuk penghargaan atas jasa tentara Muslim. Hal ini menunjukkan bahwa keberadaan Islam di Eropa pada masa modern diakui melalui",
+      "id": "agama-97",
+      "question": "** Pembangunan Masjid Raya Paris di Prancis setelah Perang Dunia I merupakan bentuk penghargaan atas jasa tentara Muslim. Hal ini menunjukkan bahwa keberadaan Islam di Eropa pada masa modern diakui melalui...",
       "options": {
         "A": "Penaklukan wilayah secara fisik melalui perang saudara",
         "B": "Kontribusi nyata dan pengorbanan dalam sejarah perjuangan bangsa setempat",
@@ -1956,11 +1968,11 @@
         "D": "Keinginan masyarakat Eropa untuk meninggalkan agama lama mereka"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Kontribusi nyata dan pengorbanan dalam sejarah perjuangan bangsa setempat"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-97",
-      "question": "Perkembangan Islam di Benua Australia sering kali dikaitkan dengan peran para \"Cameleers\" (penunggang unta) dari Afghanistan dan Pakistan. Pelajaran berharga (ibrah) dari sejarah ini bagi siswa SMK adalah",
+      "id": "agama-98",
+      "question": "** Perkembangan Islam di Benua Australia sering kali dikaitkan dengan peran para \"Cameleers\" (penunggang unta) dari Afghanistan dan Pakistan. Pelajaran berharga (ibrah) dari sejarah ini bagi siswa SMK adalah...",
       "options": {
         "A": "Pentingnya menguasai teknik peternakan hewan untuk berdakwah",
         "B": "Dakwah bisa dilakukan melalui profesi apa pun selama dijalani dengan amanah dan disiplin",
@@ -1968,11 +1980,11 @@
         "D": "Kita harus membatasi diri hanya berteman dengan sesama perantau Muslim"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Dakwah bisa dilakukan melalui profesi apa pun selama dijalani dengan amanah dan disiplin"
+      "explanation": "Jawaban benar adalah B."
     },
     {
-      "id": "agama-98",
-      "question": "Peradaban Islam di dunia saat ini mulai beralih ke arah digitalisasi dan ekonomi syariah global. Strategi yang paling tepat bagi lulusan SMK untuk berkontribusi dalam peradaban Islam masa depan adalah",
+      "id": "agama-99",
+      "question": "** Peradaban Islam di dunia saat ini mulai beralih ke arah digitalisasi dan ekonomi syariah global. Strategi yang paling tepat bagi lulusan SMK untuk berkontribusi dalam peradaban Islam masa depan adalah...",
       "options": {
         "A": "Mempelajari sejarah masa lalu hanya untuk membanggakan kejayaan nenek moyang",
         "B": "Menguasai kompetensi teknis (hardskill) yang dibarengi dengan etika profesi (softskill) islami",
@@ -1980,11 +1992,191 @@
         "D": "Fokus pada ibadah ritual saja karena urusan dunia sudah ada yang mengatur"
       },
       "answer": "B",
-      "explanation": "Jawaban benar adalah B. Menguasai kompetensi teknis (hardskill) yang dibarengi dengan etika profesi (softskill) islami"
+      "explanation": "Jawaban benar adalah B."
+    },
+    {
+      "id": "agama-100",
+      "question": "** Perhatikan potongan Q.S. al-Baqarah/2: 155 berikut !",
+      "options": {
+        "A": "Qalqalah sugra, ghunnah, ikhfa' safawi dan idgham bighunnah",
+        "B": "Qalqalah sugra, ghunnah, idhar safawi dan idgham bighunnah",
+        "C": "Ghunnah, idgham bighunnah, ihfa' dan alif lam qomariyah",
+        "D": "Idgham bighunnah, ihfa' alif lam qomariyah, ghunnah dan ihfa' safawi"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A."
+    },
+    {
+      "id": "agama-101",
+      "question": "** Pak Rahman selalu membimbing dan mengajak istri dan anak-anaknya mengerjakan salat jamaah di masjid kampung, walaupun dalam keadaan gerimis mereka tetap rajin salat berjamaah. Dari narasi tersebut Pak Rahman termasuk ....",
+      "options": {
+        "A": "Rela terhadap qodha'nya Allah Swt.",
+        "B": "Sabar dalam menjauhi maksiat",
+        "C": "Sabar dalam melaksanakan ketaatan kepada Allah Swt.",
+        "D": "Sabar dalam menerima takdir"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C."
+    },
+    {
+      "id": "agama-102",
+      "question": "** Perhatikan potongan Q. S. Ibrahim/14: 9 berikut!",
+      "options": {
+        "A": "Rasul-rasul telah datang kepadamu",
+        "B": "Bukti-bukti nyata yang dibawa oleh para rasul",
+        "C": "Mereka menutupkan tangannya ke mulutnya",
+        "D": "Tidak ada yang mengetahui mereka selain Allah"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C."
+    },
+    {
+      "id": "agama-103",
+      "question": "** Hubbah adalah seorang anak dari keluarga miskin, bapaknya pedagang buah di pasar yang penghasilannya hanya dapat mencukupi kebutuhan pokok saja. Keluarga Hubbah termasuk kelompok masyarakat yang kekurangan, tetapi ia termasuk orang yang selalu berusaha berdoa dan mengharapkan anugrah Allah Swt. karena dia yakin Allah akan mengabulkan doanya. Perilaku Hubbah adalah contoh orang Sabar dalam menghadapi ujian dan cobaan. Berikut ini adalah keutamaan orang dan balasan orang sabar dalam menghadapi ujian dan cobaan ...",
+      "options": {
+        "A": "selalu berburuk sangka",
+        "B": "memperoleh teman yang banyak",
+        "C": "memperoleh martabat yang tinggi di surga",
+        "D": "selalu mendapatkan yang ia inginkan"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C."
+    },
+    {
+      "id": "agama-104",
+      "question": "** Pernyataan berikut merupakan obat yang dapat melunakkan hati yang sedang susah ...",
+      "options": {
+        "A": "Menghadiri majlis ta'lim dan majlis nasihat",
+        "B": "Mendatangi kafe dan hiburan malam",
+        "C": "Berjemur hingga larut malam",
+        "D": "Banyak membaca novel"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A."
+    },
+    {
+      "id": "agama-105",
+      "question": "** Apa contoh situasi yang mengharuskan seorang suami bersabar dalam melaksanakan ketaatan?",
+      "options": {
+        "A": "Menghindari kemaksiatan.",
+        "B": "Mengajak istri untuk mengerjakan salat.",
+        "C": "Bersabar dalam menerima takdir Allah.",
+        "D": "Menghadapi cobaan yang sulit."
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B."
+    },
+    {
+      "id": "agama-106",
+      "question": "** Mengapa sabar dalam menerima takdir Allah dianggap penting?",
+      "options": {
+        "A": "Agar orang lain melihat kita sebagai contoh yang baik.",
+        "B": "Karena Allah suka melihat orang menderita.",
+        "C": "Karena takdir Allah tidak dapat diubah.",
+        "D": "Agar kita bisa mengeluh dan meratapi nasib kita."
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C."
+    },
+    {
+      "id": "agama-107",
+      "question": "** Orang munafik akan memiliki hati yang rusak dan mati, hal ini dapat mengakibatkan...",
+      "options": {
+        "A": "Kehilangan harta",
+        "B": "Kecantikan fisik",
+        "C": "Ketidakmampuan menerima hidayah dan kebaikan",
+        "D": "Kerusakan pada fisik"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C."
+    },
+    {
+      "id": "agama-108",
+      "question": "** Pada saat bertemu Rasulullah Saw. dan kaum muslimin ia berbohong dengan cara menceritakan kejelekan orang orang kafir. Pada saat bertemu orang kafir ia mengaku bagian dari orang kafir dan menjelekjelekan kaum muslimin dan Rasulullah Saw. Pada saat bertemu kaum muslimin dan Rasulullah Saw., ia mengaku bagian dari kaum muslimin dan siap melawan kaum kafir quraisy. Tokoh munafik ini bernama....",
+      "options": {
+        "A": "Abdullah bin Umar",
+        "B": "Abdullah bin Jahsyi",
+        "C": "Abdullah bin Ubay",
+        "D": "Abu Jahal"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C."
+    },
+    {
+      "id": "agama-109",
+      "question": "** Perhatikan karakteristik manusia berikut!",
+      "options": {
+        "A": "1, 2, 3 dan 4",
+        "B": "1, 2, 4 dan 5",
+        "C": "2, 3, 4 dan 5",
+        "D": "2, 3 dan 4"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B."
+    },
+    {
+      "id": "agama-110",
+      "question": "** Menghitung warisan harus memahami apa yang disebut dengan *furudhul muqadarah*, yang artinya adalah ....",
+      "options": {
+        "A": "hak-hak waris para pewaris",
+        "B": "bagian-bagian tertentu dari waris waris",
+        "C": "ketentuan sebelum harta diwaris",
+        "D": "ketentuan pembagian harta warisan"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B."
+    },
+    {
+      "id": "agama-111",
+      "question": "** Kelompok penerima warisan, ada yang digolongkan ke dalam dzawil furudh, ada juga yang dari *ashabah*, menurut bahasa *ashabah* berarti ....",
+      "options": {
+        "A": "terhalang",
+        "B": "bertambah",
+        "C": "sisa harta",
+        "D": "harta yang rusak"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C."
+    },
+    {
+      "id": "agama-112",
+      "question": "** Dekat tidaknya ahli waris, menentukan hak waris yang diperoleh. Berikut ini ahli waris yang tidak pernah hilang hak warisnya adalah ....",
+      "options": {
+        "A": "saudara laki-laki dan perempuan",
+        "B": "anak laki-laki dan perempuan",
+        "C": "ayah dan ibu",
+        "D": "cucu laki-laki dan perempuan"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B."
+    },
+    {
+      "id": "agama-113",
+      "question": "** Setiap ahli waris memiliki bagian yang berbeda tergantung dekat tidaknya dengan yang meninggal. Dan ahli waris yang mendapat bagian $2/3$ adalah",
+      "options": {
+        "A": "anak perempuan lebih dari satu",
+        "B": "cucu laki laki lebih dari satu",
+        "C": "anak perempuan tunggal",
+        "D": "suami apabila tidak ada anak"
+      },
+      "answer": "A",
+      "explanation": "Jawaban benar adalah A."
     },
     {
       "id": "agama-114",
-      "question": "Perhatikanlan Q.S.an-Nisa'/4:7 di bawah ini! لِلرِّجَالِ نَصِيْبٌ مِّمَّا تَرَكَ الْوَالِدٰنِ وَالْاَقْرَبُوْنَ وَلِلنِّسَاۤءِ نَصِيْبٌ مِّمَّا تَرَكَ الْوَالِدٰنِ وَالْاَقْرَبُوْنَ مِمَّا قَلَّ مِنْهُ اَوْ كَثُرَ ۗ **نَصِيْبًا مَّفْرُوْضًا** Terjemahan yang tepat untuk kalimat yang di beri garis bawah adalah",
+      "question": "** Kedekatan nasab, sangat memberi arti tentang bagian yang diterima. Salah satu ahli berikut ini yang termasuk ashabah binnafsi adalah . . . .",
+      "options": {
+        "A": "istri",
+        "B": "suami",
+        "C": "saudara laki-laki sekandung",
+        "D": "anak perempuan"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C."
+    },
+    {
+      "id": "agama-115",
+      "question": "** Perhatikanlan Q.S.an-Nisa'/4:7 di bawah ini!",
       "options": {
         "A": "baik sedikit atau banyak menurut bahagian yang telah ditetapkan",
         "B": "dari harta peninggalan ibu-bapak dan kerabat-kerabatnya",
@@ -1992,7 +2184,31 @@
         "D": "dan bagi seorang wanita ada hak bagian (pula)"
       },
       "answer": "A",
-      "explanation": "Jawaban benar adalah A. baik sedikit atau banyak menurut bahagian yang telah ditetapkan"
+      "explanation": "Jawaban benar adalah A."
+    },
+    {
+      "id": "agama-116",
+      "question": "** Pendiri Pakistan Philosophical Congress, juga editor History of Muslim Phylosophy, salah satu buku terbaik untuk sejarah filsafat saat ini adalah....",
+      "options": {
+        "A": "Muhammad Iqbal",
+        "B": "Abu A'lā al Maududi",
+        "C": "M. M. Syarif",
+        "D": "Fazlur Rahman"
+      },
+      "answer": "C",
+      "explanation": "Jawaban benar adalah C."
+    },
+    {
+      "id": "agama-117",
+      "question": "** Masa ekspansi kekhalifahan Turki Usmani sekitar abad ke-14 dan ke15 ke wilayah Balkan dan Eropa Tengah. Akibat ekspansi itu sampai sekarang terdapat kaum Muslim keturunan Turki di Yugoslavia, Rumania, Yunani, Bosnia Herzegovina, dan di Albania. Di antara negara tersebut yang mayoritas muslim adalah ....",
+      "options": {
+        "A": "Yugoslavia",
+        "B": "Albania",
+        "C": "Bosnia",
+        "D": "Rumania"
+      },
+      "answer": "B",
+      "explanation": "Jawaban benar adalah B."
     }
   ],
   "bing": [],

@@ -513,6 +513,12 @@ els.btnNext.addEventListener('click', () => {
   }
 });
 
+document.getElementById('btn-kembali-mapel').addEventListener('click', () => {
+  clearTimeout(autoAdvanceTimer);
+  clearState();
+  showPage('mapel');
+});
+
 // Toggle menu lompat soal (buka/tutup)
 document.getElementById('btn-toggle-chips').addEventListener('click', () => {
   const wrap = document.getElementById('chips-wrap');
