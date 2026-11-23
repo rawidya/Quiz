@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" width="220" height="220" style="background:#fff;font-family:sans-serif;font-size:11px">
+  <g stroke="#e5e7eb" stroke-width="1">
+    <line x1="2" y1="15" x2="2" y2="205"/>
+    <line x1="20" y1="15" x2="20" y2="205"/>
+    <line x1="38" y1="15" x2="38" y2="205"/>
+    <line x1="56" y1="15" x2="56" y2="205"/>
+    <line x1="74" y1="15" x2="74" y2="205"/>
+    <line x1="92" y1="15" x2="92" y2="205"/>
+    <line x1="110" y1="15" x2="110" y2="205"/>
+    <line x1="128" y1="15" x2="128" y2="205"/>
+    <line x1="146" y1="15" x2="146" y2="205"/>
+    <line x1="164" y1="15" x2="164" y2="205"/>
+    <line x1="182" y1="15" x2="182" y2="205"/>
+    <line x1="200" y1="15" x2="200" y2="205"/>
+    <line x1="218" y1="15" x2="218" y2="205"/>
+    <line x1="15" y1="12" x2="205" y2="12"/>
+    <line x1="15" y1="30" x2="205" y2="30"/>
+    <line x1="15" y1="48" x2="205" y2="48"/>
+    <line x1="15" y1="66" x2="205" y2="66"/>
+    <line x1="15" y1="84" x2="205" y2="84"/>
+    <line x1="15" y1="102" x2="205" y2="102"/>
+    <line x1="15" y1="120" x2="205" y2="120"/>
+    <line x1="15" y1="138" x2="205" y2="138"/>
+    <line x1="15" y1="156" x2="205" y2="156"/>
+    <line x1="15" y1="174" x2="205" y2="174"/>
+    <line x1="15" y1="192" x2="205" y2="192"/>
+    <line x1="15" y1="210" x2="205" y2="210"/>
+  </g>
+  <line x1="15" y1="120" x2="205" y2="120" stroke="#111" stroke-width="1.5"/>
+  <line x1="110" y1="15" x2="110" y2="205" stroke="#111" stroke-width="1.5"/>
+  <polygon points="205,120 198,116 198,124" fill="#111"/>
+  <polygon points="110,15 106,22 114,22" fill="#111"/>
+  <text x="208" y="124" font-weight="bold">X</text>
+  <text x="115" y="14" font-weight="bold">Y</text>
+  <text x="70" y="133" fill="#333">-2</text>
+  <text x="115" y="88" fill="#333">2</text>
+  <line x1="56" y1="138" x2="146" y2="48" stroke="#2563eb" stroke-width="2.2"/>
+  <circle cx="74" cy="120" r="3" fill="#111"/><circle cx="110" cy="84" r="3" fill="#111"/>
+</svg>

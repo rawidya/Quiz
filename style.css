@@ -419,7 +419,47 @@ body.light .q-total {
   font-weight: 700;
   margin: 6px 0 22px 0;
   line-height: 1.45;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: normal;
 }
+
+/* Wacana / bacaan pelengkap di atas pertanyaan */
+.question-wacana {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0 0 14px 0;
+  padding: 12px 16px;
+  border-left: 4px solid #d4af37;
+  background: #0f0f0f;
+  border: 1px solid #1f1f1f;
+  border-radius: 12px;
+  color: #c2c6cc;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: normal;
+}
+body.light .question-wacana {
+  background: #f7f7f5;
+  border-color: #e0e0e0;
+  color: #555555;
+}
+
+/* Gambar soal di atas pertanyaan */
+.question-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 16px auto;
+  border-radius: 12px;
+  border: 1px solid #1f1f1f;
+  background: #0f0f0f;
+}
+body.light .question-image {
+  border-color: #e0e0e0;
+  background: #ffffff;
+}
+.question-image.hidden { display: none !important; }
 
 .options {
   display: grid;
@@ -449,6 +489,33 @@ body.light .option {
   background: #f7f7f5;
   border-color: #d9d9d9;
   color: #1a1a1a;
+}
+.option.selected {
+  background: #1a1a1a;
+  border-color: #d4af37;
+}
+body.light .option.selected {
+  background: #faf9f4;
+  border-color: #d4af37;
+}
+.option-img {
+  display: block;
+  max-width: 100%;
+  max-height: 200px;
+  height: auto;
+  margin: 6px auto 0 auto;
+  border-radius: 10px;
+  border: 1px solid #1f1f1f;
+  background: #070707;
+}
+body.light .option-img {
+  border-color: #e0e0e0;
+  background: #ffffff;
+}
+.option-content {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: normal;
 }
 .option .letter {
   width: 26px;

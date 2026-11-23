@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Quiz Interaktif</title>
   <link rel="stylesheet" href="style.css">
+  <!-- KaTeX untuk ekspresi matematika ($ ... $ dan $$ ... $$) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
 </head>
 <body>
 
@@ -101,6 +104,10 @@
         </div>
       </div>
 
+      <div class="question-wacana hidden" id="question-wacana"></div>
+
+      <img class="question-image hidden" id="question-image" alt="Ilustrasi soal">
+
       <div class="question-text" id="question-text">Pertanyaan akan muncul di sini.</div>
 
       <div class="options" id="options">
@@ -140,7 +147,7 @@
     </div>
   </section>
 
-  <script src="script.js"></script>
+  <script defer src="script.js"></script>
   <footer>By Param Love Andin</footer>
 </body>
 </html>

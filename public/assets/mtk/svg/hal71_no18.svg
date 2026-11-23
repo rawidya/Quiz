@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" style="background:#fff;font-family:sans-serif;font-size:12px">
+  <!-- Juring seperempat lingkaran pusat (40, 200), r = 150 -->
+  <path d="M 40 200 L 40 50 A 150 150 0 0 1 190 200 Z" fill="#cbd5e1" stroke="#111" stroke-width="2"/>
+  <!-- Persegi di dalam juring (sisi = 150 / sqrt(2) = 106.06) -->
+  <rect x="40" y="93.9" width="106.1" height="106.1" fill="#fff" stroke="#111" stroke-width="1.8"/>
+  <!-- Tanda siku-siku -->
+  <polyline points="40,186 54,186 54,200" fill="none" stroke="#111" stroke-width="1.5"/>
+  <text x="102" y="216" font-weight="bold">14 cm</text>
+</svg>

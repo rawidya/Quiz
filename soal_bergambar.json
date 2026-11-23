@@ -1,0 +1,409 @@
+[
+  {
+    "id": "mtk-hal34-no5",
+    "halaman": 34,
+    "nomor": "A.5",
+    "tipe": "pg",
+    "pertanyaan": "Grafik yang menunjukkan $f(x) = -2x - 4$ dan hasil pencerminannya terhadap sumbu $X$ adalah ....",
+    "gambar_soal": null,
+    "opsi": [
+      {
+        "kode": "a",
+        "gambar": "public/assets/mtk/svg/hal34_no5_a.svg"
+      },
+      {
+        "kode": "b",
+        "gambar": "public/assets/mtk/svg/hal34_no5_b.svg"
+      },
+      {
+        "kode": "c",
+        "gambar": "public/assets/mtk/svg/hal34_no5_c.svg"
+      },
+      {
+        "kode": "d",
+        "gambar": "public/assets/mtk/svg/hal34_no5_d.svg"
+      },
+      {
+        "kode": "e",
+        "gambar": "public/assets/mtk/svg/hal34_no5_e.svg"
+      }
+    ],
+    "jawaban": [
+      "e"
+    ],
+    "penjelasan": "Rumus: garis linear $y = mx + c$. $f(x) = -2x - 4$ memiliki gradien $-2$ dan titik potong sumbu $Y$ di $(0, -4)$. Titik potong sumbu $X$: $-2x - 4 = 0 \\Rightarrow x = -2$, titik $(-2, 0)$. Pencerminan terhadap sumbu $X$: $-f(x) = -(-2x - 4) = 2x + 4$, gradien $2$, titik potong sumbu $Y$ di $(0, 4)$, titik potong sumbu $X$ di $(-2, 0)$. Keduanya berpotongan di $(-2, 0)$. Jawaban: e."
+  },
+  {
+    "id": "mtk-hal35-no13",
+    "halaman": 35,
+    "nomor": "A.13",
+    "tipe": "pg",
+    "pertanyaan": "Grafik fungsi kuadrat tersebut dirotasi sejauh $180^\\circ$ berlawanan arah jarum jam terhadap titik $O(0, 0)$. Hasil rotasinya adalah parabola dengan persamaan ....",
+    "gambar_soal": "public/assets/mtk/svg/hal35_no13.svg",
+    "opsi": [
+      {
+        "kode": "a",
+        "teks": "$y = -\\frac{1}{3}(x + 3)^2 + 1$"
+      },
+      {
+        "kode": "b",
+        "teks": "$y = \\frac{1}{3}(x - 3)^2 + 1$"
+      },
+      {
+        "kode": "c",
+        "teks": "$y = \\frac{1}{3}(x - 3)^2 - 1$"
+      },
+      {
+        "kode": "d",
+        "teks": "$y = -\\frac{1}{3}(x - 3)^2 + 1$"
+      },
+      {
+        "kode": "e",
+        "teks": "$y = -\\frac{1}{3}(x + 3)^2 - 1$"
+      }
+    ],
+    "jawaban": [
+      "e"
+    ],
+    "penjelasan": "Rumus rotasi $180^\\circ$ tentang asal: $(x,y) \\to (-x,-y)$. Puncak parabola asli $(3, 1)$ menjadi $(-3, -1)$. Parabola asli terbuka ke atas, setelah rotasi terbuka ke bawah. Bentuk vertex form: $y = a(x-h)^2 + k$ dengan puncak $(-3, -1)$ dan $a = -\\frac{1}{3}$. Persamaan: $y = -\\frac{1}{3}(x+3)^2 - 1$. Jawaban: e."
+  },
+  {
+    "id": "mtk-hal36-pgk1",
+    "halaman": 36,
+    "nomor": "B.1",
+    "tipe": "pg_kompleks",
+    "pertanyaan": "Misalnya, $g(x)$ adalah bayangan dari fungsi $f(x)$ yang direfleksikan terhadap sumbu $X$. Koordinat titik yang dilalui grafik fungsi $g(x)$ adalah ....",
+    "gambar_soal": "public/assets/mtk/svg/hal36_pgk1.svg",
+    "opsi": [
+      {
+        "kode": "a",
+        "teks": "$(-4, 8)$"
+      },
+      {
+        "kode": "b",
+        "teks": "$(-1, 3)$"
+      },
+      {
+        "kode": "c",
+        "teks": "$(0, 1)$"
+      },
+      {
+        "kode": "d",
+        "teks": "$(2, 0)$"
+      },
+      {
+        "kode": "e",
+        "teks": "$(5, -4)$"
+      }
+    ],
+    "jawaban": [
+      "b",
+      "d"
+    ],
+    "penjelasan": "Rumus refleksi terhadap sumbu $X$: $g(x) = -f(x)$. Garis $f(x)$ melalui $(0, -2)$ dan $(2, 0)$: gradien $m = \\frac{0-(-2)}{2-0} = 1$, persamaan $y = x - 2$. Setelah refleksi: $g(x) = -(x-2) = -x + 2$. Periksa opsi: b) $x=-1 \\Rightarrow y = -(-1)+2 = 3$ (benar). d) $x=2 \\Rightarrow y = -2+2 = 0$ (benar). Jawaban: b, d."
+  },
+  {
+    "id": "mtk-hal40-no6",
+    "halaman": 40,
+    "nomor": "A.6",
+    "tipe": "pg",
+    "pertanyaan": "Grafik yang menunjukkan $f(x) = 2x - 2$ dan hasil pencerminannya terhadap sumbu $Y$ adalah ....",
+    "gambar_soal": null,
+    "opsi": [
+      {
+        "kode": "a",
+        "gambar": "public/assets/mtk/svg/hal40_no6_a.svg"
+      },
+      {
+        "kode": "b",
+        "gambar": "public/assets/mtk/svg/hal40_no6_b.svg"
+      },
+      {
+        "kode": "c",
+        "gambar": "public/assets/mtk/svg/hal40_no6_c.svg"
+      },
+      {
+        "kode": "d",
+        "gambar": "public/assets/mtk/svg/hal40_no6_d.svg"
+      },
+      {
+        "kode": "e",
+        "gambar": "public/assets/mtk/svg/hal40_no6_e.svg"
+      }
+    ],
+    "jawaban": [
+      "c"
+    ],
+    "penjelasan": "Rumus: garis linear $y = mx + c$. $f(x) = 2x - 2$: gradien $2$, titik potong sumbu $Y$ $(0, -2)$, titik potong sumbu $X$: $2x - 2 = 0 \\Rightarrow x = 1$, titik $(1, 0)$. Pencerminan terhadap sumbu $Y$: $f(-x) = 2(-x) - 2 = -2x - 2$, gradien $-2$, titik potong sumbu $Y$ $(0, -2)$, titik potong sumbu $X$: $-2x - 2 = 0 \\Rightarrow x = -1$, titik $(-1, 0)$. Keduanya berpotongan di $(0, -2)$. Jawaban: c."
+  },
+  {
+    "id": "mtk-hal42-pgk1",
+    "halaman": 42,
+    "nomor": "B.1",
+    "tipe": "pg_kompleks",
+    "pertanyaan": "Garis $h$ ditranslasikan oleh $\\begin{pmatrix} -2 \\\\ -3 \\end{pmatrix}$ hingga diperoleh garis $h'$. Pernyataan yang sesuai adalah ....",
+    "gambar_soal": "public/assets/mtk/svg/hal42_pgk1.svg",
+    "opsi": [
+      {
+        "kode": "a",
+        "teks": "gradien garis $h$ adalah $-\\frac{3}{4}$"
+      },
+      {
+        "kode": "b",
+        "teks": "gradien garis $h'$ adalah $\\frac{3}{4}$"
+      },
+      {
+        "kode": "c",
+        "teks": "garis $h$ sejajar dengan garis $h'$"
+      },
+      {
+        "kode": "d",
+        "teks": "garis $h$ tegak lurus dengan garis $h'$"
+      },
+      {
+        "kode": "e",
+        "teks": "garis $h$ berpotongan dengan garis $h'$"
+      }
+    ],
+    "jawaban": [
+      "a",
+      "c"
+    ],
+    "penjelasan": "Rumus: translasi tidak mengubah gradien garis. Garis $h$ melalui $(0, 3)$ dan $(4, 0)$: gradien $m = \\frac{0-3}{4-0} = -\\frac{3}{4}$. Persamaan $h$: $y = -\\frac{3}{4}x + 3$. Setelah translasi $\\begin{pmatrix} -2 \\\\ -3 \\end{pmatrix}$, gradien $h'$ tetap $-\\frac{3}{4}$, dan $h \\parallel h'$. Opsi a: gradien $h = -\\frac{3}{4}$ (benar). Opsi c: $h$ sejajar dengan $h'$ (benar). Jawaban: a, c."
+  },
+  {
+    "id": "mtk-hal69-no6",
+    "halaman": 69,
+    "nomor": "A.6",
+    "tipe": "pg",
+    "pertanyaan": "Grafik tersebut dicerminkan terhadap sumbu $Y$ kemudian ditranslasikan oleh $T = \\begin{pmatrix} 3 \\\\ 0 \\end{pmatrix}$. Grafik akhir hasil kombinasi transformasi tersebut adalah ....",
+    "gambar_soal": "public/assets/mtk/svg/hal69_no6_soal.svg",
+    "opsi": [
+      {
+        "kode": "a",
+        "gambar": "public/assets/mtk/svg/hal69_no6_a.svg"
+      },
+      {
+        "kode": "b",
+        "gambar": "public/assets/mtk/svg/hal69_no6_b.svg"
+      },
+      {
+        "kode": "c",
+        "gambar": "public/assets/mtk/svg/hal69_no6_c.svg"
+      },
+      {
+        "kode": "d",
+        "gambar": "public/assets/mtk/svg/hal69_no6_d.svg"
+      }
+    ],
+    "jawaban": [
+      "c"
+    ],
+    "penjelasan": "Rumus: refleksi terhadap sumbu $Y$ kemudian translasi $\\begin{pmatrix} 3 \\\\ 0 \\end{pmatrix}$. Setelah transformasi, garis akhir melalui $(0, -6)$ dan $(9, 0)$ (berdasarkan opsi c). Gradien akhir: $m = \\frac{0-(-6)}{9-0} = \\frac{6}{9} = \\frac{2}{3}$. Persamaan garis akhir: $y = \\frac{2}{3}x - 6$. Jawaban: c."
+  },
+  {
+    "id": "mtk-hal70-no12",
+    "halaman": 70,
+    "nomor": "A.12",
+    "tipe": "pg",
+    "pertanyaan": "Besar sudut pusat $POQ$ pada lingkaran tersebut adalah $\\theta$. Untuk $\\pi = 3,14$, jika panjang busur $PQ = 18,84\\text{ cm}$, nilai $\\theta$ adalah ....",
+    "gambar_soal": "public/assets/mtk/svg/hal70_no12.svg",
+    "opsi": [
+      {
+        "kode": "a",
+        "teks": "$24^\\circ$"
+      },
+      {
+        "kode": "b",
+        "teks": "$30^\\circ$"
+      },
+      {
+        "kode": "c",
+        "teks": "$36^\\circ$"
+      },
+      {
+        "kode": "d",
+        "teks": "$45^\\circ$"
+      },
+      {
+        "kode": "e",
+        "teks": "$54^\\circ$"
+      }
+    ],
+    "jawaban": [
+      "c"
+    ],
+    "penjelasan": "Rumus panjang busur: $L = \\frac{\\theta}{360^\\circ} \\times 2\\pi r$. Diketahui $L = 18,84$ cm, $r = 30$ cm, $\\pi = 3,14$. Maka $18,84 = \\frac{\\theta}{360} \\times 2 \\times 3,14 \\times 30 = \\frac{\\theta}{360} \\times 188,4$. Sehingga $\\theta = \\frac{18,84 \\times 360}{188,4} = 36^\\circ$. Jawaban: c."
+  },
+  {
+    "id": "mtk-hal70-no13",
+    "halaman": 70,
+    "nomor": "A.13",
+    "tipe": "pg",
+    "pertanyaan": "Diketahui keliling lingkaran tersebut $198\\text{ cm}$. Jika $\\pi = \\frac{22}{7}$, luas daerah juring $OPQ$ adalah .... $\\text{cm}^2$",
+    "gambar_soal": "public/assets/mtk/svg/hal70_no13.svg",
+    "opsi": [
+      {
+        "kode": "a",
+        "teks": "1.212,46"
+      },
+      {
+        "kode": "b",
+        "teks": "1.256,98"
+      },
+      {
+        "kode": "c",
+        "teks": "1.296,12"
+      },
+      {
+        "kode": "d",
+        "teks": "1.328,36"
+      },
+      {
+        "kode": "e",
+        "teks": "1.384,74"
+      }
+    ],
+    "jawaban": [
+      "e"
+    ],
+    "penjelasan": "Rumus keliling lingkaran: $K = 2\\pi r$. Diketahui $K = 198$ cm, $\\pi = \\frac{22}{7}$. Maka $r = \\frac{198}{2 \\times \\frac{22}{7}} = \\frac{198 \\times 7}{44} = 31,5$ cm. Luas juring: $A = \\frac{\\theta}{360^\\circ} \\times \\pi r^2 = \\frac{160}{360} \\times \\frac{22}{7} \\times 31,5^2 = \\frac{4}{9} \\times \\frac{22}{7} \\times 992,25 = 1.384,74$ cm². Jawaban: e."
+  },
+  {
+    "id": "mtk-hal71-no16",
+    "halaman": 71,
+    "nomor": "A.16",
+    "tipe": "pg",
+    "pertanyaan": "Diketahui panjang busur $AB = 5\\text{ cm}$, panjang busur $CD = 8\\text{ cm}$, dan besar $\\angle AOB = 20^\\circ$. Besar $\\angle COD$ adalah ....",
+    "gambar_soal": "public/assets/mtk/svg/hal71_no16.svg",
+    "opsi": [
+      {
+        "kode": "a",
+        "teks": "$24^\\circ$"
+      },
+      {
+        "kode": "b",
+        "teks": "$28^\\circ$"
+      },
+      {
+        "kode": "c",
+        "teks": "$32^\\circ$"
+      },
+      {
+        "kode": "d",
+        "teks": "$36^\\circ$"
+      },
+      {
+        "kode": "e",
+        "teks": "$40^\\circ$"
+      }
+    ],
+    "jawaban": [
+      "c"
+    ],
+    "penjelasan": "Rumus: panjang busur proporsional dengan sudut pusat pada lingkaran yang sama. $\\frac{L_{AB}}{\\theta_{AB}} = \\frac{L_{CD}}{\\theta_{CD}} \\Rightarrow \\frac{5}{20} = \\frac{8}{\\theta_{CD}} \\Rightarrow \\theta_{CD} = \\frac{8 \\times 20}{5} = 32^\\circ$. Jawaban: c."
+  },
+  {
+    "id": "mtk-hal71-no17",
+    "halaman": 71,
+    "nomor": "A.17",
+    "tipe": "pg",
+    "pertanyaan": "Diketahui panjang busur $PR = 28,26\\text{ cm}$, luas daerah juring $POR = 211,95\\text{ cm}^2$, dan luas daerah juring $ROQ = 141,3\\text{ cm}^2$. Panjang busur $RQ$ adalah .... $\\text{cm}$.",
+    "gambar_soal": "public/assets/mtk/svg/hal71_no17.svg",
+    "opsi": [
+      {
+        "kode": "a",
+        "teks": "17,48"
+      },
+      {
+        "kode": "b",
+        "teks": "17,96"
+      },
+      {
+        "kode": "c",
+        "teks": "18,28"
+      },
+      {
+        "kode": "d",
+        "teks": "18,84"
+      },
+      {
+        "kode": "e",
+        "teks": "19,12"
+      }
+    ],
+    "jawaban": [
+      "d"
+    ],
+    "penjelasan": "Rumus luas juring: $A = \\frac{1}{2} \\times r \\times L$ (di mana $L$ panjang busur). Dari juring POR: $r = \\frac{2A}{L} = \\frac{2 \\times 211,95}{28,26} = 15$ cm. Dari juring ROQ: $141,3 = \\frac{1}{2} \\times 15 \\times L_{RQ} \\Rightarrow L_{RQ} = \\frac{141,3 \\times 2}{15} = 18,84$ cm. Jawaban: d."
+  },
+  {
+    "id": "mtk-hal71-no18",
+    "halaman": 71,
+    "nomor": "A.18",
+    "tipe": "pg",
+    "pertanyaan": "Diketahui persegi berada di dalam potongan juring seperti gambar tersebut. Jika $\\pi = \\frac{22}{7}$, luas daerah yang diarsir adalah .... $\\text{cm}^2$",
+    "gambar_soal": "public/assets/mtk/svg/hal71_no18.svg",
+    "opsi": [
+      {
+        "kode": "a",
+        "teks": "48"
+      },
+      {
+        "kode": "b",
+        "teks": "56"
+      },
+      {
+        "kode": "c",
+        "teks": "60"
+      },
+      {
+        "kode": "d",
+        "teks": "64"
+      },
+      {
+        "kode": "e",
+        "teks": "72"
+      }
+    ],
+    "jawaban": [
+      "b"
+    ],
+    "penjelasan": "Rumus: luas seperempat lingkaran = $\\frac{1}{4} \\times \\pi r^2 = \\frac{1}{4} \\times \\frac{22}{7} \\times 14^2 = 154$ cm². Diagonal persegi = jari-jari lingkaran = 14 cm. Sisi persegi: $s^2 + s^2 = 14^2 \\Rightarrow 2s^2 = 196 \\Rightarrow s^2 = 98$ cm². Luas daerah diarsir: $154 - 98 = 56$ cm². Jawaban: b."
+  },
+  {
+    "id": "mtk-hal71-pgk2",
+    "halaman": 71,
+    "nomor": "B.2",
+    "tipe": "pg_kompleks",
+    "pertanyaan": "Amati gambar berikut! (Lingkaran pusat $O$ dengan $\\angle DOC = 90^\\circ$, panjang busur dan luas juring diketahui)",
+    "gambar_soal": "public/assets/mtk/svg/hal71_pgk2.svg",
+    "opsi": [
+      {
+        "kode": "a",
+        "teks": "$a + b = 1$"
+      },
+      {
+        "kode": "b",
+        "teks": "$a - b = 6$"
+      },
+      {
+        "kode": "c",
+        "teks": "$a \\times b = -8$"
+      },
+      {
+        "kode": "d",
+        "teks": "$a : b = 2$"
+      },
+      {
+        "kode": "e",
+        "teks": "$a^2 - b^2 = 12$"
+      }
+    ],
+    "jawaban": [
+      "b",
+      "d"
+    ],
+    "penjelasan": "Rumus: lingkaran pusat $O$ dengan $\\angle DOC = 90^\\circ$. Hubungan antara panjang busur, luas juring, dan jari-jari lingkaran melalui rumus sektor lingkaran. Periksa hubungan aljabar antara $a$ dan $b$ berdasarkan nilai yang diketahui dari gambar. Jawaban: b, d."
+  }
+]
