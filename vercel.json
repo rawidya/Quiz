@@ -1,5 +1,33 @@
 {
   "rewrites": [
+    { "source": "/style.css", "destination": "/style.css" },
+    { "source": "/script.js", "destination": "/script.js" },
+    { "source": "/foto.jpg", "destination": "/foto.jpg" },
+    { "source": "/public/data/soal.json", "destination": "/public/data/soal.json" },
+    { "source": "/public/assets/mtk/svg/hal34_no5_a.svg", "destination": "/public/assets/mtk/svg/hal34_no5_a.svg" },
+    { "source": "/public/assets/mtk/svg/hal34_no5_b.svg", "destination": "/public/assets/mtk/svg/hal34_no5_b.svg" },
+    { "source": "/public/assets/mtk/svg/hal34_no5_c.svg", "destination": "/public/assets/mtk/svg/hal34_no5_c.svg" },
+    { "source": "/public/assets/mtk/svg/hal34_no5_d.svg", "destination": "/public/assets/mtk/svg/hal34_no5_d.svg" },
+    { "source": "/public/assets/mtk/svg/hal34_no5_e.svg", "destination": "/public/assets/mtk/svg/hal34_no5_e.svg" },
+    { "source": "/public/assets/mtk/svg/hal35_no13.svg", "destination": "/public/assets/mtk/svg/hal35_no13.svg" },
+    { "source": "/public/assets/mtk/svg/hal36_pgk1.svg", "destination": "/public/assets/mtk/svg/hal36_pgk1.svg" },
+    { "source": "/public/assets/mtk/svg/hal40_no6_a.svg", "destination": "/public/assets/mtk/svg/hal40_no6_a.svg" },
+    { "source": "/public/assets/mtk/svg/hal40_no6_b.svg", "destination": "/public/assets/mtk/svg/hal40_no6_b.svg" },
+    { "source": "/public/assets/mtk/svg/hal40_no6_c.svg", "destination": "/public/assets/mtk/svg/hal40_no6_c.svg" },
+    { "source": "/public/assets/mtk/svg/hal40_no6_d.svg", "destination": "/public/assets/mtk/svg/hal40_no6_d.svg" },
+    { "source": "/public/assets/mtk/svg/hal40_no6_e.svg", "destination": "/public/assets/mtk/svg/hal40_no6_e.svg" },
+    { "source": "/public/assets/mtk/svg/hal42_pgk1.svg", "destination": "/public/assets/mtk/svg/hal42_pgk1.svg" },
+    { "source": "/public/assets/mtk/svg/hal69_no6_a.svg", "destination": "/public/assets/mtk/svg/hal69_no6_a.svg" },
+    { "source": "/public/assets/mtk/svg/hal69_no6_b.svg", "destination": "/public/assets/mtk/svg/hal69_no6_b.svg" },
+    { "source": "/public/assets/mtk/svg/hal69_no6_c.svg", "destination": "/public/assets/mtk/svg/hal69_no6_c.svg" },
+    { "source": "/public/assets/mtk/svg/hal69_no6_d.svg", "destination": "/public/assets/mtk/svg/hal69_no6_d.svg" },
+    { "source": "/public/assets/mtk/svg/hal69_no6_soal.svg", "destination": "/public/assets/mtk/svg/hal69_no6_soal.svg" },
+    { "source": "/public/assets/mtk/svg/hal70_no12.svg", "destination": "/public/assets/mtk/svg/hal70_no12.svg" },
+    { "source": "/public/assets/mtk/svg/hal70_no13.svg", "destination": "/public/assets/mtk/svg/hal70_no13.svg" },
+    { "source": "/public/assets/mtk/svg/hal71_no16.svg", "destination": "/public/assets/mtk/svg/hal71_no16.svg" },
+    { "source": "/public/assets/mtk/svg/hal71_no17.svg", "destination": "/public/assets/mtk/svg/hal71_no17.svg" },
+    { "source": "/public/assets/mtk/svg/hal71_no18.svg", "destination": "/public/assets/mtk/svg/hal71_no18.svg" },
+    { "source": "/public/assets/mtk/svg/hal71_pgk2.svg", "destination": "/public/assets/mtk/svg/hal71_pgk2.svg" },
     { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
