@@ -1732,7 +1732,7 @@
     },
     {
       "id": "agama-78",
-      "question": "** Perhatikan pernyataan-pernyataan berikut ini!",
+      "question": "** Perhatikan pernyataan-pernyataan berikut ini!\n1) Anak perempuan, jika ia sendiri tanpa saudara-saudaranya.\n2) Suami, jika istrinya yang meninggal itu mempunyai anak.\n3) Cucu perempuan dari anak laki-laki, jika tidak ada anak perempuan.\n4) Nenek, jika ibu dari si mayat tidak ada.\n5) Saudara perempuan yang seibu sebapak sendirian.\nKelompok \"ahli waris dengan bagian tertentu\" yang mendapatkan ½ dari harta pusaka ditunjukkan oleh nomor",
       "options": {
         "A": "1), 2), dan 3)",
         "B": "2), 4), dan 5)",
@@ -1740,7 +1740,7 @@
         "D": "1), 3), dan 5)"
       },
       "answer": "D",
-      "explanation": "Jawaban benar adalah D."
+      "explanation": "Jawaban benar adalah D. Anak perempuan tunggal (1), cucu perempuan dari anak laki-laki tanpa anak perempuan (3), dan saudara perempuan tunggal seibu sebapak (5) masing-masing mendapat bagian ½ dari harta pusaka."
     },
     {
       "id": "agama-79",
